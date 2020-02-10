@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-10T02:26:32.410Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36" etag="4Hwj4__ZuaruazwFrOvO" version="12.6.6" type="github" pages="5">
+<mxfile host="www.draw.io" modified="2020-02-10T02:29:38.854Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36" etag="uPGccSN4C31UOWNPJsbP" version="12.6.6" type="github" pages="5">
   <diagram id="bmIHbWpj6wyBpZr6wWHN" name="Page-1">
     <mxGraphModel dx="1026" dy="470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -466,6 +466,9 @@
         <mxCell id="lUOUvLr6qpLYrOYfh7GR-15" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;BarcodeElement&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" parent="lUOUvLr6qpLYrOYfh7GR-1" vertex="1">
           <mxGeometry x="715" y="-640" width="140" height="60" as="geometry"/>
         </mxCell>
+        <mxCell id="NJWnOCNBDBp2vRUX-8W3-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="lUOUvLr6qpLYrOYfh7GR-1" source="lUOUvLr6qpLYrOYfh7GR-16" target="NJWnOCNBDBp2vRUX-8W3-6">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
         <mxCell id="lUOUvLr6qpLYrOYfh7GR-16" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;TTmDevice&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" parent="lUOUvLr6qpLYrOYfh7GR-1" vertex="1">
           <mxGeometry x="105" y="-840" width="140" height="60" as="geometry"/>
         </mxCell>
@@ -495,6 +498,9 @@
         </mxCell>
         <mxCell id="fW4hpfUNykIKoCrz3Wai-0" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;BaseElement&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" parent="lUOUvLr6qpLYrOYfh7GR-1" vertex="1">
           <mxGeometry x="520" y="-505" width="140" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="NJWnOCNBDBp2vRUX-8W3-6" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;TTmPageSetting&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="lUOUvLr6qpLYrOYfh7GR-1">
+          <mxGeometry x="105" y="-720" width="140" height="60" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
