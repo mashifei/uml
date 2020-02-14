@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-10T02:44:12.625Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36" etag="6A46agDL9wnDgaFLPEse" version="12.6.6" type="github" pages="5">
+<mxfile host="www.draw.io" modified="2020-02-14T02:38:58.975Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36" etag="bjJ7h6umSWOdKrPHofU9" version="12.6.6" type="github" pages="5">
   <diagram id="bmIHbWpj6wyBpZr6wWHN" name="Page-1">
     <mxGraphModel dx="1026" dy="470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -378,7 +378,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="EoOZ9CTwvacNsr_DeTet" name="类图">
-    <mxGraphModel dx="1613" dy="1639" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1853" dy="1639" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="lUOUvLr6qpLYrOYfh7GR-0"/>
         <mxCell id="lUOUvLr6qpLYrOYfh7GR-1" parent="lUOUvLr6qpLYrOYfh7GR-0"/>
@@ -425,7 +425,7 @@
         <mxCell id="lUOUvLr6qpLYrOYfh7GR-6" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;TTmRender&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" parent="lUOUvLr6qpLYrOYfh7GR-1" vertex="1">
           <mxGeometry x="305" y="-840" width="140" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="lUOUvLr6qpLYrOYfh7GR-11" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;TTmInvokerParameter&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" parent="lUOUvLr6qpLYrOYfh7GR-1" vertex="1">
+        <mxCell id="lUOUvLr6qpLYrOYfh7GR-11" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;TTmInvokerRequest&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" parent="lUOUvLr6qpLYrOYfh7GR-1" vertex="1">
           <mxGeometry x="510" y="-1030" width="140" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="lUOUvLr6qpLYrOYfh7GR-18" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;startArrow=diamondThin;startFill=0;entryX=0.312;entryY=1.028;entryDx=0;entryDy=0;entryPerimeter=0;" parent="lUOUvLr6qpLYrOYfh7GR-1" source="lUOUvLr6qpLYrOYfh7GR-13" target="8r5gumLQ6on6z1tSDHOJ-1" edge="1">
