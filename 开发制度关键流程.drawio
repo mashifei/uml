@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-04-01T09:10:59.954Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="-Ch1Z5YrUohVaAXzKtq-" version="12.9.6" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2020-04-01T09:28:57.561Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="ym3rSMRCAU6hYKNxixRU" version="12.9.6" type="github" pages="6">
   <diagram id="UoA-Zzfz1vhdeuAnnWxP" name="总体流程">
-    <mxGraphModel dx="1278" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -145,10 +145,10 @@
           <mxGeometry x="200" y="330" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="6SUkAWQsIGE4WXe0ET4C-15" value="开发阶段" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="cHoKzpRAT0axAUDO1nBq-1">
-          <mxGeometry x="490" y="685" width="120" height="60" as="geometry" />
+          <mxGeometry x="490" y="685" width="120" height="55" as="geometry" />
         </mxCell>
         <mxCell id="6SUkAWQsIGE4WXe0ET4C-16" value="项目/任务终止" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="cHoKzpRAT0axAUDO1nBq-1">
-          <mxGeometry x="180" y="705" width="120" height="60" as="geometry" />
+          <mxGeometry x="180" y="685" width="120" height="55" as="geometry" />
         </mxCell>
         <mxCell id="6SUkAWQsIGE4WXe0ET4C-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="cHoKzpRAT0axAUDO1nBq-1" source="6SUkAWQsIGE4WXe0ET4C-18" target="6SUkAWQsIGE4WXe0ET4C-1">
           <mxGeometry relative="1" as="geometry" />
@@ -191,7 +191,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="t_4Hjyr6zvlqlIlVrDBV-1" value="是否迭代&lt;br&gt;开发阶段" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="cHoKzpRAT0axAUDO1nBq-1">
+        <mxCell id="t_4Hjyr6zvlqlIlVrDBV-1" value="是否迭代&lt;br&gt;开发阶段" style="rhombus;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="cHoKzpRAT0axAUDO1nBq-1">
           <mxGeometry x="360" y="260" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
