@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-04-14T02:36:52.893Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.92 Safari/537.36" etag="9X1E5Vu1fKfBELCt1ZbD" version="12.9.11" type="github">
-  <diagram id="htmeLqwJ6XCEHbkCq5V3" name="Page-1">
-    <mxGraphModel dx="1503" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+<mxfile host="app.diagrams.net" modified="2020-04-14T05:41:15.039Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.92 Safari/537.36" etag="5Aqo7qRBGfTnBW4yOboT" version="12.9.11" type="github" pages="4">
+  <diagram id="htmeLqwJ6XCEHbkCq5V3" name="ETCP">
+    <mxGraphModel dx="1316" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -37,16 +37,13 @@
           <mxGeometry x="280" y="550" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="K_YEggPM4aeHbvqHOX8R-9" value="阿里云" style="html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="665" width="120" height="50" as="geometry" />
+          <mxGeometry x="275" y="655" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="K_YEggPM4aeHbvqHOX8R-11" value="工单系统" style="html=1;" vertex="1" parent="1">
           <mxGeometry x="158" y="90" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="K_YEggPM4aeHbvqHOX8R-13" value="钉钉小程序&lt;br&gt;（运维工具）" style="html=1;" vertex="1" parent="1">
           <mxGeometry x="289" y="90" width="105" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="K_YEggPM4aeHbvqHOX8R-17" value="京东云" style="html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="665" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="K_YEggPM4aeHbvqHOX8R-22" value="资源同步工具" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="410" y="564.5" width="80" height="20" as="geometry" />
@@ -117,6 +114,96 @@
         </mxCell>
         <mxCell id="K_YEggPM4aeHbvqHOX8R-21" value="对外接口/SDK" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="520" y="210" width="80" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="5QgLLwVbdsIYG4O5cvEK" name="KMS">
+    <mxGraphModel dx="1316" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="PpDHafNiyL68I6umukkp-0" />
+        <mxCell id="PpDHafNiyL68I6umukkp-1" parent="PpDHafNiyL68I6umukkp-0" />
+        <mxCell id="PpDHafNiyL68I6umukkp-2" value="KMS" style="html=1;rounded=0;shadow=0;glass=0;comic=0;" vertex="1" parent="PpDHafNiyL68I6umukkp-1">
+          <mxGeometry x="200" y="240" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PpDHafNiyL68I6umukkp-3" value="ERP" style="html=1;rounded=0;shadow=0;glass=0;comic=0;" vertex="1" parent="PpDHafNiyL68I6umukkp-1">
+          <mxGeometry x="200" y="340" width="110" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="gFnUPXPtEBFFPaZdCY6_" name="营销短信平台接口">
+    <mxGraphModel dx="1316" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="DFWdYMsiaJccO74qtto7-0" />
+        <mxCell id="DFWdYMsiaJccO74qtto7-1" parent="DFWdYMsiaJccO74qtto7-0" />
+        <mxCell id="DFWdYMsiaJccO74qtto7-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="DFWdYMsiaJccO74qtto7-1" source="DFWdYMsiaJccO74qtto7-2" target="DFWdYMsiaJccO74qtto7-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DFWdYMsiaJccO74qtto7-2" value="营销短信发送服务&lt;br&gt;（短信排队处理）" style="html=1;rounded=0;shadow=0;glass=0;comic=0;" vertex="1" parent="DFWdYMsiaJccO74qtto7-1">
+          <mxGeometry x="260" y="410" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DFWdYMsiaJccO74qtto7-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="DFWdYMsiaJccO74qtto7-1" source="DFWdYMsiaJccO74qtto7-3" target="DFWdYMsiaJccO74qtto7-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DFWdYMsiaJccO74qtto7-3" value="营销短信发送接口&lt;br&gt;(业务接口）" style="html=1;rounded=0;shadow=0;glass=0;comic=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="DFWdYMsiaJccO74qtto7-1">
+          <mxGeometry x="260" y="330" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DFWdYMsiaJccO74qtto7-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="DFWdYMsiaJccO74qtto7-1" source="DFWdYMsiaJccO74qtto7-4" target="DFWdYMsiaJccO74qtto7-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DFWdYMsiaJccO74qtto7-4" value="ERP客户&lt;br&gt;短信增值模块" style="html=1;rounded=0;shadow=0;glass=0;comic=0;" vertex="1" parent="DFWdYMsiaJccO74qtto7-1">
+          <mxGeometry x="260" y="250" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DFWdYMsiaJccO74qtto7-5" value="供应商短信系统接口" style="html=1;rounded=0;shadow=0;glass=0;comic=0;" vertex="1" parent="DFWdYMsiaJccO74qtto7-1">
+          <mxGeometry x="260" y="490" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4DNeg-_DK3da-7NKDDYb-0" value="营销短信接口" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;comic=0;fontStyle=1" vertex="1" parent="DFWdYMsiaJccO74qtto7-1">
+          <mxGeometry x="160" y="220" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4jwpKiOcU1eHWs44zcGY-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="DFWdYMsiaJccO74qtto7-1" source="4jwpKiOcU1eHWs44zcGY-1" target="4jwpKiOcU1eHWs44zcGY-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4jwpKiOcU1eHWs44zcGY-1" value="短信平台接口" style="html=1;rounded=0;shadow=0;glass=0;comic=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="DFWdYMsiaJccO74qtto7-1">
+          <mxGeometry x="530" y="330" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4jwpKiOcU1eHWs44zcGY-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="DFWdYMsiaJccO74qtto7-1" source="4jwpKiOcU1eHWs44zcGY-3" target="4jwpKiOcU1eHWs44zcGY-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4jwpKiOcU1eHWs44zcGY-3" value="官网/内部系统等&lt;br&gt;登录手机验证模块" style="html=1;rounded=0;shadow=0;glass=0;comic=0;" vertex="1" parent="DFWdYMsiaJccO74qtto7-1">
+          <mxGeometry x="530" y="250" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4jwpKiOcU1eHWs44zcGY-4" value="提供商短信系统接口" style="html=1;rounded=0;shadow=0;glass=0;comic=0;" vertex="1" parent="DFWdYMsiaJccO74qtto7-1">
+          <mxGeometry x="530" y="420" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4jwpKiOcU1eHWs44zcGY-5" value="短信平台接口" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;comic=0;fontStyle=1" vertex="1" parent="DFWdYMsiaJccO74qtto7-1">
+          <mxGeometry x="440" y="220" width="90" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="LbIHRcP8BVCzvJna3VSU" name="短信平台接口">
+    <mxGraphModel dx="1316" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="X-VthJi9Zw44JslO3lpB-0" />
+        <mxCell id="X-VthJi9Zw44JslO3lpB-1" parent="X-VthJi9Zw44JslO3lpB-0" />
+        <mxCell id="X-VthJi9Zw44JslO3lpB-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="X-VthJi9Zw44JslO3lpB-1" source="X-VthJi9Zw44JslO3lpB-2" target="X-VthJi9Zw44JslO3lpB-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X-VthJi9Zw44JslO3lpB-2" value="短信平台接口" style="html=1;rounded=0;shadow=0;glass=0;comic=0;" vertex="1" parent="X-VthJi9Zw44JslO3lpB-1">
+          <mxGeometry x="390" y="280" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="X-VthJi9Zw44JslO3lpB-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="X-VthJi9Zw44JslO3lpB-1" source="X-VthJi9Zw44JslO3lpB-3" target="X-VthJi9Zw44JslO3lpB-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X-VthJi9Zw44JslO3lpB-3" value="官网/内部系统等&lt;br&gt;登录手机验证模块" style="html=1;rounded=0;shadow=0;glass=0;comic=0;" vertex="1" parent="X-VthJi9Zw44JslO3lpB-1">
+          <mxGeometry x="390" y="200" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="X-VthJi9Zw44JslO3lpB-5" value="提供商短信系统接口" style="html=1;rounded=0;shadow=0;glass=0;comic=0;" vertex="1" parent="X-VthJi9Zw44JslO3lpB-1">
+          <mxGeometry x="390" y="370" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GFIQ1IEYq2oTTIP4VJea-0" value="短信平台" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;comic=0;fontStyle=1" vertex="1" parent="X-VthJi9Zw44JslO3lpB-1">
+          <mxGeometry x="300" y="170" width="90" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
