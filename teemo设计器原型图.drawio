@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-08T09:50:37.847Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="OUvrGIMdfaIHCwRAmfd0" version="13.0.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-05-08T09:56:39.113Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="7OMpzlM8-CwYf7s6N-Sg" version="13.0.9" type="github" pages="2">
   <diagram id="-NZJ1ublwvKImZVIat8C" name="物流单">
     <mxGraphModel dx="1572" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -307,7 +307,7 @@
         <mxCell id="hOiVj8hYnABJI8jshWKA-245" value="图片切换&lt;br&gt;1、绑定字段只能选择传入的非明细字段&lt;br&gt;2、通过正则先判断绑定值是否有效的地址(http/https), 如果不是，则认为是base64内容&lt;br&gt;3、没有绑定字段的情况下，允许通过上传本地图片" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;rounded=1;shadow=1;glass=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;gradientColor=none;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="1090" y="330" width="210" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="hOiVj8hYnABJI8jshWKA-248" value="1、哪些字段项可以通过鼠标拖到设计区，可以通过配色来区分，比如深色背景可以通过鼠标拖到设计区。&lt;br&gt;2、关于明细字段（商品明细）&lt;br&gt;a、通过是否勾选可增加表格列数&lt;br&gt;b、可以通过鼠标拖动面板上的字段顺序，调整表格中的列顺序&lt;br&gt;c、也可以通过拖动表格中的列，调整顺序，面板中的字段的顺序跟着发生变动" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;rounded=1;shadow=1;glass=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;gradientColor=none;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="hOiVj8hYnABJI8jshWKA-248" value="1、哪些字段项可以通过鼠标拖到设计区，可以通过配色来区分，比如深色背景可以通过鼠标拖到设计区。&lt;br&gt;2、关于明细字段（商品明细）&lt;br&gt;a、通过是否勾选可增加表格列数&lt;br&gt;b、可以通过鼠标拖动面板上的字段顺序，调整表格中的列顺序&lt;br&gt;c、也可以通过拖动表格中的列，调整顺序，面板中的字段的顺序跟着发生变动&lt;br&gt;d、物流单只能放一个非自定义的表格" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;rounded=1;shadow=1;glass=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;gradientColor=none;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="-220" y="266" width="230" height="169" as="geometry" />
         </mxCell>
         <mxCell id="hOiVj8hYnABJI8jshWKA-251" value="" style="group" vertex="1" connectable="0" parent="1">
@@ -351,6 +351,9 @@
         </mxCell>
         <mxCell id="hOiVj8hYnABJI8jshWKA-256" value="条[商品明细]" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;dashed=1;labelBackgroundColor=none;fontSize=14;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="980" y="273.66" width="89" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hOiVj8hYnABJI8jshWKA-259" value="关于表格&lt;br&gt;1、分为自定义和非自定义两种类型，&lt;br&gt;2、自定义表格更灵活，可以单元格进行配置，能兼容老打印的样式&lt;br&gt;3、非自定义表格样式中只能存在一个" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;rounded=1;shadow=1;glass=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;gradientColor=none;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-220" y="450" width="230" height="169" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
