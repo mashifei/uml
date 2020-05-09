@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-09T01:10:02.668Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="ca802UlhyFx9i2vHifwJ" version="13.0.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-05-09T01:12:52.071Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="1cCN2TFZEKNTeLf9jF6q" version="13.0.9" type="github" pages="2">
   <diagram id="-NZJ1ublwvKImZVIat8C" name="物流单">
     <mxGraphModel dx="2249" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -11,7 +11,7 @@
           <mxGeometry x="242.5" y="240" width="356.5" height="160" as="geometry" />
         </mxCell>
         <mxCell id="hOiVj8hYnABJI8jshWKA-90" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=#CCCCCC;strokeWidth=1;fillColor=none;gradientColor=none;fontSize=12;fontColor=#000000;align=left;" parent="1" vertex="1">
-          <mxGeometry x="231.75" y="130" width="380" height="560" as="geometry" />
+          <mxGeometry x="235" y="130" width="380" height="560" as="geometry" />
         </mxCell>
         <mxCell id="zoH6F-fh2ZuAuUo7Yg7t-1" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFFFFF;align=left;" parent="1" vertex="1">
           <mxGeometry x="50" y="130" width="180" height="560" as="geometry" />
@@ -349,7 +349,7 @@
         <mxCell id="hOiVj8hYnABJI8jshWKA-218" value="上传本地图片" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#E6E6E6;fillColor=#FFFFFF;align=center;glass=0;shadow=1;" parent="hOiVj8hYnABJI8jshWKA-251" vertex="1">
           <mxGeometry x="20" y="130" width="80" height="18" as="geometry" />
         </mxCell>
-        <mxCell id="hOiVj8hYnABJI8jshWKA-255" value="文本-明细（表格）切换&lt;br&gt;1、在物流单中，表格被看作一种特殊的文本&lt;br&gt;2、表格的一行，允许显示多条明细&lt;br&gt;3、[商品明细]的内容是根据绑定的明细字段动态填写" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;rounded=1;shadow=1;glass=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;gradientColor=none;fontSize=12;fontColor=#000000;" parent="1" vertex="1">
+        <mxCell id="hOiVj8hYnABJI8jshWKA-255" value="文本-明细（表格）&lt;br&gt;1、在物流单中，表格被看作一种特殊的文本&lt;br&gt;2、表格的一行，允许显示多条明细&lt;br&gt;3、[商品明细]的内容是根据绑定的明细字段动态填写" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;rounded=1;shadow=1;glass=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;gradientColor=none;fontSize=12;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="1090" y="180" width="210" height="130" as="geometry" />
         </mxCell>
         <mxCell id="hOiVj8hYnABJI8jshWKA-256" value="条[商品明细]" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;dashed=1;labelBackgroundColor=none;fontSize=14;fontColor=#000000;" parent="1" vertex="1">
@@ -357,12 +357,6 @@
         </mxCell>
         <mxCell id="hOiVj8hYnABJI8jshWKA-259" value="关于表格&lt;br&gt;1、分为自定义和非自定义两种类型，&lt;br&gt;2、自定义表格更灵活，可以单元格进行配置，能兼容老打印的样式&lt;br&gt;3、非自定义表格样式中只能存在一个" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;rounded=1;shadow=1;glass=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;gradientColor=none;fontSize=12;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="-220" y="450" width="230" height="169" as="geometry" />
-        </mxCell>
-        <mxCell id="R52sVWk7ufUgk9qdPzYp-1" value="" style="endArrow=none;html=1;dashed=1;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="422" y="400" as="sourcePoint" />
-            <mxPoint x="422" y="270" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
