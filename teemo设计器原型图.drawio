@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-09T01:12:52.071Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="1cCN2TFZEKNTeLf9jF6q" version="13.0.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-05-09T01:15:52.964Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="Goo4oWlcUlMUnNx_tTlR" version="13.0.9" type="github" pages="2">
   <diagram id="-NZJ1ublwvKImZVIat8C" name="物流单">
     <mxGraphModel dx="2249" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -136,7 +136,7 @@
         <mxCell id="hOiVj8hYnABJI8jshWKA-27" value="" style="group" parent="hOiVj8hYnABJI8jshWKA-89" vertex="1" connectable="0">
           <mxGeometry y="112" width="131" height="87" as="geometry" />
         </mxCell>
-        <mxCell id="zoH6F-fh2ZuAuUo7Yg7t-45" value="商品编码&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fillColor=#eeeeee;strokeColor=#999999;gradientColor=#FFFFFF;align=left;spacingLeft=4;fontSize=12;fontColor=#666666;labelPosition=right;labelBackgroundColor=#E6E6E6;textOpacity=80;noLabel=0;overflow=visible;direction=north;portConstraintRotation=0;allowArrows=1;fixDash=0;autosize=0;" parent="hOiVj8hYnABJI8jshWKA-27" vertex="1">
+        <mxCell id="zoH6F-fh2ZuAuUo7Yg7t-45" value="商品编码&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fillColor=#CCCCCC;strokeColor=#999999;gradientColor=#FFFFFF;align=left;spacingLeft=4;fontSize=12;fontColor=#666666;labelPosition=right;labelBackgroundColor=#E6E6E6;textOpacity=80;noLabel=0;overflow=visible;direction=north;portConstraintRotation=0;allowArrows=1;fixDash=0;autosize=0;" parent="hOiVj8hYnABJI8jshWKA-27" vertex="1">
           <mxGeometry x="33.5" y="25" width="15" height="15" as="geometry" />
         </mxCell>
         <mxCell id="zoH6F-fh2ZuAuUo7Yg7t-47" value="商品名称&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fillColor=#eeeeee;strokeColor=#999999;gradientColor=#FFFFFF;align=left;spacingLeft=4;fontSize=12;fontColor=#666666;labelPosition=right;labelBackgroundColor=#E6E6E6;" parent="hOiVj8hYnABJI8jshWKA-27" vertex="1">
