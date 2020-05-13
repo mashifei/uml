@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-13T02:23:08.013Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="vFRj42BZ1juiIds0g66v" version="13.1.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-05-13T02:26:00.014Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="Nxlm4HdK5CswDldWeFS7" version="13.1.0" type="github" pages="2">
   <diagram id="-NZJ1ublwvKImZVIat8C" name="物流单">
     <mxGraphModel dx="2249" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -429,7 +429,7 @@
         <mxCell id="esw-Ao9EyNmhoN1k7-04-2" value="商品明细" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=12;spacingLeft=3;labelBackgroundColor=none;" vertex="1" parent="IL9_MVaobLkoOVuPb7Au-4">
           <mxGeometry x="65" y="112.11499999999991" width="120" height="25.499999999999996" as="geometry" />
         </mxCell>
-        <mxCell id="esw-Ao9EyNmhoN1k7-04-3" value="商品A 商品001 规格1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=12;spacingLeft=4;spacingTop=-3;strokeColor=#666666;mainText=;labelBackgroundColor=none;fillColor=none;gradientColor=none;" vertex="1" parent="IL9_MVaobLkoOVuPb7Au-4">
+        <mxCell id="esw-Ao9EyNmhoN1k7-04-3" value="商品编码 商品名称 规格" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=12;spacingLeft=4;spacingTop=-3;strokeColor=#666666;mainText=;labelBackgroundColor=none;fillColor=none;gradientColor=none;" vertex="1" parent="IL9_MVaobLkoOVuPb7Au-4">
           <mxGeometry x="65" y="149.75785714285703" width="120" height="24.285714285714285" as="geometry" />
         </mxCell>
         <mxCell id="esw-Ao9EyNmhoN1k7-04-4" value="文本" style="shape=ellipse;fillColor=#ffffff;strokeColor=#999999;gradientColor=#cccccc;html=1;align=left;spacingLeft=4;fontSize=12;fontColor=#666666;labelPosition=right;shadow=0;labelBackgroundColor=none;portConstraint=north;portConstraintRotation=0;allowArrows=1;connectable=1;perimeter=ellipsePerimeter;fixDash=0;autosize=0;dropTarget=0;" vertex="1" parent="IL9_MVaobLkoOVuPb7Au-4">
