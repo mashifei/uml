@@ -1,34 +1,42 @@
-<mxfile host="app.diagrams.net" modified="2020-05-15T11:34:21.831Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="mHBw_JVD7HgaObYKBY5k" version="13.1.1" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2020-05-15T13:58:08.188Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="i15VNYdo83kcoc_Nnu8w" version="13.1.1" type="github" pages="6">
+  <diagram id="ew-0VhoYaQvnPqGKXSEa" name="Page-6">
+    <mxGraphModel dx="1609" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="oSroocqD2jcS6C8faN7E-0" />
+        <mxCell id="oSroocqD2jcS6C8faN7E-1" parent="oSroocqD2jcS6C8faN7E-0" />
+        <mxCell id="68PRleJp4lrwHnREp2iq-0" value="Loop" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="oSroocqD2jcS6C8faN7E-1">
+          <mxGeometry x="-450" y="145" width="360" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="68PRleJp4lrwHnREp2iq-1" value="AlarmGrafanaService" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="oSroocqD2jcS6C8faN7E-1">
+          <mxGeometry x="-440" y="95" width="120" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="68PRleJp4lrwHnREp2iq-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="68PRleJp4lrwHnREp2iq-1">
+          <mxGeometry x="55" y="80" width="10" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="68PRleJp4lrwHnREp2iq-3" value="Grafana" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="oSroocqD2jcS6C8faN7E-1">
+          <mxGeometry x="-180" y="95" width="100" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="68PRleJp4lrwHnREp2iq-4" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="68PRleJp4lrwHnREp2iq-3">
+          <mxGeometry x="45" y="80" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="68PRleJp4lrwHnREp2iq-5" value="获取所有报警项(api/alets)" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;" edge="1" parent="oSroocqD2jcS6C8faN7E-1" source="68PRleJp4lrwHnREp2iq-2" target="68PRleJp4lrwHnREp2iq-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-205" y="195" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="68PRleJp4lrwHnREp2iq-6" value="返回所有报警项" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;" edge="1" parent="oSroocqD2jcS6C8faN7E-1" source="68PRleJp4lrwHnREp2iq-4" target="68PRleJp4lrwHnREp2iq-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-205" y="271" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
   <diagram id="MokT1bHlpScWiRYXjLHD" name="grafana报警项数据同步+通知">
-    <mxGraphModel dx="1747" dy="552" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="920" dy="552" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="rAOs8qJcWkzCLpwJLARd-11" value="Loop" style="shape=umlFrame;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-510" y="145" width="360" height="200" as="geometry" />
-        </mxCell>
-        <mxCell id="rAOs8qJcWkzCLpwJLARd-2" value="AlarmGrafanaService" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="-500" y="95" width="120" height="270" as="geometry" />
-        </mxCell>
-        <mxCell id="rAOs8qJcWkzCLpwJLARd-4" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="rAOs8qJcWkzCLpwJLARd-2" vertex="1">
-          <mxGeometry x="55" y="80" width="10" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="rAOs8qJcWkzCLpwJLARd-3" value="Grafana" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="-240" y="95" width="100" height="270" as="geometry" />
-        </mxCell>
-        <mxCell id="rAOs8qJcWkzCLpwJLARd-5" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="rAOs8qJcWkzCLpwJLARd-3" vertex="1">
-          <mxGeometry x="45" y="80" width="10" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="rAOs8qJcWkzCLpwJLARd-6" value="获取所有报警项(api/alets)" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;" parent="1" source="rAOs8qJcWkzCLpwJLARd-4" target="rAOs8qJcWkzCLpwJLARd-5" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-265" y="195" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="rAOs8qJcWkzCLpwJLARd-7" value="返回所有报警项" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;" parent="1" source="rAOs8qJcWkzCLpwJLARd-5" target="rAOs8qJcWkzCLpwJLARd-2" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-265" y="271" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="rAOs8qJcWkzCLpwJLARd-8" value="结束" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="310" y="200" width="90" height="60" as="geometry" />
         </mxCell>
@@ -274,7 +282,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="OFK-Lqt18OOl4GLhx27Y" name="报警通知接收">
-    <mxGraphModel dx="1609" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="782" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="aDS6vETKXokxSu06e838-0" />
         <mxCell id="aDS6vETKXokxSu06e838-1" parent="aDS6vETKXokxSu06e838-0" />
@@ -328,53 +336,38 @@
         <mxCell id="ifikjqEXRQnQYvdjYmNj-12" value="取默认人员&lt;br&gt;(如 @所有人)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="aDS6vETKXokxSu06e838-1">
           <mxGeometry x="390" y="590" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="0YTrsI8aOOZpGart0ONX-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;fontSize=12;fontColor=#330000;" edge="1" parent="aDS6vETKXokxSu06e838-1" source="ifikjqEXRQnQYvdjYmNj-13" target="jM3RWZMDuJWRrWSpywx1-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ifikjqEXRQnQYvdjYmNj-13" value="通过钉钉群的webhook地址@相应人员推送报警信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="aDS6vETKXokxSu06e838-1">
           <mxGeometry x="390" y="700" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ifikjqEXRQnQYvdjYmNj-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="aDS6vETKXokxSu06e838-1" source="jM3RWZMDuJWRrWSpywx1-0" target="ifikjqEXRQnQYvdjYmNj-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="440" y="150" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="jM3RWZMDuJWRrWSpywx1-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;fontSize=14;" edge="1" parent="aDS6vETKXokxSu06e838-1" source="ifikjqEXRQnQYvdjYmNj-15" target="jM3RWZMDuJWRrWSpywx1-0">
+        <mxCell id="0YTrsI8aOOZpGart0ONX-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;fontSize=12;fontColor=#330000;" edge="1" parent="aDS6vETKXokxSu06e838-1" source="ifikjqEXRQnQYvdjYmNj-15" target="ifikjqEXRQnQYvdjYmNj-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ifikjqEXRQnQYvdjYmNj-15" value="接收报警信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="aDS6vETKXokxSu06e838-1">
-          <mxGeometry x="390" y="40" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="GkD5r-8FaEBUZDVhUq5S-0" value="Loop" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="aDS6vETKXokxSu06e838-1">
-          <mxGeometry x="-380" y="170" width="360" height="200" as="geometry" />
-        </mxCell>
-        <mxCell id="GkD5r-8FaEBUZDVhUq5S-1" value="AlarmGrafanaService" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="aDS6vETKXokxSu06e838-1">
-          <mxGeometry x="-370" y="120" width="120" height="270" as="geometry" />
-        </mxCell>
-        <mxCell id="GkD5r-8FaEBUZDVhUq5S-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="GkD5r-8FaEBUZDVhUq5S-1">
-          <mxGeometry x="55" y="80" width="10" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="GkD5r-8FaEBUZDVhUq5S-3" value="Grafana" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="aDS6vETKXokxSu06e838-1">
-          <mxGeometry x="-110" y="120" width="100" height="270" as="geometry" />
-        </mxCell>
-        <mxCell id="GkD5r-8FaEBUZDVhUq5S-4" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="GkD5r-8FaEBUZDVhUq5S-3">
-          <mxGeometry x="45" y="80" width="10" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="GkD5r-8FaEBUZDVhUq5S-5" value="获取所有报警项(api/alets)" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;" edge="1" parent="aDS6vETKXokxSu06e838-1" source="GkD5r-8FaEBUZDVhUq5S-2" target="GkD5r-8FaEBUZDVhUq5S-4">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-135" y="220" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="GkD5r-8FaEBUZDVhUq5S-6" value="返回所有报警项" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;" edge="1" parent="aDS6vETKXokxSu06e838-1" source="GkD5r-8FaEBUZDVhUq5S-4" target="GkD5r-8FaEBUZDVhUq5S-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-135" y="296" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="390" y="100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GkD5r-8FaEBUZDVhUq5S-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classic;endFill=1;fontSize=14;" edge="1" parent="aDS6vETKXokxSu06e838-1" source="GkD5r-8FaEBUZDVhUq5S-7" target="ifikjqEXRQnQYvdjYmNj-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GkD5r-8FaEBUZDVhUq5S-7" value="Grafana通过webhook&lt;br&gt;推送报警信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="aDS6vETKXokxSu06e838-1">
-          <mxGeometry x="130" y="40" width="120" height="60" as="geometry" />
+          <mxGeometry x="90" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0YTrsI8aOOZpGart0ONX-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;fontSize=12;fontColor=#330000;" edge="1" parent="aDS6vETKXokxSu06e838-1" source="jM3RWZMDuJWRrWSpywx1-0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="920" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="450" y="920" />
+              <mxPoint x="450" y="920" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="jM3RWZMDuJWRrWSpywx1-0" value="解析报警信息并写入alarm_grafanalog表和 alarm_grafana_evalMatched_log中,作为报警历史记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="aDS6vETKXokxSu06e838-1">
-          <mxGeometry x="390" y="140" width="120" height="60" as="geometry" />
+          <mxGeometry x="390" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0YTrsI8aOOZpGart0ONX-3" value="结束" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="aDS6vETKXokxSu06e838-1">
+          <mxGeometry x="390" y="920" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
