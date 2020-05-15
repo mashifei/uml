@@ -1,1 +1,173 @@
-<mxfile host="app.diagrams.net" modified="2020-05-13T02:05:29.870Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" version="13.1.0" etag="iJxISp3Jy7YVQx3GcgAy" type="github"><diagram id="MokT1bHlpScWiRYXjLHD">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-05-15T05:09:14.102Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="VXTGEbq5mRTc9dMMcne2" version="13.1.1" type="github">
+  <diagram id="MokT1bHlpScWiRYXjLHD" name="grafana">
+    <mxGraphModel dx="2249" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="rAOs8qJcWkzCLpwJLARd-11" value="Loop" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-380" y="260" width="360" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="rAOs8qJcWkzCLpwJLARd-2" value="AlarmGrafanaService" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-370" y="210" width="120" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="rAOs8qJcWkzCLpwJLARd-4" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="rAOs8qJcWkzCLpwJLARd-2">
+          <mxGeometry x="55" y="80" width="10" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="rAOs8qJcWkzCLpwJLARd-3" value="Grafana" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="210" width="100" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="rAOs8qJcWkzCLpwJLARd-5" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="rAOs8qJcWkzCLpwJLARd-3">
+          <mxGeometry x="45" y="80" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rAOs8qJcWkzCLpwJLARd-6" value="获取所有报警项(api/alets)" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;" edge="1" target="rAOs8qJcWkzCLpwJLARd-5" parent="1" source="rAOs8qJcWkzCLpwJLARd-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-135" y="310" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rAOs8qJcWkzCLpwJLARd-7" value="返回所有报警项" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;" edge="1" source="rAOs8qJcWkzCLpwJLARd-5" parent="1" target="rAOs8qJcWkzCLpwJLARd-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-135" y="386" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rAOs8qJcWkzCLpwJLARd-8" value="结束" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rAOs8qJcWkzCLpwJLARd-13" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rAOs8qJcWkzCLpwJLARd-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rAOs8qJcWkzCLpwJLARd-25" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rAOs8qJcWkzCLpwJLARd-12" target="rAOs8qJcWkzCLpwJLARd-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rAOs8qJcWkzCLpwJLARd-12" value="是否最后一项&lt;br&gt;报警信息" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="190" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rAOs8qJcWkzCLpwJLARd-16" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rAOs8qJcWkzCLpwJLARd-14" target="rAOs8qJcWkzCLpwJLARd-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rAOs8qJcWkzCLpwJLARd-44" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rAOs8qJcWkzCLpwJLARd-14" target="rAOs8qJcWkzCLpwJLARd-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rAOs8qJcWkzCLpwJLARd-14" value="ruleid在表alram_grafana_alerts&lt;br&gt;是否存在" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="310" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rAOs8qJcWkzCLpwJLARd-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rAOs8qJcWkzCLpwJLARd-15" target="rAOs8qJcWkzCLpwJLARd-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rAOs8qJcWkzCLpwJLARd-15" value="修改对应的报警项各内容，update表alarm_grafana_alerts&lt;br&gt;alarm_grafana_evaldata" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="430" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rAOs8qJcWkzCLpwJLARd-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="rAOs8qJcWkzCLpwJLARd-17" target="rAOs8qJcWkzCLpwJLARd-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="430" y="580" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rAOs8qJcWkzCLpwJLARd-17" value="新增一条记录，&lt;br&gt;insert表alarm_grafana_alerts&lt;br&gt;alarm_grafana_evaldata" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="312" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rAOs8qJcWkzCLpwJLARd-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rAOs8qJcWkzCLpwJLARd-21" target="rAOs8qJcWkzCLpwJLARd-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rAOs8qJcWkzCLpwJLARd-21" value="通过url截图，并存入&lt;span style=&quot;font-size: 14px ; text-align: left&quot;&gt; alarm_grafana_alerts.image&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rAOs8qJcWkzCLpwJLARd-28" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rAOs8qJcWkzCLpwJLARd-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="790" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rAOs8qJcWkzCLpwJLARd-45" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="rAOs8qJcWkzCLpwJLARd-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rAOs8qJcWkzCLpwJLARd-27" value="&lt;span&gt;当前报警项&lt;br&gt;是否正在报警&lt;br&gt;（state=alerting)&lt;br&gt;&lt;br&gt;&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="640" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rAOs8qJcWkzCLpwJLARd-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rAOs8qJcWkzCLpwJLARd-30" target="rAOs8qJcWkzCLpwJLARd-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rAOs8qJcWkzCLpwJLARd-30" value="通过ruleid向表alarm_grafana_oncall查询配置的接收报警信息人员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rAOs8qJcWkzCLpwJLARd-35" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rAOs8qJcWkzCLpwJLARd-31" target="rAOs8qJcWkzCLpwJLARd-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rAOs8qJcWkzCLpwJLARd-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rAOs8qJcWkzCLpwJLARd-31" target="rAOs8qJcWkzCLpwJLARd-38">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="130" y="1020" />
+              <mxPoint x="130" y="1250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rAOs8qJcWkzCLpwJLARd-43" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rAOs8qJcWkzCLpwJLARd-42">
+          <mxGeometry x="-0.6833" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rAOs8qJcWkzCLpwJLARd-31" value="&lt;span&gt;人员是否存在&lt;br&gt;&lt;br&gt;&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="980" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rAOs8qJcWkzCLpwJLARd-40" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rAOs8qJcWkzCLpwJLARd-32" target="rAOs8qJcWkzCLpwJLARd-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rAOs8qJcWkzCLpwJLARd-54" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rAOs8qJcWkzCLpwJLARd-32" target="rAOs8qJcWkzCLpwJLARd-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rAOs8qJcWkzCLpwJLARd-32" value="&lt;span&gt;检查待通知人员&lt;br&gt;是否全部无效&lt;br&gt;&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="1110" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rAOs8qJcWkzCLpwJLARd-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rAOs8qJcWkzCLpwJLARd-37" target="rAOs8qJcWkzCLpwJLARd-53">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="410" y="1360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rAOs8qJcWkzCLpwJLARd-37" value="@查询出有效的人员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rAOs8qJcWkzCLpwJLARd-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rAOs8qJcWkzCLpwJLARd-38" target="rAOs8qJcWkzCLpwJLARd-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rAOs8qJcWkzCLpwJLARd-38" value="默认人员&lt;br&gt;(@所有人)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="1220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rAOs8qJcWkzCLpwJLARd-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rAOs8qJcWkzCLpwJLARd-46" target="rAOs8qJcWkzCLpwJLARd-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rAOs8qJcWkzCLpwJLARd-46" value="获取报警项集合" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rAOs8qJcWkzCLpwJLARd-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rAOs8qJcWkzCLpwJLARd-47" target="rAOs8qJcWkzCLpwJLARd-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rAOs8qJcWkzCLpwJLARd-47" value="处理一条报警信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rAOs8qJcWkzCLpwJLARd-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="rAOs8qJcWkzCLpwJLARd-53" target="rAOs8qJcWkzCLpwJLARd-47">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="240" y="1430" />
+              <mxPoint x="570" y="1430" />
+              <mxPoint x="570" y="115" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rAOs8qJcWkzCLpwJLARd-53" value="通过钉钉群的webhook地址@指定人员推送报警信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="1330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rAOs8qJcWkzCLpwJLARd-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rAOs8qJcWkzCLpwJLARd-57" target="rAOs8qJcWkzCLpwJLARd-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rAOs8qJcWkzCLpwJLARd-57" value="把此报警信息再写入alarm_grafanalog表中,作为报警日志" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
