@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-25T02:34:29.019Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="ZNeGsJm3jvunmn_xmXVQ" version="13.1.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-05-25T02:35:48.746Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="yMmaeuCYhjNSqpZoqwpN" version="13.1.3" type="github" pages="3">
   <diagram id="-NZJ1ublwvKImZVIat8C" name="物流单">
     <mxGraphModel dx="2249" dy="1963" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1652,6 +1652,9 @@
         </mxCell>
         <mxCell id="8Lc7c4x5rfFDrBxTA4Le-160" value="内容" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;dashed=1;labelBackgroundColor=none;fontSize=14;fontColor=#000000;" vertex="1" parent="8Lc7c4x5rfFDrBxTA4Le-130">
           <mxGeometry x="33" y="221.21999999999994" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8Lc7c4x5rfFDrBxTA4Le-163" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;fontSize=14;strokeColor=#6c8ebf;" vertex="1" parent="8Lc7c4x5rfFDrBxTA4Le-130">
+          <mxGeometry x="230" y="100" width="10" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8Lc7c4x5rfFDrBxTA4Le-162" value="绑定字段内容，如果内容为空，预览显示为: [无数据]" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fillColor=none;fontSize=14;fontColor=#000000;base=8;" vertex="1" parent="zsE2rYQDKPst3JhfMYqT-1">
           <mxGeometry x="-216.25" y="230" width="176.25" height="60" as="geometry" />
