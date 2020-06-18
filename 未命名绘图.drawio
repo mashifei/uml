@@ -1,1 +1,43 @@
-<mxfile host="app.diagrams.net" modified="2020-06-18T06:57:24.059Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36" version="13.2.6" etag="PtVVD8zvx2rPB9qq8S7p" type="github"><diagram id="k-JprYvnjubAiF4Bazsj">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-06-18T08:15:58.535Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36" etag="9xmuHKVnYLVZte4mGxPt" version="13.2.6" type="github">
+  <diagram id="k-JprYvnjubAiF4Bazsj" name="第 1 页">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="KNVNabEI874cnFmWecDs-1" value="创建任务" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;strokeColor=#666666;mainText=" vertex="1" parent="1">
+          <mxGeometry x="100" y="140" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KNVNabEI874cnFmWecDs-2" value="任务描述" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;strokeColor=#666666;mainText=" vertex="1" parent="1">
+          <mxGeometry x="100" y="190" width="270" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="KNVNabEI874cnFmWecDs-3" value="开发人员" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=17;spacingLeft=3;" vertex="1" parent="1">
+          <mxGeometry x="100" y="420" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KNVNabEI874cnFmWecDs-7" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.menus_and_buttons.font_style_selector_3;" vertex="1" parent="1">
+          <mxGeometry x="100" y="190" width="176" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="KNVNabEI874cnFmWecDs-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="660" width="290" height="155" as="geometry" />
+        </mxCell>
+        <mxCell id="KNVNabEI874cnFmWecDs-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="815" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KNVNabEI874cnFmWecDs-11" value="查看知识库" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="815" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KNVNabEI874cnFmWecDs-12" value="提交给开发处理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="815" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KNVNabEI874cnFmWecDs-13" value="问题内容" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="70" y="660" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KNVNabEI874cnFmWecDs-14" value="提交" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="100" y="460" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KNVNabEI874cnFmWecDs-15" value="取消" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="240" y="460" width="90" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
