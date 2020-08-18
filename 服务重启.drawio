@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-18T08:33:05.773Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" etag="_OMYLy07J-DENRr50Mqj" version="13.6.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-08-18T08:33:34.515Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" etag="EofZ7nZp3fZDxmhyjnki" version="13.6.2" type="github" pages="2">
   <diagram id="EzvsVdePeBlgIJyYRWt2" name="第 1 页">
     <mxGraphModel dx="782" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -195,7 +195,7 @@
         <mxCell id="pmHmGgtYiZV_STidITvy-8" value="工单数据库表" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="pmHmGgtYiZV_STidITvy-1">
           <mxGeometry x="140" y="750" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pmHmGgtYiZV_STidITvy-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="pmHmGgtYiZV_STidITvy-1" source="pmHmGgtYiZV_STidITvy-13" target="pmHmGgtYiZV_STidITvy-18">
+        <mxCell id="pmHmGgtYiZV_STidITvy-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;dashed=1;shadow=1;" edge="1" parent="pmHmGgtYiZV_STidITvy-1" source="pmHmGgtYiZV_STidITvy-13" target="pmHmGgtYiZV_STidITvy-18">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="200" y="1110" />
@@ -205,6 +205,11 @@
         <mxCell id="pmHmGgtYiZV_STidITvy-10" value="同步状态和日志" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pmHmGgtYiZV_STidITvy-9">
           <mxGeometry x="-0.3974" y="40" relative="1" as="geometry">
             <mxPoint x="90" y="20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pmHmGgtYiZV_STidITvy-31" value="轮询" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pmHmGgtYiZV_STidITvy-9">
+          <mxGeometry x="-0.8526" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pmHmGgtYiZV_STidITvy-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="pmHmGgtYiZV_STidITvy-1" source="pmHmGgtYiZV_STidITvy-13" target="pmHmGgtYiZV_STidITvy-8">
