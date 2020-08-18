@@ -1,1 +1,292 @@
-<mxfile host="app.diagrams.net" modified="2020-08-14T02:53:16.701Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" version="13.4.5" etag="P_mRpLf9hxTL2dWYunIE" type="github"><diagram id="EzvsVdePeBlgIJyYRWt2">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-08-18T08:33:05.773Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" etag="_OMYLy07J-DENRr50Mqj" version="13.6.2" type="github" pages="2">
+  <diagram id="EzvsVdePeBlgIJyYRWt2" name="第 1 页">
+    <mxGraphModel dx="782" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="kahGNoXoC8xInckrxuAR-6" value="调用接口" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kahGNoXoC8xInckrxuAR-1" target="kahGNoXoC8xInckrxuAR-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kahGNoXoC8xInckrxuAR-1" value="工单系统保存服务重启或回收信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kahGNoXoC8xInckrxuAR-5" value="更新配置表" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kahGNoXoC8xInckrxuAR-2" target="kahGNoXoC8xInckrxuAR-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="290" y="250" />
+              <mxPoint x="290" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kahGNoXoC8xInckrxuAR-2" value="etcp_服务重启（回收）接口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kahGNoXoC8xInckrxuAR-3" value="malinios 监听配置信息，定时执行服务重启或网站回收" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kahGNoXoC8xInckrxuAR-7" value="j监听" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;endArrow=none;endFill=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="kahGNoXoC8xInckrxuAR-4" target="kahGNoXoC8xInckrxuAR-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kahGNoXoC8xInckrxuAR-4" value="malinios_计划配置表" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="350" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kahGNoXoC8xInckrxuAR-15" value="存入数据库" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kahGNoXoC8xInckrxuAR-9" target="kahGNoXoC8xInckrxuAR-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kahGNoXoC8xInckrxuAR-9" value="工单系统保存服务重启或回收信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kahGNoXoC8xInckrxuAR-21" value="t通知malinios" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="kahGNoXoC8xInckrxuAR-11" target="kahGNoXoC8xInckrxuAR-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1040" y="370" />
+              <mxPoint x="1040" y="370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kahGNoXoC8xInckrxuAR-11" value="etcp_服务重启（回收）接口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="980" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kahGNoXoC8xInckrxuAR-12" value="malinios 执行服务重启或网站回收" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="980" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kahGNoXoC8xInckrxuAR-13" value="调用接口" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="kahGNoXoC8xInckrxuAR-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="880" y="320" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kahGNoXoC8xInckrxuAR-19" value="监听" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="kahGNoXoC8xInckrxuAR-14" target="kahGNoXoC8xInckrxuAR-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kahGNoXoC8xInckrxuAR-14" value="工单计划配置表" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="750" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kahGNoXoC8xInckrxuAR-16" value="工单系统监听服务根据计划配置表信息,定时通过etcp接口通知malinios执行服务重启或回收" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="290" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="kahGNoXoC8xInckrxuAR-22" value="流程1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="40" y="70" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kahGNoXoC8xInckrxuAR-23" value="流程2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="660" y="60" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kahGNoXoC8xInckrxuAR-26" value="数据存入表" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kahGNoXoC8xInckrxuAR-27" target="kahGNoXoC8xInckrxuAR-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kahGNoXoC8xInckrxuAR-27" value="保存" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kahGNoXoC8xInckrxuAR-39" value="更新malinios的表" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="kahGNoXoC8xInckrxuAR-29" target="kahGNoXoC8xInckrxuAR-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kahGNoXoC8xInckrxuAR-29" value="etcp_服务重启（回收）接口" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kahGNoXoC8xInckrxuAR-31" value="调用接口" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="kahGNoXoC8xInckrxuAR-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="910" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kahGNoXoC8xInckrxuAR-32" value="轮询访问" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="kahGNoXoC8xInckrxuAR-33" target="kahGNoXoC8xInckrxuAR-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kahGNoXoC8xInckrxuAR-33" value="工单数据库表" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="130" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kahGNoXoC8xInckrxuAR-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="kahGNoXoC8xInckrxuAR-34" target="kahGNoXoC8xInckrxuAR-41">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="190" y="1030" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kahGNoXoC8xInckrxuAR-44" value="同步状态和日志" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kahGNoXoC8xInckrxuAR-43">
+          <mxGeometry x="-0.3974" y="40" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kahGNoXoC8xInckrxuAR-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="kahGNoXoC8xInckrxuAR-34" target="kahGNoXoC8xInckrxuAR-33">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="90" y="915" />
+              <mxPoint x="90" y="785" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kahGNoXoC8xInckrxuAR-46" value="同步状态" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kahGNoXoC8xInckrxuAR-45">
+          <mxGeometry x="-0.1048" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kahGNoXoC8xInckrxuAR-34" value="工单服务轮询工单数据库表，检查工单状态，对已审核的工单作为任务通过etcp接口通知malinios执行服务重启或回收" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="880" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="kahGNoXoC8xInckrxuAR-40" value="监听" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="kahGNoXoC8xInckrxuAR-36" target="kahGNoXoC8xInckrxuAR-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kahGNoXoC8xInckrxuAR-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="kahGNoXoC8xInckrxuAR-36" target="kahGNoXoC8xInckrxuAR-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kahGNoXoC8xInckrxuAR-36" value="malinios 监听配置信息，定时执行服务重启或网站回收" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="1000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kahGNoXoC8xInckrxuAR-38" value="etcp2的库的appsets表" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="590" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kahGNoXoC8xInckrxuAR-41" value="etcp log库" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="370" y="1000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kahGNoXoC8xInckrxuAR-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="kahGNoXoC8xInckrxuAR-47" target="kahGNoXoC8xInckrxuAR-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kahGNoXoC8xInckrxuAR-47" value="创建服务重启(回收)工单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kahGNoXoC8xInckrxuAR-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="kahGNoXoC8xInckrxuAR-49">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kahGNoXoC8xInckrxuAR-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="kahGNoXoC8xInckrxuAR-49">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="190" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kahGNoXoC8xInckrxuAR-49" value="通过打开的服务列表选择其中一个服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kahGNoXoC8xInckrxuAR-53" value="etcp服务列表接口" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="360" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kahGNoXoC8xInckrxuAR-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="kahGNoXoC8xInckrxuAR-55" target="kahGNoXoC8xInckrxuAR-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kahGNoXoC8xInckrxuAR-55" value="选择分区和部署" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="qsNHM28TNspkJRu5wapX" name="第 2 页">
+    <mxGraphModel dx="1422" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="pmHmGgtYiZV_STidITvy-0" />
+        <mxCell id="pmHmGgtYiZV_STidITvy-1" parent="pmHmGgtYiZV_STidITvy-0" />
+        <mxCell id="pmHmGgtYiZV_STidITvy-2" value="数据存入工单表" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="pmHmGgtYiZV_STidITvy-1" source="pmHmGgtYiZV_STidITvy-3" target="pmHmGgtYiZV_STidITvy-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pmHmGgtYiZV_STidITvy-3" value="保存" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="pmHmGgtYiZV_STidITvy-1">
+          <mxGeometry x="140" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pmHmGgtYiZV_STidITvy-4" value="重新服务信息&lt;br&gt;写入表&lt;span style=&quot;font-size: 12px ; background-color: rgb(248 , 249 , 250)&quot;&gt;app_sets&lt;/span&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="pmHmGgtYiZV_STidITvy-1" source="pmHmGgtYiZV_STidITvy-5" target="pmHmGgtYiZV_STidITvy-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pmHmGgtYiZV_STidITvy-5" value="etcp_服务重启（回收）接口" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;glass=0;" vertex="1" parent="pmHmGgtYiZV_STidITvy-1">
+          <mxGeometry x="390" y="870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pmHmGgtYiZV_STidITvy-6" value="调用接口&lt;br&gt;传服务重启信息" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.992;exitY=0.422;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="pmHmGgtYiZV_STidITvy-1" target="pmHmGgtYiZV_STidITvy-5" source="pmHmGgtYiZV_STidITvy-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="890" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pmHmGgtYiZV_STidITvy-7" value="轮询访问" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="pmHmGgtYiZV_STidITvy-1" source="pmHmGgtYiZV_STidITvy-8" target="pmHmGgtYiZV_STidITvy-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pmHmGgtYiZV_STidITvy-8" value="工单数据库表" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="pmHmGgtYiZV_STidITvy-1">
+          <mxGeometry x="140" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pmHmGgtYiZV_STidITvy-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="pmHmGgtYiZV_STidITvy-1" source="pmHmGgtYiZV_STidITvy-13" target="pmHmGgtYiZV_STidITvy-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="200" y="1110" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pmHmGgtYiZV_STidITvy-10" value="同步状态和日志" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pmHmGgtYiZV_STidITvy-9">
+          <mxGeometry x="-0.3974" y="40" relative="1" as="geometry">
+            <mxPoint x="90" y="20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pmHmGgtYiZV_STidITvy-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="pmHmGgtYiZV_STidITvy-1" source="pmHmGgtYiZV_STidITvy-13" target="pmHmGgtYiZV_STidITvy-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="100" y="895" />
+              <mxPoint x="100" y="765" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pmHmGgtYiZV_STidITvy-12" value="同步状态" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pmHmGgtYiZV_STidITvy-11">
+          <mxGeometry x="-0.1048" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pmHmGgtYiZV_STidITvy-13" value="工单服务轮询工单数据库表，检查工单状态，对已审核的工单作为任务通过etcp接口通知malinios执行服务重启或回收" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="pmHmGgtYiZV_STidITvy-1">
+          <mxGeometry x="140" y="860" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="pmHmGgtYiZV_STidITvy-14" value="监听" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;dashed=1;" edge="1" parent="pmHmGgtYiZV_STidITvy-1" source="pmHmGgtYiZV_STidITvy-16" target="pmHmGgtYiZV_STidITvy-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pmHmGgtYiZV_STidITvy-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="pmHmGgtYiZV_STidITvy-1" source="pmHmGgtYiZV_STidITvy-16" target="pmHmGgtYiZV_STidITvy-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="670" y="1130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pmHmGgtYiZV_STidITvy-16" value="malinios 监听配置信息，定时执行服务重启或网站回收" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="pmHmGgtYiZV_STidITvy-1">
+          <mxGeometry x="610" y="970" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pmHmGgtYiZV_STidITvy-17" value="etcp2的库" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="pmHmGgtYiZV_STidITvy-1">
+          <mxGeometry x="610" y="870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pmHmGgtYiZV_STidITvy-18" value="etcp log库" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="pmHmGgtYiZV_STidITvy-1">
+          <mxGeometry x="610" y="1080" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pmHmGgtYiZV_STidITvy-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="pmHmGgtYiZV_STidITvy-1" source="pmHmGgtYiZV_STidITvy-20" target="pmHmGgtYiZV_STidITvy-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pmHmGgtYiZV_STidITvy-20" value="创建服务重启(回收)工单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="pmHmGgtYiZV_STidITvy-1">
+          <mxGeometry x="140" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pmHmGgtYiZV_STidITvy-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="pmHmGgtYiZV_STidITvy-1" source="pmHmGgtYiZV_STidITvy-23" target="pmHmGgtYiZV_STidITvy-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pmHmGgtYiZV_STidITvy-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="pmHmGgtYiZV_STidITvy-1" source="pmHmGgtYiZV_STidITvy-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pmHmGgtYiZV_STidITvy-23" value="通过打开的服务列表选择其中一个服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="pmHmGgtYiZV_STidITvy-1">
+          <mxGeometry x="140" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pmHmGgtYiZV_STidITvy-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="pmHmGgtYiZV_STidITvy-1" source="pmHmGgtYiZV_STidITvy-24" target="pmHmGgtYiZV_STidITvy-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pmHmGgtYiZV_STidITvy-28" value="从数据库中读取服务列表" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pmHmGgtYiZV_STidITvy-27">
+          <mxGeometry x="0.1448" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pmHmGgtYiZV_STidITvy-24" value="etcp获取服务(工具)的列表接口" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="pmHmGgtYiZV_STidITvy-1">
+          <mxGeometry x="370" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pmHmGgtYiZV_STidITvy-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="pmHmGgtYiZV_STidITvy-1" source="pmHmGgtYiZV_STidITvy-26" target="pmHmGgtYiZV_STidITvy-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pmHmGgtYiZV_STidITvy-26" value="选择分区和部署" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="pmHmGgtYiZV_STidITvy-1">
+          <mxGeometry x="140" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pmHmGgtYiZV_STidITvy-29" value="工单系统" style="swimlane;rounded=1;glass=0;" vertex="1" parent="pmHmGgtYiZV_STidITvy-1">
+          <mxGeometry x="80" y="320" width="250" height="820" as="geometry">
+            <mxRectangle x="70" y="340" width="80" height="23" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pmHmGgtYiZV_STidITvy-30" value="ETCP" style="swimlane;rounded=1;glass=0;" vertex="1" parent="pmHmGgtYiZV_STidITvy-1">
+          <mxGeometry x="330" y="320" width="440" height="820" as="geometry">
+            <mxRectangle x="70" y="340" width="80" height="23" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
