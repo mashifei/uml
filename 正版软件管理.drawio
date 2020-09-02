@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-09-02T03:46:03.106Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="Iwvxl4aGO22dH3cocR97" version="13.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-02T06:15:22.545Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="RgZKOaFYBpvSoM20xmhh" version="13.6.6" type="github">
   <diagram id="fpa2SziavpbdTfdcneHl" name="第 1 页">
-    <mxGraphModel dx="1422" dy="828" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="782" dy="469" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -156,60 +156,6 @@
         </mxCell>
         <mxCell id="c9gCc3kH1tzA976BFGNk-71" value="Visual Studio 2017" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=0;fontSize=14;opacity=30;" vertex="1" parent="1">
           <mxGeometry x="860.5" y="584.25" width="223" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="c9gCc3kH1tzA976BFGNk-72" value="&lt;span style=&quot;font-weight: normal&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;我的软件&lt;/font&gt;&lt;/span&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;whiteSpace=wrap;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1667.5" y="358" width="150" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="c9gCc3kH1tzA976BFGNk-73" value="&lt;font color=&quot;#000000&quot;&gt;白名单软件&lt;/font&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=0;whiteSpace=wrap;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1825.5" y="357" width="150" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="c9gCc3kH1tzA976BFGNk-74" value="&lt;font color=&quot;#000000&quot;&gt;黑名单软件&lt;/font&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=0;whiteSpace=wrap;fillColor=#007FFF;" vertex="1" parent="1">
-          <mxGeometry x="1982.5" y="357" width="150" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="c9gCc3kH1tzA976BFGNk-75" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1665" y="408" width="640" height="460" as="geometry" />
-        </mxCell>
-        <mxCell id="c9gCc3kH1tzA976BFGNk-76" value="&lt;span style=&quot;font-size: 13px&quot;&gt;搜索软件或应用&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;sketch=0;fillColor=none;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="2147.5" y="373" width="130" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="c9gCc3kH1tzA976BFGNk-77" value="" style="line;strokeWidth=2;html=1;shadow=0;sketch=0;fillColor=none;fontSize=14;opacity=30;" vertex="1" parent="1">
-          <mxGeometry x="1682" y="533" width="605" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="c9gCc3kH1tzA976BFGNk-78" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;sketch=0;fillColor=#f5f5f5;fontSize=14;fontColor=#333333;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1667.5" y="430.5" width="620" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="c9gCc3kH1tzA976BFGNk-79" value="名称" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1690.79" y="433" width="170" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="c9gCc3kH1tzA976BFGNk-80" value="操作" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="2097.5" y="426.75" width="170" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="c9gCc3kH1tzA976BFGNk-81" value="" style="line;strokeWidth=2;html=1;shadow=0;sketch=0;fillColor=none;fontSize=14;opacity=30;" vertex="1" parent="1">
-          <mxGeometry x="1687" y="619.5" width="605" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="c9gCc3kH1tzA976BFGNk-82" value="授权类型" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1900" y="426.75" width="170" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="c9gCc3kH1tzA976BFGNk-83" value="免费" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=0;fontSize=14;opacity=30;" vertex="1" parent="1">
-          <mxGeometry x="1965" y="493" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="c9gCc3kH1tzA976BFGNk-84" value="正版授权" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=0;fontSize=14;opacity=30;" vertex="1" parent="1">
-          <mxGeometry x="1960" y="576" width="62" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="c9gCc3kH1tzA976BFGNk-85" value="" style="line;strokeWidth=2;html=1;shadow=0;sketch=0;fillColor=none;fontSize=14;opacity=30;" vertex="1" parent="1">
-          <mxGeometry x="1682.5" y="829" width="605" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="c9gCc3kH1tzA976BFGNk-86" value="下载" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;sketch=0;fillColor=#f5f5f5;fontSize=14;opacity=30;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="2150" y="484.5" width="91" height="37" as="geometry" />
-        </mxCell>
-        <mxCell id="c9gCc3kH1tzA976BFGNk-87" value="下载" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;sketch=0;fillColor=#f5f5f5;fontSize=14;opacity=30;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="2154" y="563" width="91" height="37" as="geometry" />
-        </mxCell>
-        <mxCell id="c9gCc3kH1tzA976BFGNk-88" value="Visual Studio Code" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=0;fontSize=14;opacity=30;" vertex="1" parent="1">
-          <mxGeometry x="1705" y="493" width="182" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="c9gCc3kH1tzA976BFGNk-89" value="Visual Studio 2017" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=0;fontSize=14;opacity=30;" vertex="1" parent="1">
-          <mxGeometry x="1687" y="576" width="223" height="20" as="geometry" />
         </mxCell>
         <mxCell id="c9gCc3kH1tzA976BFGNk-91" value="合规性" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1057.5" y="439.25" width="170" height="20" as="geometry" />
