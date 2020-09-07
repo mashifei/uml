@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-07T07:56:57.854Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="inz7Vw43TmNMdZTNxip8" version="13.6.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-09-07T08:44:37.513Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="36YNUTnbWaQtfN0DI_fA" version="13.6.6" type="github" pages="3">
   <diagram id="fpa2SziavpbdTfdcneHl" name="客户端">
     <mxGraphModel dx="782" dy="469" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -233,7 +233,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="YAZ4HziPdXnYxhGXwx_z" name="后端">
-    <mxGraphModel dx="782" dy="1638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="782" dy="1589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="RxHbE7i_3NUWIBu6HU8r-0" />
         <mxCell id="RxHbE7i_3NUWIBu6HU8r-1" parent="RxHbE7i_3NUWIBu6HU8r-0" />
@@ -768,7 +768,7 @@
         <mxCell id="d1wgC4nlDbvJcm_qnlyz-2" value="钉钉验证码" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;sketch=0;fontSize=14;opacity=40;align=left;" parent="RxHbE7i_3NUWIBu6HU8r-1" vertex="1">
           <mxGeometry x="197" y="7" width="198" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="d1wgC4nlDbvJcm_qnlyz-3" value="侦测" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;sketch=0;strokeColor=#000000;fillColor=#B3B3B3;fontSize=14;fontColor=#000000;opacity=40;align=center;" parent="RxHbE7i_3NUWIBu6HU8r-1" vertex="1">
+        <mxCell id="d1wgC4nlDbvJcm_qnlyz-3" value="登录" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;sketch=0;strokeColor=#000000;fillColor=#B3B3B3;fontSize=14;fontColor=#000000;opacity=40;align=center;" parent="RxHbE7i_3NUWIBu6HU8r-1" vertex="1">
           <mxGeometry x="416" y="-28" width="77" height="60" as="geometry" />
         </mxCell>
         <mxCell id="d1wgC4nlDbvJcm_qnlyz-4" value="CA正版后台系统" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=0;fontSize=14;fontColor=#000000;opacity=40;" parent="RxHbE7i_3NUWIBu6HU8r-1" vertex="1">
@@ -779,9 +779,6 @@
         </mxCell>
         <mxCell id="cj01ig_W36zn-y_ADpat-1" value="关键词逗号分隔" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;sketch=0;strokeColor=#000000;fillColor=none;fontSize=14;fontColor=#000000;align=left;" parent="RxHbE7i_3NUWIBu6HU8r-1" vertex="1">
           <mxGeometry x="1045" y="834" width="240" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="cj01ig_W36zn-y_ADpat-2" value="软件名单管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="RxHbE7i_3NUWIBu6HU8r-1" vertex="1">
-          <mxGeometry x="373" y="-300" width="82" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
