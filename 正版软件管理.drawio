@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-09T08:55:00.528Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="2K70cEVjZ11ukaXANoc4" version="13.6.9" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2020-09-09T09:51:36.733Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="N_yuIqmMtnPAi5U_yqkw" version="13.6.9" type="github" pages="6">
   <diagram id="fpa2SziavpbdTfdcneHl" name="客户端">
     <mxGraphModel dx="1422" dy="828" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1072,8 +1072,8 @@
         <mxCell id="K5RmjSWB1YhR9AMvJ8Hq-17" value="" style="line;strokeWidth=2;html=1;shadow=0;sketch=0;fillColor=none;fontSize=14;opacity=30;" parent="K5RmjSWB1YhR9AMvJ8Hq-12" vertex="1">
           <mxGeometry x="9.212121212121213" y="192.75" width="586.6666666666666" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="K5RmjSWB1YhR9AMvJ8Hq-18" value="数量" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=0;fontSize=14;" parent="K5RmjSWB1YhR9AMvJ8Hq-12" vertex="1">
-          <mxGeometry x="242.42454545454544" width="164.84848484848484" height="20" as="geometry" />
+        <mxCell id="K5RmjSWB1YhR9AMvJ8Hq-18" value="安装人次" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=0;fontSize=14;" parent="K5RmjSWB1YhR9AMvJ8Hq-12" vertex="1">
+          <mxGeometry x="260.9" width="107.58" height="20" as="geometry" />
         </mxCell>
         <mxCell id="K5RmjSWB1YhR9AMvJ8Hq-19" value="免费" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=0;fontSize=14;opacity=30;" parent="K5RmjSWB1YhR9AMvJ8Hq-12" vertex="1">
           <mxGeometry x="368.4848484848485" y="63.25" width="38.78787878787879" height="20" as="geometry" />
@@ -1097,7 +1097,7 @@
           <mxGeometry x="17.454545454545453" y="275" width="586.6666666666666" height="10" as="geometry" />
         </mxCell>
         <mxCell id="K5RmjSWB1YhR9AMvJ8Hq-175" value="版权信息" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=0;fontSize=14;" parent="K5RmjSWB1YhR9AMvJ8Hq-12" vertex="1">
-          <mxGeometry x="332.73" y="4.25" width="120.97" height="20" as="geometry" />
+          <mxGeometry x="360" y="4.25" width="93.7" height="20" as="geometry" />
         </mxCell>
         <mxCell id="K5RmjSWB1YhR9AMvJ8Hq-186" value="-黑名单&lt;br&gt;-白名单&lt;br&gt;-灰名单" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.bulletedList;textColor=#666666;mainText=,,,,;textSize=17;bulletStyle=none;fillColor=#f5f5f5;align=left;verticalAlign=top;fontSize=17;rounded=0;strokeColor=#666666;fontColor=#333333;" parent="K5RmjSWB1YhR9AMvJ8Hq-12" vertex="1">
           <mxGeometry x="187.33" y="260" width="112.67" height="105" as="geometry" />
@@ -1441,8 +1441,8 @@
         <mxCell id="E5kRUycnrnhgyjIT6-Nz-40" value="免费" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=0;fontSize=14;opacity=30;" parent="E5kRUycnrnhgyjIT6-Nz-8" vertex="1">
           <mxGeometry x="330.00151515151515" y="249.54999999999995" width="38.78787878787879" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="E5kRUycnrnhgyjIT6-Nz-41" value="清单详情" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#0000FF;" parent="E5kRUycnrnhgyjIT6-Nz-42" vertex="1">
-          <mxGeometry width="73" height="20" as="geometry" />
+        <mxCell id="E5kRUycnrnhgyjIT6-Nz-41" value="软件安装情况" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#0000FF;" parent="E5kRUycnrnhgyjIT6-Nz-42" vertex="1">
+          <mxGeometry width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="E5kRUycnrnhgyjIT6-Nz-43" value="员工" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.searchBox;strokeColor=#999999;mainText=;strokeColor2=#008cff;fontColor=#666666;fontSize=17;align=left;spacingLeft=3;rounded=0;" parent="K5RmjSWB1YhR9AMvJ8Hq-1" vertex="1">
           <mxGeometry x="239.21" y="1160" width="150" height="30" as="geometry" />
