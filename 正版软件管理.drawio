@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-10T01:46:13.890Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="9KoK-G7rUf2UcVFa3ZYD" version="13.6.9" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2020-09-10T01:55:10.529Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="8HsspK_WRW8UcDB8eP-c" version="13.6.9" type="github" pages="6">
   <diagram id="fpa2SziavpbdTfdcneHl" name="客户端">
     <mxGraphModel dx="1422" dy="828" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1593,6 +1593,9 @@
         </mxCell>
         <mxCell id="_jBOKg2B_JPuSqWA_z6B-47" value="取消" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;sketch=0;strokeColor=#6c8ebf;fillColor=#dae8fc;fontSize=14;align=center;" parent="K5RmjSWB1YhR9AMvJ8Hq-1" vertex="1">
           <mxGeometry x="1660" y="565" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="652uohx2D6NJeH4sHUuG-25" value="未被侦测到的设备" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fillColor=#eeeeee;strokeColor=#999999;gradientColor=#cccccc;align=left;spacingLeft=4;fontSize=17;fontColor=#666666;labelPosition=right;sketch=0;opacity=30;" vertex="1" parent="K5RmjSWB1YhR9AMvJ8Hq-1">
+          <mxGeometry x="446" y="1882.5" width="15" height="15" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
