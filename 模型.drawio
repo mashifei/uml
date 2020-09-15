@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-15T07:46:29.054Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="ddUGGPJQuDiMVbn5PYUZ" version="13.7.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-09-15T07:57:43.292Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="0dYdgivfCm_EfX6t-N3u" version="13.7.1" type="github" pages="2">
   <diagram id="3_CombYH987mm5BwRAqo" name="作业_08">
     <mxGraphModel dx="782" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -239,10 +239,10 @@
         <mxCell id="ro8z5xd525QDuNTnh2Kg-30" value="理性" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="lactWJ4LwFW5Vdhf8Cjb-1">
           <mxGeometry x="307" y="391" width="78" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ro8z5xd525QDuNTnh2Kg-31" value="群体意识" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="lactWJ4LwFW5Vdhf8Cjb-1">
+        <mxCell id="ro8z5xd525QDuNTnh2Kg-31" value="群体" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="lactWJ4LwFW5Vdhf8Cjb-1">
           <mxGeometry x="69" y="545" width="78" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ro8z5xd525QDuNTnh2Kg-32" value="个体意识" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="lactWJ4LwFW5Vdhf8Cjb-1">
+        <mxCell id="ro8z5xd525QDuNTnh2Kg-32" value="个体" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="lactWJ4LwFW5Vdhf8Cjb-1">
           <mxGeometry x="522" y="543" width="78" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ro8z5xd525QDuNTnh2Kg-33" value="非理性" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="lactWJ4LwFW5Vdhf8Cjb-1">
