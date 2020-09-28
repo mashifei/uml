@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-28T09:28:12.479Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="ktS1rC75cBUub8fgKlKn" version="13.7.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2020-09-28T09:28:32.530Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="IBb_yHEzh92xQ_FYGMFH" version="13.7.3" type="github" pages="5">
   <diagram id="3_CombYH987mm5BwRAqo" name="作业_08">
     <mxGraphModel dx="782" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -577,7 +577,7 @@
         <mxCell id="KGWTLq4d8su-KnPzmsWQ-5" value="v - 活动空间" style="text;html=1;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="KGWTLq4d8su-KnPzmsWQ-28">
           <mxGeometry x="167" y="62.5" width="175" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="KGWTLq4d8su-KnPzmsWQ-6" value="ρ 从事的活动密度" style="text;html=1;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="KGWTLq4d8su-KnPzmsWQ-28">
+        <mxCell id="KGWTLq4d8su-KnPzmsWQ-6" value="ρ 从事活动的密度" style="text;html=1;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="KGWTLq4d8su-KnPzmsWQ-28">
           <mxGeometry y="62.5" width="117" height="19" as="geometry" />
         </mxCell>
         <mxCell id="KGWTLq4d8su-KnPzmsWQ-9" value="×" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="KGWTLq4d8su-KnPzmsWQ-28">
