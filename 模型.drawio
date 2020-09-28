@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-28T01:40:20.415Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="TCHLaAknb3DLiOPFFccH" version="13.7.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2020-09-28T02:01:40.528Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="N5j1YuPGfe8zuJT5Th1R" version="13.7.3" type="github" pages="5">
   <diagram id="3_CombYH987mm5BwRAqo" name="作业_08">
     <mxGraphModel dx="782" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -540,6 +540,21 @@
         </mxCell>
         <mxCell id="R6N5wBSfr9lxQkGqcmgw-35" value="Done" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="R6N5wBSfr9lxQkGqcmgw-1">
           <mxGeometry x="220" y="120" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="R6N5wBSfr9lxQkGqcmgw-36" value="单位空间内所做的事所产生的价值意义" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="R6N5wBSfr9lxQkGqcmgw-1">
+          <mxGeometry x="100" y="600" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="R6N5wBSfr9lxQkGqcmgw-37" value="所处社会环境" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="R6N5wBSfr9lxQkGqcmgw-1">
+          <mxGeometry x="150" y="600" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="R6N5wBSfr9lxQkGqcmgw-38" value="人际圈子" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="R6N5wBSfr9lxQkGqcmgw-1">
+          <mxGeometry x="210" y="600" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="R6N5wBSfr9lxQkGqcmgw-39" value="活动周期" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="R6N5wBSfr9lxQkGqcmgw-1">
+          <mxGeometry x="260" y="600" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="R6N5wBSfr9lxQkGqcmgw-40" value="在人类场合中流传的频率" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="R6N5wBSfr9lxQkGqcmgw-1">
+          <mxGeometry x="306" y="600" width="30" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
