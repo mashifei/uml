@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-30T02:52:35.282Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="C1os1A5sEZcUp5c7Wwp6" version="13.7.6" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2020-09-30T02:53:08.661Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="ySrobxVK64k6JaJ0Sdxo" version="13.7.6" type="github" pages="6">
   <diagram id="3_CombYH987mm5BwRAqo" name="作业_08">
     <mxGraphModel dx="782" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -669,8 +669,8 @@
       <root>
         <mxCell id="7CxQp97ysOUE21VQqboQ-0" />
         <mxCell id="7CxQp97ysOUE21VQqboQ-1" parent="7CxQp97ysOUE21VQqboQ-0" />
-        <mxCell id="7CxQp97ysOUE21VQqboQ-2" value="个人对社会的影响力量化模型" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="7CxQp97ysOUE21VQqboQ-1">
-          <mxGeometry x="300" y="420" width="157.5" height="20" as="geometry" />
+        <mxCell id="7CxQp97ysOUE21VQqboQ-2" value="个人的社会影响力量化模型" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="7CxQp97ysOUE21VQqboQ-1">
+          <mxGeometry x="300" y="420" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="7CxQp97ysOUE21VQqboQ-3" value="" style="group" vertex="1" connectable="0" parent="7CxQp97ysOUE21VQqboQ-1">
           <mxGeometry x="157.5" y="491" width="408" height="216" as="geometry" />
@@ -720,7 +720,7 @@
         <mxCell id="7CxQp97ysOUE21VQqboQ-17" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;rotation=-90;" vertex="1" parent="7CxQp97ysOUE21VQqboQ-4">
           <mxGeometry x="127" y="25" width="28" height="161" as="geometry" />
         </mxCell>
-        <mxCell id="7CxQp97ysOUE21VQqboQ-18" value="m - 创造的社会价值" style="text;html=1;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="7CxQp97ysOUE21VQqboQ-4">
+        <mxCell id="7CxQp97ysOUE21VQqboQ-18" value="m - 个人的社会价值" style="text;html=1;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="7CxQp97ysOUE21VQqboQ-4">
           <mxGeometry x="85" y="126" width="117" height="19" as="geometry" />
         </mxCell>
         <mxCell id="7CxQp97ysOUE21VQqboQ-19" value="×" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="7CxQp97ysOUE21VQqboQ-4">
