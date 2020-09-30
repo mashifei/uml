@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-30T02:56:28.952Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="kin_sV_jy_4wnpv-vRnt" version="13.7.6" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2020-09-30T02:56:55.406Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="KMyekkviLsQoFq0Jgoul" version="13.7.6" type="github" pages="6">
   <diagram id="3_CombYH987mm5BwRAqo" name="作业_08">
     <mxGraphModel dx="782" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -601,8 +601,8 @@
         <mxCell id="KGWTLq4d8su-KnPzmsWQ-27" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;rotation=-90;" parent="KGWTLq4d8su-KnPzmsWQ-28" vertex="1">
           <mxGeometry x="46.25" y="-9.75" width="17.5" height="99" as="geometry" />
         </mxCell>
-        <mxCell id="FnO_5gVTMvngwDF94d75-22" value="个人社会价值量化模型" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="R6N5wBSfr9lxQkGqcmgw-1">
-          <mxGeometry x="302" y="104" width="145" height="21" as="geometry" />
+        <mxCell id="FnO_5gVTMvngwDF94d75-22" value="个人对社会价值的量化模型" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="R6N5wBSfr9lxQkGqcmgw-1">
+          <mxGeometry x="302" y="104" width="150" height="21" as="geometry" />
         </mxCell>
         <mxCell id="FnO_5gVTMvngwDF94d75-1" value="&amp;nbsp;f(平台）" style="text;html=1;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="R6N5wBSfr9lxQkGqcmgw-1">
           <mxGeometry x="442" y="403" width="50" height="20" as="geometry" />
