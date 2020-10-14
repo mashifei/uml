@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-02T13:57:10.236Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="sd-tQDcSDDVQMu9lKUdp" version="13.7.6" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2020-10-14T02:45:58.186Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="Yk25VT40bT93dNJRjXWU" version="13.7.9" type="github" pages="7">
   <diagram id="3_CombYH987mm5BwRAqo" name="作业_08">
-    <mxGraphModel dx="782" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="782" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -420,7 +420,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="DmwArF4PHvmnH0WEBZ23" name="个人价值">
-    <mxGraphModel dx="782" dy="469" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="782" dy="437" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="R6N5wBSfr9lxQkGqcmgw-0" />
         <mxCell id="R6N5wBSfr9lxQkGqcmgw-1" parent="R6N5wBSfr9lxQkGqcmgw-0" />
@@ -674,7 +674,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="JJvwlHHPYzlC8f3O5eIZ" name="影响力">
-    <mxGraphModel dx="782" dy="469" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="782" dy="437" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="7CxQp97ysOUE21VQqboQ-0" />
         <mxCell id="7CxQp97ysOUE21VQqboQ-1" parent="7CxQp97ysOUE21VQqboQ-0" />
@@ -746,6 +746,44 @@
         </mxCell>
         <mxCell id="7CxQp97ysOUE21VQqboQ-23" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;rotation=-90;" parent="7CxQp97ysOUE21VQqboQ-4" vertex="1">
           <mxGeometry x="46.5" y="-9.5" width="17" height="99" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="vuI_3WnWtut1igyRcll6" name="表达力">
+    <mxGraphModel dx="782" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="hxROV0KKpz4V-frWTlnt-0" />
+        <mxCell id="hxROV0KKpz4V-frWTlnt-1" parent="hxROV0KKpz4V-frWTlnt-0" />
+        <mxCell id="hxROV0KKpz4V-frWTlnt-3" value="5" style="html=1;fillColor=#10739E;strokeColor=none;shadow=0;fontSize=17;fontColor=#FFFFFF;align=center;fontStyle=1;rounded=0;" vertex="1" parent="hxROV0KKpz4V-frWTlnt-1">
+          <mxGeometry x="180" y="350" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hxROV0KKpz4V-frWTlnt-4" value="有魔力" style="shape=mxgraph.infographic.ribbonSimple;notch1=0;notch2=10;notch=0;html=1;fillColor=#64BBE2;strokeColor=none;shadow=0;fontSize=17;fontColor=#FFFFFF;align=left;spacingLeft=10;fontStyle=1;" vertex="1" parent="hxROV0KKpz4V-frWTlnt-1">
+          <mxGeometry x="225" y="350" width="95" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hxROV0KKpz4V-frWTlnt-5" value="4" style="html=1;fillColor=#F2931E;strokeColor=none;shadow=0;fontSize=17;fontColor=#FFFFFF;align=center;fontStyle=1;rounded=0;" vertex="1" parent="hxROV0KKpz4V-frWTlnt-1">
+          <mxGeometry x="180" y="395" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hxROV0KKpz4V-frWTlnt-6" value="有故事" style="shape=mxgraph.infographic.ribbonSimple;notch1=0;notch2=10;notch=0;html=1;fillColor=#F8C382;strokeColor=none;shadow=0;fontSize=17;fontColor=#FFFFFF;align=left;spacingLeft=10;fontStyle=1;" vertex="1" parent="hxROV0KKpz4V-frWTlnt-1">
+          <mxGeometry x="225" y="395" width="115" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hxROV0KKpz4V-frWTlnt-7" value="3" style="html=1;fillColor=#AE4132;strokeColor=none;shadow=0;fontSize=17;fontColor=#FFFFFF;align=center;fontStyle=1;rounded=0;" vertex="1" parent="hxROV0KKpz4V-frWTlnt-1">
+          <mxGeometry x="180" y="440" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hxROV0KKpz4V-frWTlnt-8" value="有条理" style="shape=mxgraph.infographic.ribbonSimple;notch1=0;notch2=10;notch=0;html=1;fillColor=#F08E81;strokeColor=none;shadow=0;fontSize=17;fontColor=#FFFFFF;align=left;spacingLeft=10;fontStyle=1;" vertex="1" parent="hxROV0KKpz4V-frWTlnt-1">
+          <mxGeometry x="225" y="440" width="135" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hxROV0KKpz4V-frWTlnt-9" value="2" style="html=1;fillColor=#23445D;strokeColor=none;shadow=0;fontSize=17;fontColor=#FFFFFF;align=center;fontStyle=1;rounded=0;" vertex="1" parent="hxROV0KKpz4V-frWTlnt-1">
+          <mxGeometry x="180" y="485" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hxROV0KKpz4V-frWTlnt-10" value="有观点" style="shape=mxgraph.infographic.ribbonSimple;notch1=0;notch2=10;notch=0;html=1;fillColor=#5D7F99;strokeColor=none;shadow=0;fontSize=17;fontColor=#FFFFFF;align=left;spacingLeft=10;fontStyle=1;" vertex="1" parent="hxROV0KKpz4V-frWTlnt-1">
+          <mxGeometry x="225" y="485" width="155" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hxROV0KKpz4V-frWTlnt-11" value="1" style="html=1;fillColor=#12AAB5;strokeColor=none;shadow=0;fontSize=17;fontColor=#FFFFFF;align=center;fontStyle=1;rounded=0;" vertex="1" parent="hxROV0KKpz4V-frWTlnt-1">
+          <mxGeometry x="180" y="530" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hxROV0KKpz4V-frWTlnt-12" value="有事实" style="shape=mxgraph.infographic.ribbonSimple;notch1=0;notch2=10;notch=0;html=1;fillColor=#61C6CE;strokeColor=none;shadow=0;fontSize=17;fontColor=#FFFFFF;align=left;spacingLeft=10;fontStyle=1;" vertex="1" parent="hxROV0KKpz4V-frWTlnt-1">
+          <mxGeometry x="225" y="530" width="175" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
