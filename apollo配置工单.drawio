@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-23T03:53:04.003Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="E-GHnl6jjnbh8cmP_lZL" version="13.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-23T03:56:27.376Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="HETevMZGRfOvZYBVTQOa" version="13.8.1" type="github">
   <diagram id="HkuzjCNXfdghulc0zHtY" name="第 1 页">
     <mxGraphModel dx="1422" dy="1196" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -201,6 +201,30 @@
         </mxCell>
         <mxCell id="XfXEvl1QIxhK9ypkfOGY-77" value="提交apollo配置工单" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontColor=#00000D;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="87" y="-49" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XfXEvl1QIxhK9ypkfOGY-78" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#000000;fillColor=none;gradientColor=#BFBFBF;fontColor=#00000D;" vertex="1" parent="1">
+          <mxGeometry x="546" y="337" width="196" height="155" as="geometry" />
+        </mxCell>
+        <mxCell id="XfXEvl1QIxhK9ypkfOGY-79" value="集群：集群1，集群2" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontColor=#00000D;" vertex="1" parent="1">
+          <mxGeometry x="563" y="368" width="116" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XfXEvl1QIxhK9ypkfOGY-80" value="Key；key1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontColor=#00000D;" vertex="1" parent="1">
+          <mxGeometry x="563" y="395" width="116" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XfXEvl1QIxhK9ypkfOGY-81" value="Value" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontColor=#00000D;" vertex="1" parent="1">
+          <mxGeometry x="561" y="429" width="53" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XfXEvl1QIxhK9ypkfOGY-82" value="&lt;font style=&quot;font-size: 11px&quot;&gt;录入value值&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#000000;fillColor=none;gradientColor=#BFBFBF;fontColor=#00000D;align=left;fontStyle=2;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="606" y="429" width="88" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="XfXEvl1QIxhK9ypkfOGY-83" value="修改" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=#000000;fillColor=none;gradientColor=#BFBFBF;fontSize=10;fontColor=#00000D;align=center;" vertex="1" parent="1">
+          <mxGeometry x="617" y="467" width="45" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XfXEvl1QIxhK9ypkfOGY-84" value="取消" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=#000000;fillColor=none;gradientColor=#BFBFBF;fontSize=10;fontColor=#00000D;align=center;" vertex="1" parent="1">
+          <mxGeometry x="674" y="467" width="45" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XfXEvl1QIxhK9ypkfOGY-85" value="批量修改" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontColor=#00000D;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="548" y="335" width="116" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
