@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-16T09:35:50.287Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36" etag="NmVGEQiCUG6PMTwSzKT9" version="13.9.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-11-17T01:44:27.939Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36" etag="D-6HQ55gOGogoBtcRzMU" version="13.9.9" type="github" pages="3">
   <diagram id="HkuzjCNXfdghulc0zHtY" name="第 1 页">
-    <mxGraphModel dx="782" dy="837" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="782" dy="869" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -272,7 +272,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="wUi8mBcEuXIw3QRIo1D8" name="第 2 页">
-    <mxGraphModel dx="782" dy="403" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="782" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="KQGfomkAD1WOKbrSuTHw-0" />
         <mxCell id="KQGfomkAD1WOKbrSuTHw-1" parent="KQGfomkAD1WOKbrSuTHw-0" />
@@ -280,90 +280,103 @@
     </mxGraphModel>
   </diagram>
   <diagram id="fWQv5UQ_2FWSrR6qAdc5" name="第 3 页">
-    <mxGraphModel dx="782" dy="437" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1022" dy="469" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="NG2ktegaOFFkTP84rU9p-0" />
         <mxCell id="NG2ktegaOFFkTP84rU9p-1" parent="NG2ktegaOFFkTP84rU9p-0" />
-        <mxCell id="NG2ktegaOFFkTP84rU9p-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="NG2ktegaOFFkTP84rU9p-1" source="NG2ktegaOFFkTP84rU9p-2" target="NG2ktegaOFFkTP84rU9p-3">
+        <mxCell id="NG2ktegaOFFkTP84rU9p-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="NG2ktegaOFFkTP84rU9p-1" source="NG2ktegaOFFkTP84rU9p-2" target="NG2ktegaOFFkTP84rU9p-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NG2ktegaOFFkTP84rU9p-2" value="提交工单数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="NG2ktegaOFFkTP84rU9p-1">
+        <mxCell id="NG2ktegaOFFkTP84rU9p-2" value="提交工单数据" style="rounded=1;whiteSpace=wrap;html=1;" parent="NG2ktegaOFFkTP84rU9p-1" vertex="1">
           <mxGeometry x="290" y="190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NG2ktegaOFFkTP84rU9p-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="NG2ktegaOFFkTP84rU9p-1" source="NG2ktegaOFFkTP84rU9p-3" target="NG2ktegaOFFkTP84rU9p-5">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="NG2ktegaOFFkTP84rU9p-3" value="获取线上的apollo的key值列表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="NG2ktegaOFFkTP84rU9p-1">
-          <mxGeometry x="290" y="310" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="NG2ktegaOFFkTP84rU9p-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="NG2ktegaOFFkTP84rU9p-1" source="NG2ktegaOFFkTP84rU9p-5" target="NG2ktegaOFFkTP84rU9p-7">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="NG2ktegaOFFkTP84rU9p-5" value="通过工单上的key，过滤key值，并把过滤后的key和value存到工单的key快照表中" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="NG2ktegaOFFkTP84rU9p-1">
-          <mxGeometry x="282" y="420" width="136" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="NG2ktegaOFFkTP84rU9p-7" value="保存订单数据，标记为待审核状态" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="NG2ktegaOFFkTP84rU9p-1">
-          <mxGeometry x="282" y="540" width="136" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="NG2ktegaOFFkTP84rU9p-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="NG2ktegaOFFkTP84rU9p-1" source="NG2ktegaOFFkTP84rU9p-12" target="NG2ktegaOFFkTP84rU9p-14">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="NG2ktegaOFFkTP84rU9p-12" value="执行工单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="NG2ktegaOFFkTP84rU9p-1">
-          <mxGeometry x="788" y="165" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="NG2ktegaOFFkTP84rU9p-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="NG2ktegaOFFkTP84rU9p-1" source="NG2ktegaOFFkTP84rU9p-14" target="NG2ktegaOFFkTP84rU9p-16">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="NG2ktegaOFFkTP84rU9p-14" value="获取线上的apollo的key值列表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="NG2ktegaOFFkTP84rU9p-1">
-          <mxGeometry x="788" y="285" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="NG2ktegaOFFkTP84rU9p-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="NG2ktegaOFFkTP84rU9p-1" source="NG2ktegaOFFkTP84rU9p-16" target="NG2ktegaOFFkTP84rU9p-18">
+        <mxCell id="NG2ktegaOFFkTP84rU9p-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="NG2ktegaOFFkTP84rU9p-1" source="NG2ktegaOFFkTP84rU9p-3" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="848" y="515" as="targetPoint" />
+            <mxPoint x="350" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NG2ktegaOFFkTP84rU9p-16" value="通过工单key值快照表的key对此时获取的key值列表进行过滤" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="NG2ktegaOFFkTP84rU9p-1">
-          <mxGeometry x="780" y="395" width="136" height="70" as="geometry" />
+        <mxCell id="NG2ktegaOFFkTP84rU9p-3" value="获取待发布的apollo配置工单" style="rounded=1;whiteSpace=wrap;html=1;" parent="NG2ktegaOFFkTP84rU9p-1" vertex="1">
+          <mxGeometry x="290" y="310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NG2ktegaOFFkTP84rU9p-22" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="NG2ktegaOFFkTP84rU9p-1" source="NG2ktegaOFFkTP84rU9p-18" target="NG2ktegaOFFkTP84rU9p-29">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="NG2ktegaOFFkTP84rU9p-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="NG2ktegaOFFkTP84rU9p-1" target="NG2ktegaOFFkTP84rU9p-7" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="490" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="NG2ktegaOFFkTP84rU9p-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.442;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="NG2ktegaOFFkTP84rU9p-1" source="NG2ktegaOFFkTP84rU9p-18" target="NG2ktegaOFFkTP84rU9p-23">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="NG2ktegaOFFkTP84rU9p-25" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NG2ktegaOFFkTP84rU9p-24">
-          <mxGeometry x="-0.3588" y="2" relative="1" as="geometry">
+        <mxCell id="qdHmxSpy72Wa4fz56d2L-1" value="无" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NG2ktegaOFFkTP84rU9p-8">
+          <mxGeometry x="-0.2366" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NG2ktegaOFFkTP84rU9p-18" value="&lt;span&gt;对比获取的key值和快照表上的key值是否一致&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="NG2ktegaOFFkTP84rU9p-1">
-          <mxGeometry x="794" y="550" width="108" height="90" as="geometry" />
+        <mxCell id="NG2ktegaOFFkTP84rU9p-7" value="提交成功" style="rounded=1;whiteSpace=wrap;html=1;" parent="NG2ktegaOFFkTP84rU9p-1" vertex="1">
+          <mxGeometry x="282" y="621" width="135" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="NG2ktegaOFFkTP84rU9p-26" value="有" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="NG2ktegaOFFkTP84rU9p-1" source="NG2ktegaOFFkTP84rU9p-21" target="NG2ktegaOFFkTP84rU9p-23">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="NG2ktegaOFFkTP84rU9p-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="NG2ktegaOFFkTP84rU9p-1" source="NG2ktegaOFFkTP84rU9p-12" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1011" y="274" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="NG2ktegaOFFkTP84rU9p-28" value="无" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.45;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="NG2ktegaOFFkTP84rU9p-1" source="NG2ktegaOFFkTP84rU9p-21" target="NG2ktegaOFFkTP84rU9p-27">
+        <mxCell id="NG2ktegaOFFkTP84rU9p-12" value="malinios执行工单" style="rounded=1;whiteSpace=wrap;html=1;" parent="NG2ktegaOFFkTP84rU9p-1" vertex="1">
+          <mxGeometry x="951" y="159" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qdHmxSpy72Wa4fz56d2L-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.394;entryY=0.006;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="NG2ktegaOFFkTP84rU9p-1" source="NG2ktegaOFFkTP84rU9p-21" target="NG2ktegaOFFkTP84rU9p-23">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1060" y="810" />
-              <mxPoint x="1060" y="810" />
+              <mxPoint x="889" y="432" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="NG2ktegaOFFkTP84rU9p-21" value="&lt;span&gt;检查apollo后台是否有待发布的数据&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="NG2ktegaOFFkTP84rU9p-1">
-          <mxGeometry x="1006" y="700" width="108" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="NG2ktegaOFFkTP84rU9p-23" value="工单执行失败" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="NG2ktegaOFFkTP84rU9p-1">
-          <mxGeometry x="600" y="715" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="NG2ktegaOFFkTP84rU9p-27" value="调用apollo执行接口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="NG2ktegaOFFkTP84rU9p-1">
-          <mxGeometry x="1006" y="850" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="NG2ktegaOFFkTP84rU9p-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="NG2ktegaOFFkTP84rU9p-1" source="NG2ktegaOFFkTP84rU9p-29" target="NG2ktegaOFFkTP84rU9p-21">
+        <mxCell id="qdHmxSpy72Wa4fz56d2L-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.569;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="NG2ktegaOFFkTP84rU9p-1" source="NG2ktegaOFFkTP84rU9p-21" target="NG2ktegaOFFkTP84rU9p-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NG2ktegaOFFkTP84rU9p-29" value="提交给apollo服务工具" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="NG2ktegaOFFkTP84rU9p-1">
-          <mxGeometry x="1000" y="565" width="120" height="60" as="geometry" />
+        <mxCell id="NG2ktegaOFFkTP84rU9p-21" value="&lt;span&gt;检查apollo后台是否有待发布的数据&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="NG2ktegaOFFkTP84rU9p-1" vertex="1">
+          <mxGeometry x="957" y="387" width="108" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="NG2ktegaOFFkTP84rU9p-23" value="工单执行失败" style="rounded=0;whiteSpace=wrap;html=1;" parent="NG2ktegaOFFkTP84rU9p-1" vertex="1">
+          <mxGeometry x="842" y="531" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NG2ktegaOFFkTP84rU9p-27" value="调用apollo执行接口" style="rounded=0;whiteSpace=wrap;html=1;" parent="NG2ktegaOFFkTP84rU9p-1" vertex="1">
+          <mxGeometry x="1079" y="529" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NG2ktegaOFFkTP84rU9p-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="NG2ktegaOFFkTP84rU9p-1" source="NG2ktegaOFFkTP84rU9p-29" target="NG2ktegaOFFkTP84rU9p-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NG2ktegaOFFkTP84rU9p-29" value="提交给apollo服务工具" style="rounded=1;whiteSpace=wrap;html=1;" parent="NG2ktegaOFFkTP84rU9p-1" vertex="1">
+          <mxGeometry x="951" y="273" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qdHmxSpy72Wa4fz56d2L-2" value="有" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="NG2ktegaOFFkTP84rU9p-1" source="qdHmxSpy72Wa4fz56d2L-0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="473.3333435058594" y="458" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qdHmxSpy72Wa4fz56d2L-0" value="检查当前提交的apollo配置工单中的key是否与待发布的apollo配置工单的key有冲突" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="NG2ktegaOFFkTP84rU9p-1">
+          <mxGeometry x="292" y="418" width="116" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qdHmxSpy72Wa4fz56d2L-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="NG2ktegaOFFkTP84rU9p-1" source="qdHmxSpy72Wa4fz56d2L-3" target="NG2ktegaOFFkTP84rU9p-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="514" y="644" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qdHmxSpy72Wa4fz56d2L-5" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qdHmxSpy72Wa4fz56d2L-4">
+          <mxGeometry x="-0.5075" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qdHmxSpy72Wa4fz56d2L-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="NG2ktegaOFFkTP84rU9p-1" source="qdHmxSpy72Wa4fz56d2L-3" target="qdHmxSpy72Wa4fz56d2L-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="587" y="633" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="585" y="456" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qdHmxSpy72Wa4fz56d2L-3" value="是否强制提交" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="NG2ktegaOFFkTP84rU9p-1">
+          <mxGeometry x="474" y="416" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qdHmxSpy72Wa4fz56d2L-7" value="提交失败" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="NG2ktegaOFFkTP84rU9p-1">
+          <mxGeometry x="531" y="624" width="110" height="47" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
