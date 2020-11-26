@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-26T09:15:53.336Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="fckNoZ7vd-1HuYm59etZ" version="13.10.3" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2020-11-26T09:23:08.096Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="m5KQchviIC5mOsUtE7g7" version="13.10.3" type="github" pages="8">
   <diagram id="fpa2SziavpbdTfdcneHl" name="客户端">
     <mxGraphModel dx="1422" dy="794" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1670,7 +1670,7 @@
             <mxPoint x="460" y="940" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9XTr_OUdIJzzpDk8B75d-3" value="有无禁用软件" style="rhombus;whiteSpace=wrap;html=1;shadow=0;glass=1;align=center;" vertex="1" parent="hw-UO-S-jSiIcFTfpjoN-1">
+        <mxCell id="9XTr_OUdIJzzpDk8B75d-3" value="有无禁用软件" style="rhombus;whiteSpace=wrap;html=1;shadow=0;glass=1;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="hw-UO-S-jSiIcFTfpjoN-1">
           <mxGeometry x="220" y="900" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9XTr_OUdIJzzpDk8B75d-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;fontColor=#000000;" edge="1" parent="hw-UO-S-jSiIcFTfpjoN-1" source="9XTr_OUdIJzzpDk8B75d-7" target="9XTr_OUdIJzzpDk8B75d-34">
@@ -1687,7 +1687,7 @@
         <mxCell id="9XTr_OUdIJzzpDk8B75d-16" value="有" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;fontColor=#000000;" edge="1" parent="hw-UO-S-jSiIcFTfpjoN-1" source="9XTr_OUdIJzzpDk8B75d-10" target="9XTr_OUdIJzzpDk8B75d-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9XTr_OUdIJzzpDk8B75d-10" value="有无未分类的软件" style="rhombus;whiteSpace=wrap;html=1;shadow=0;glass=1;align=center;" vertex="1" parent="hw-UO-S-jSiIcFTfpjoN-1">
+        <mxCell id="9XTr_OUdIJzzpDk8B75d-10" value="有无未分类的软件" style="rhombus;whiteSpace=wrap;html=1;shadow=0;glass=1;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="hw-UO-S-jSiIcFTfpjoN-1">
           <mxGeometry x="460" y="900" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9XTr_OUdIJzzpDk8B75d-12" value="关闭程序" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=0;glass=0;fontColor=#ffffff;align=center;fillColor=#0050ef;strokeColor=#001DBC;" vertex="1" parent="hw-UO-S-jSiIcFTfpjoN-1">
@@ -1722,7 +1722,7 @@
         <mxCell id="9XTr_OUdIJzzpDk8B75d-30" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classic;endFill=1;fontColor=#000000;" edge="1" parent="hw-UO-S-jSiIcFTfpjoN-1" source="9XTr_OUdIJzzpDk8B75d-23" target="9XTr_OUdIJzzpDk8B75d-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9XTr_OUdIJzzpDk8B75d-23" value="&lt;span&gt;是否后台指定必须报备&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;glass=1;fontColor=#000000;align=center;" vertex="1" parent="hw-UO-S-jSiIcFTfpjoN-1">
+        <mxCell id="9XTr_OUdIJzzpDk8B75d-23" value="&lt;span&gt;是否后台指定必须报备&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;glass=1;align=center;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="hw-UO-S-jSiIcFTfpjoN-1">
           <mxGeometry x="460" y="1169" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9XTr_OUdIJzzpDk8B75d-26" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=classic;endFill=1;fontColor=#000000;" edge="1" parent="hw-UO-S-jSiIcFTfpjoN-1" source="9XTr_OUdIJzzpDk8B75d-24" target="9XTr_OUdIJzzpDk8B75d-12">
@@ -1742,7 +1742,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="9XTr_OUdIJzzpDk8B75d-24" value="&lt;span&gt;是否首次提交&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;glass=1;fontColor=#000000;align=center;" vertex="1" parent="hw-UO-S-jSiIcFTfpjoN-1">
+        <mxCell id="9XTr_OUdIJzzpDk8B75d-24" value="&lt;span&gt;是否首次提交&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;glass=1;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="hw-UO-S-jSiIcFTfpjoN-1">
           <mxGeometry x="650" y="1169" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9XTr_OUdIJzzpDk8B75d-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;fontColor=#000000;" edge="1" parent="hw-UO-S-jSiIcFTfpjoN-1" source="9XTr_OUdIJzzpDk8B75d-34" target="9XTr_OUdIJzzpDk8B75d-12">
@@ -2027,13 +2027,13 @@
           <mxGeometry x="456" y="760" width="76" height="20" as="geometry" />
         </mxCell>
         <mxCell id="adb9GYE9fBSYrROkhCQz-6" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;sketch=0;fontSize=14;opacity=40;align=center;" vertex="1" parent="jh0m7JFhTl48SdSAqkIY-1">
-          <mxGeometry x="822" y="879" width="306" height="143" as="geometry" />
+          <mxGeometry x="820" y="286.5" width="306" height="143" as="geometry" />
         </mxCell>
         <mxCell id="adb9GYE9fBSYrROkhCQz-11" value="马上去处理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="jh0m7JFhTl48SdSAqkIY-1">
-          <mxGeometry x="1005" y="968" width="104" height="37" as="geometry" />
+          <mxGeometry x="1003" y="375.5" width="104" height="37" as="geometry" />
         </mxCell>
         <mxCell id="adb9GYE9fBSYrROkhCQz-12" value="&lt;span style=&quot;font-size: 15px&quot;&gt;版权警告！&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 14px ; background-color: rgb(248 , 249 , 250)&quot;&gt;检测到您安装了2个禁用软件，6个版权未明软件，请卸载违规软件或报备版权信息&lt;/span&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;fontStyle=1" vertex="1" parent="jh0m7JFhTl48SdSAqkIY-1">
-          <mxGeometry x="829" y="859" width="264" height="120" as="geometry" />
+          <mxGeometry x="825" y="281.5" width="264" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
