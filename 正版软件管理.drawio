@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-26T02:02:47.515Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="ifHKGNYK4kM2GKJ7O647" version="13.10.2" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2020-11-26T02:04:43.638Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="DvMyuccLZ4m7OsO7zQDv" version="13.10.2" type="github" pages="8">
   <diagram id="fpa2SziavpbdTfdcneHl" name="客户端">
     <mxGraphModel dx="782" dy="469" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2049,10 +2049,10 @@
         <mxCell id="uwGeaba07voTSvtUXUBk-94" value="处理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=0;fontSize=14;fontStyle=4" parent="G5XIdN5oWtEvaHLRRT60-1" vertex="1">
           <mxGeometry x="1103.1120086395629" y="490" width="96.88799136043693" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="uwGeaba07voTSvtUXUBk-95" value="禁用/准用/慎用/未知" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=12;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" parent="G5XIdN5oWtEvaHLRRT60-1" vertex="1">
+        <mxCell id="uwGeaba07voTSvtUXUBk-95" value="类型:禁用/准用/慎用/未知" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=12;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" parent="G5XIdN5oWtEvaHLRRT60-1" vertex="1">
           <mxGeometry x="440" y="133.75" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="uwGeaba07voTSvtUXUBk-96" value="全部/待处理/已处理" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=12;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" parent="G5XIdN5oWtEvaHLRRT60-1" vertex="1">
+        <mxCell id="uwGeaba07voTSvtUXUBk-96" value="状态:全部/待处理/已处理" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=12;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" parent="G5XIdN5oWtEvaHLRRT60-1" vertex="1">
           <mxGeometry x="610" y="132.5" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="uwGeaba07voTSvtUXUBk-97" value="合规性（单选)）" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=12;spacingLeft=3;" parent="G5XIdN5oWtEvaHLRRT60-1" vertex="1">
@@ -2118,7 +2118,7 @@
         <mxCell id="gTiLNT0nn3Yz77xq7uOg-6" value="员工白名单" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=0;fontSize=14;fontColor=#000000;" parent="G5XIdN5oWtEvaHLRRT60-1" vertex="1">
           <mxGeometry x="1470" y="670" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="gTiLNT0nn3Yz77xq7uOg-7" value="模糊查询员工名称回车添加到列表中" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;sketch=0;strokeColor=#000000;fillColor=none;fontSize=14;fontColor=#000000;align=left;" parent="G5XIdN5oWtEvaHLRRT60-1" vertex="1">
+        <mxCell id="gTiLNT0nn3Yz77xq7uOg-7" value="模糊查询员工姓名回车添加到列表中" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;sketch=0;strokeColor=#000000;fillColor=none;fontSize=14;fontColor=#000000;align=left;" parent="G5XIdN5oWtEvaHLRRT60-1" vertex="1">
           <mxGeometry x="1560" y="740" width="240" height="35" as="geometry" />
         </mxCell>
         <mxCell id="gTiLNT0nn3Yz77xq7uOg-9" value="员工姓名列表" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;sketch=0;strokeColor=#000000;fillColor=none;fontSize=14;fontColor=#000000;align=left;" parent="G5XIdN5oWtEvaHLRRT60-1" vertex="1">
