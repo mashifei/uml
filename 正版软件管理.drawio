@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-26T08:30:51.746Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="vjcubFukCif_oE3BcIbE" version="13.10.3" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2020-11-26T08:31:42.505Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="E6s8TLtvFMpuI-SbM0sm" version="13.10.3" type="github" pages="8">
   <diagram id="fpa2SziavpbdTfdcneHl" name="客户端">
     <mxGraphModel dx="1422" dy="794" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1655,7 +1655,7 @@
           <mxGeometry x="127.5" y="430" width="640" height="419" as="geometry" />
         </mxCell>
         <mxCell id="MKjYizwIC1f5dA23bkTM-5" value="收集" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#333333;mainText=;buttonStyle=round;fontSize=10;fontStyle=0;fillColor=#f5f5f5;whiteSpace=wrap;" parent="jh0m7JFhTl48SdSAqkIY-1" vertex="1">
-          <mxGeometry x="391" y="366" width="43" height="25" as="geometry" />
+          <mxGeometry x="417.5" y="400.5" width="43" height="25" as="geometry" />
         </mxCell>
         <mxCell id="MKjYizwIC1f5dA23bkTM-7" value="" style="line;strokeWidth=2;html=1;shadow=0;sketch=0;fillColor=none;fontSize=14;opacity=30;" parent="jh0m7JFhTl48SdSAqkIY-1" vertex="1">
           <mxGeometry x="135" y="540" width="605" height="10" as="geometry" />
@@ -1868,10 +1868,10 @@
           <mxGeometry x="335" y="760" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="MKjYizwIC1f5dA23bkTM-82" value="上传" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#333333;mainText=;buttonStyle=round;fontSize=10;fontStyle=0;fillColor=#f5f5f5;whiteSpace=wrap;" parent="jh0m7JFhTl48SdSAqkIY-1" vertex="1">
-          <mxGeometry x="449" y="367" width="42" height="25.25" as="geometry" />
+          <mxGeometry x="468" y="402.12" width="42" height="25.25" as="geometry" />
         </mxCell>
         <mxCell id="MKjYizwIC1f5dA23bkTM-83" value="搜索程序" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fontStyle=2" parent="jh0m7JFhTl48SdSAqkIY-1" vertex="1">
-          <mxGeometry x="504" y="373" width="99" height="21" as="geometry" />
+          <mxGeometry x="629" y="367" width="99" height="21" as="geometry" />
         </mxCell>
         <mxCell id="MKjYizwIC1f5dA23bkTM-85" value="准用清单" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#33A64C;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=12;spacing=5;" parent="jh0m7JFhTl48SdSAqkIY-1" vertex="1">
           <mxGeometry x="643" y="399.75" width="59" height="30" as="geometry" />
@@ -1885,9 +1885,6 @@
         <mxCell id="MKjYizwIC1f5dA23bkTM-89" value="该软件违规禁用，请马上卸载或报备版权信息" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=0;fontSize=14;fontColor=#FF0000;fontStyle=1" parent="jh0m7JFhTl48SdSAqkIY-1" vertex="1">
           <mxGeometry x="533" y="573.75" width="96" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="MKjYizwIC1f5dA23bkTM-93" value="本地全部软件" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeWidth=1;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=12;spacing=5;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" parent="jh0m7JFhTl48SdSAqkIY-1" vertex="1">
-          <mxGeometry x="586" y="400" width="58" height="29" as="geometry" />
-        </mxCell>
         <mxCell id="MKjYizwIC1f5dA23bkTM-94" value="安装时间" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=0;fontSize=14;" parent="jh0m7JFhTl48SdSAqkIY-1" vertex="1">
           <mxGeometry x="476" y="435" width="78" height="20" as="geometry" />
         </mxCell>
@@ -1895,7 +1892,10 @@
           <mxGeometry x="529" y="748" width="96" height="55" as="geometry" />
         </mxCell>
         <mxCell id="khgkdchJPr92aGe9UABv-2" value="本地待报备软件" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeWidth=1;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=12;spacing=5;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="jh0m7JFhTl48SdSAqkIY-1">
-          <mxGeometry x="520.25" y="398.5" width="66.5" height="29" as="geometry" />
+          <mxGeometry x="581.5" y="400.5" width="66.5" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="MKjYizwIC1f5dA23bkTM-93" value="本地全部软件" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeWidth=1;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=12;spacing=5;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" parent="jh0m7JFhTl48SdSAqkIY-1" vertex="1">
+          <mxGeometry x="529" y="399" width="58" height="29" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
