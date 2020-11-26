@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-26T02:42:01.410Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="sTieWNasnS2QeYSxoXbv" version="13.10.3" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2020-11-26T02:49:30.179Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="ah3J5h3u1TBwgyh3vs49" version="13.10.3" type="github" pages="8">
   <diagram id="fpa2SziavpbdTfdcneHl" name="客户端">
     <mxGraphModel dx="1422" dy="794" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1935,14 +1935,14 @@
             <mxPoint y="-50" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uwGeaba07voTSvtUXUBk-6" value="软件列表" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.topButton;rSize=10;fontSize=17;fontStyle=1;resizeWidth=1;fillColor=#003366;fontColor=#FFFFFF;" parent="uwGeaba07voTSvtUXUBk-2" vertex="1">
+        <mxCell id="uwGeaba07voTSvtUXUBk-6" value="软件管理" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.topButton;rSize=10;fontSize=17;fontStyle=1;resizeWidth=1;fillColor=#003366;fontColor=#FFFFFF;" parent="uwGeaba07voTSvtUXUBk-2" vertex="1">
           <mxGeometry width="120" height="50" relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uwGeaba07voTSvtUXUBk-7" value="软件名称" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;sketch=0;fontSize=14;opacity=60;align=left;" parent="G5XIdN5oWtEvaHLRRT60-1" vertex="1">
           <mxGeometry x="210" y="213.75" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="uwGeaba07voTSvtUXUBk-34" value="软件列表" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=0;fontSize=14;fontColor=#000000;opacity=20;" parent="G5XIdN5oWtEvaHLRRT60-1" vertex="1">
-          <mxGeometry x="200" y="167.5" width="99" height="20" as="geometry" />
+        <mxCell id="uwGeaba07voTSvtUXUBk-34" value="软件管理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=0;fontSize=14;fontColor=#000000;opacity=20;fontStyle=1" parent="G5XIdN5oWtEvaHLRRT60-1" vertex="1">
+          <mxGeometry x="200" y="142.5" width="99" height="20" as="geometry" />
         </mxCell>
         <mxCell id="uwGeaba07voTSvtUXUBk-38" value="预置黑名单" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;sketch=0;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="G5XIdN5oWtEvaHLRRT60-1" vertex="1">
           <mxGeometry x="1000.0000000000001" y="211.25" width="89" height="32.5" as="geometry" />
