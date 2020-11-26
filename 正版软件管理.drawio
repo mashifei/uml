@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-26T09:23:08.096Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="m5KQchviIC5mOsUtE7g7" version="13.10.3" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2020-11-26T09:28:00.485Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="CMRiFaTLR0BFLczFvcxJ" version="13.10.3" type="github" pages="8">
   <diagram id="fpa2SziavpbdTfdcneHl" name="客户端">
     <mxGraphModel dx="1422" dy="794" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1733,14 +1733,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="9XTr_OUdIJzzpDk8B75d-32" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;fontColor=#000000;" edge="1" parent="hw-UO-S-jSiIcFTfpjoN-1" source="9XTr_OUdIJzzpDk8B75d-24">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="278" y="1249" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="690" y="1290" />
-              <mxPoint x="278" y="1290" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="iOGsRZr9QacppLIA23tT-1" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;fontColor=#FF0000;" edge="1" parent="hw-UO-S-jSiIcFTfpjoN-1" source="9XTr_OUdIJzzpDk8B75d-24" target="iOGsRZr9QacppLIA23tT-0">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9XTr_OUdIJzzpDk8B75d-24" value="&lt;span&gt;是否首次提交&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;glass=1;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="hw-UO-S-jSiIcFTfpjoN-1">
           <mxGeometry x="650" y="1169" width="80" height="80" as="geometry" />
@@ -1748,7 +1742,8 @@
         <mxCell id="9XTr_OUdIJzzpDk8B75d-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;fontColor=#000000;" edge="1" parent="hw-UO-S-jSiIcFTfpjoN-1" source="9XTr_OUdIJzzpDk8B75d-34" target="9XTr_OUdIJzzpDk8B75d-12">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="820" y="1327" />
+              <mxPoint x="75" y="1400" />
+              <mxPoint x="820" y="1400" />
               <mxPoint x="820" y="890" />
               <mxPoint x="705" y="890" />
             </Array>
@@ -1756,6 +1751,24 @@
         </mxCell>
         <mxCell id="9XTr_OUdIJzzpDk8B75d-34" value="卸载或报备后手动提交" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="hw-UO-S-jSiIcFTfpjoN-1">
           <mxGeometry x="20" y="1300" width="110" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="iOGsRZr9QacppLIA23tT-2" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.989;entryY=0.35;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=classic;endFill=1;fontColor=#FF0000;" edge="1" parent="hw-UO-S-jSiIcFTfpjoN-1" source="iOGsRZr9QacppLIA23tT-0" target="9XTr_OUdIJzzpDk8B75d-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="790" y="1314" />
+              <mxPoint x="790" y="931" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iOGsRZr9QacppLIA23tT-3" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;fontColor=#FF0000;" edge="1" parent="hw-UO-S-jSiIcFTfpjoN-1" source="iOGsRZr9QacppLIA23tT-0" target="9XTr_OUdIJzzpDk8B75d-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="278" y="1314" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iOGsRZr9QacppLIA23tT-0" value="&lt;span&gt;是否新安装（有增量）&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;glass=1;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="hw-UO-S-jSiIcFTfpjoN-1">
+          <mxGeometry x="650" y="1274" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
