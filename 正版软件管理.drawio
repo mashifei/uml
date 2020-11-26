@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-26T08:31:42.505Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="E6s8TLtvFMpuI-SbM0sm" version="13.10.3" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2020-11-26T08:32:56.746Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="qvHuIab6Ls71n9s6rvyz" version="13.10.3" type="github" pages="8">
   <diagram id="fpa2SziavpbdTfdcneHl" name="客户端">
     <mxGraphModel dx="1422" dy="794" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1882,7 +1882,7 @@
         <mxCell id="MKjYizwIC1f5dA23bkTM-87" value="GSM软件检测工具" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=13;" parent="jh0m7JFhTl48SdSAqkIY-1" vertex="1">
           <mxGeometry x="128" y="347" width="119" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="MKjYizwIC1f5dA23bkTM-89" value="该软件违规禁用，请马上卸载或报备版权信息" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=0;fontSize=14;fontColor=#FF0000;fontStyle=1" parent="jh0m7JFhTl48SdSAqkIY-1" vertex="1">
+        <mxCell id="MKjYizwIC1f5dA23bkTM-89" value="该软件违规禁用，请马上卸载或报备版权信息！！" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=0;fontSize=14;fontColor=#FF0000;fontStyle=1" parent="jh0m7JFhTl48SdSAqkIY-1" vertex="1">
           <mxGeometry x="533" y="573.75" width="96" height="55" as="geometry" />
         </mxCell>
         <mxCell id="MKjYizwIC1f5dA23bkTM-94" value="安装时间" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=0;fontSize=14;" parent="jh0m7JFhTl48SdSAqkIY-1" vertex="1">
