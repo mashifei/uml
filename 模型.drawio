@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-11T07:38:00.290Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="r_H3b6smdXERHMAZbTFa" version="13.11.0" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2020-12-11T07:44:13.388Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="aCLbRPOQIH-tqD6QgM9y" version="13.11.0" type="github" pages="13">
   <diagram id="3_CombYH987mm5BwRAqo" name="作业_08">
     <mxGraphModel dx="782" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1229,7 +1229,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="uwkcmhSessHNZfG5fgGj" name="第 12 页">
+  <diagram id="uwkcmhSessHNZfG5fgGj" name="幸福与机会">
     <mxGraphModel dx="782" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="xj9TOgm_caZOmd7lPAYB-0" />
@@ -1281,6 +1281,62 @@
         </mxCell>
         <mxCell id="Tys688jyjsQp6CNBvXv--8" value="坚持以恒" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xj9TOgm_caZOmd7lPAYB-1">
           <mxGeometry x="280" y="320" width="80" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="tqWp8GHIEqU3HHIrcBwf" name="第 13 页">
+    <mxGraphModel dx="782" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="rX-9b9oDh0IuGPZVA1OD-0" />
+        <mxCell id="rX-9b9oDh0IuGPZVA1OD-1" parent="rX-9b9oDh0IuGPZVA1OD-0" />
+        <mxCell id="rX-9b9oDh0IuGPZVA1OD-7" value="" style="group" vertex="1" connectable="0" parent="rX-9b9oDh0IuGPZVA1OD-1">
+          <mxGeometry x="166" y="140" width="344" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="rX-9b9oDh0IuGPZVA1OD-6" value="" style="triangle;direction=north;strokeWidth=4;html=1;shadow=0;fontSize=10;align=center;fontStyle=0;whiteSpace=wrap;spacing=10;strokeColor=none;fillColor=#99CCFF;" vertex="1" parent="rX-9b9oDh0IuGPZVA1OD-7">
+          <mxGeometry y="75.0113895216401" width="344" height="294.98861047835993" as="geometry" />
+        </mxCell>
+        <mxCell id="rX-9b9oDh0IuGPZVA1OD-2" value="" style="triangle;direction=north;strokeWidth=4;html=1;fillColor=#10739E;strokeColor=#ffffff;shadow=0;fontSize=10;fontColor=#FFFFFF;align=center;fontStyle=0;whiteSpace=wrap;spacing=10;" vertex="1" parent="rX-9b9oDh0IuGPZVA1OD-7">
+          <mxGeometry x="40.38260869565217" width="261.7391304347826" height="294.98861047835993" as="geometry" />
+        </mxCell>
+        <mxCell id="rX-9b9oDh0IuGPZVA1OD-3" value="" style="triangle;direction=north;strokeWidth=4;html=1;fillColor=#F2931E;strokeColor=#ffffff;shadow=0;fontSize=10;fontColor=#FFFFFF;align=center;fontStyle=0;whiteSpace=wrap;spacing=10;" vertex="1" parent="rX-9b9oDh0IuGPZVA1OD-7">
+          <mxGeometry x="77.77391304347827" width="186.95652173913044" height="210.70615034168566" as="geometry" />
+        </mxCell>
+        <mxCell id="rX-9b9oDh0IuGPZVA1OD-4" value="" style="triangle;direction=north;strokeWidth=4;html=1;fillColor=#AE4132;strokeColor=#ffffff;shadow=0;fontSize=10;fontColor=#FFFFFF;align=center;fontStyle=0;whiteSpace=wrap;spacing=10;" vertex="1" parent="rX-9b9oDh0IuGPZVA1OD-7">
+          <mxGeometry x="115.16521739130435" width="112.17391304347827" height="126.4236902050114" as="geometry" />
+        </mxCell>
+        <mxCell id="rX-9b9oDh0IuGPZVA1OD-5" value="" style="triangle;direction=north;strokeWidth=4;html=1;fillColor=#23445D;strokeColor=#ffffff;shadow=0;fontSize=10;fontColor=#FFFFFF;align=center;fontStyle=0;whiteSpace=wrap;spacing=10;" vertex="1" parent="rX-9b9oDh0IuGPZVA1OD-7">
+          <mxGeometry x="152.55652173913046" width="37.39130434782609" height="42.14123006833713" as="geometry" />
+        </mxCell>
+        <mxCell id="rX-9b9oDh0IuGPZVA1OD-15" value="五级工程师" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="rX-9b9oDh0IuGPZVA1OD-7">
+          <mxGeometry x="134" y="320" width="76" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="rX-9b9oDh0IuGPZVA1OD-16" value="四级工程师" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="rX-9b9oDh0IuGPZVA1OD-7">
+          <mxGeometry x="134" y="260" width="76" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="rX-9b9oDh0IuGPZVA1OD-17" value="三级工程师" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="rX-9b9oDh0IuGPZVA1OD-7">
+          <mxGeometry x="144" y="170" width="76" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="rX-9b9oDh0IuGPZVA1OD-18" value="二级工程师" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="rX-9b9oDh0IuGPZVA1OD-7">
+          <mxGeometry x="144" y="80" width="76" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="rX-9b9oDh0IuGPZVA1OD-19" value="一级工程师" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="rX-9b9oDh0IuGPZVA1OD-7">
+          <mxGeometry x="172" y="11.069999999999993" width="76" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="rX-9b9oDh0IuGPZVA1OD-8" value="&lt;span style=&quot;color: rgb(18 , 18 , 18) ; font-family: , &amp;#34;blinkmacsystemfont&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;source han sans sc&amp;#34; , &amp;#34;noto sans cjk sc&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , sans-serif ; font-size: medium ; background-color: rgb(255 , 255 , 255)&quot;&gt;能独立解决问题，完成工程工作&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="rX-9b9oDh0IuGPZVA1OD-1">
+          <mxGeometry x="530" y="460" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="rX-9b9oDh0IuGPZVA1OD-9" value="&lt;span style=&quot;color: rgb(18 , 18 , 18) ; font-family: , &amp;quot;blinkmacsystemfont&amp;quot; , &amp;quot;helvetica neue&amp;quot; , &amp;quot;pingfang sc&amp;quot; , &amp;quot;microsoft yahei&amp;quot; , &amp;quot;source han sans sc&amp;quot; , &amp;quot;noto sans cjk sc&amp;quot; , &amp;quot;wenquanyi micro hei&amp;quot; , sans-serif ; font-size: medium ; background-color: rgb(255 , 255 , 255)&quot;&gt;能指导和带领其他人一同完成更有影响力的工作&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="rX-9b9oDh0IuGPZVA1OD-1">
+          <mxGeometry x="530" y="380" width="210" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="rX-9b9oDh0IuGPZVA1OD-10" value="&lt;span style=&quot;color: rgb(18 , 18 , 18) ; font-family: , &amp;#34;blinkmacsystemfont&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;source han sans sc&amp;#34; , &amp;#34;noto sans cjk sc&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , sans-serif ; font-size: medium ; background-color: rgb(255 , 255 , 255)&quot;&gt;能独立设计和实现产品并且在市场上获得成功&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="rX-9b9oDh0IuGPZVA1OD-1">
+          <mxGeometry x="520" y="300" width="210" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="rX-9b9oDh0IuGPZVA1OD-11" value="&lt;span style=&quot;color: rgb(18 , 18 , 18) ; font-family: , &amp;#34;blinkmacsystemfont&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;source han sans sc&amp;#34; , &amp;#34;noto sans cjk sc&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , sans-serif ; font-size: medium ; background-color: rgb(255 , 255 , 255)&quot;&gt;能设计和实现别人不能做出的产品，不可替代&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="rX-9b9oDh0IuGPZVA1OD-1">
+          <mxGeometry x="520" y="220" width="210" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="rX-9b9oDh0IuGPZVA1OD-14" value="&lt;span style=&quot;color: rgb(18 , 18 , 18) ; font-family: , &amp;#34;blinkmacsystemfont&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;source han sans sc&amp;#34; , &amp;#34;noto sans cjk sc&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , sans-serif ; font-size: medium ; background-color: rgb(255 , 255 , 255)&quot;&gt;开创一个产业&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="rX-9b9oDh0IuGPZVA1OD-1">
+          <mxGeometry x="520" y="150" width="210" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
