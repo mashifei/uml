@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-02T02:50:35.074Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="bL-K-iF4mGpaEHBRNrGJ" version="13.10.4" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2020-12-11T07:38:00.290Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="r_H3b6smdXERHMAZbTFa" version="13.11.0" type="github" pages="12">
   <diagram id="3_CombYH987mm5BwRAqo" name="作业_08">
-    <mxGraphModel dx="1022" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="782" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -151,7 +151,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="LWI65ePjAWJDnwwBn6v9" name="作业_09">
-    <mxGraphModel dx="1022" dy="469" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="782" dy="469" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="lactWJ4LwFW5Vdhf8Cjb-0" />
         <mxCell id="lactWJ4LwFW5Vdhf8Cjb-1" parent="lactWJ4LwFW5Vdhf8Cjb-0" />
@@ -299,7 +299,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="719s0IRPr20nFEsgVMTx" name="第 3 页">
-    <mxGraphModel dx="1022" dy="469" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#000033" math="0" shadow="1">
+    <mxGraphModel dx="782" dy="469" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#000033" math="0" shadow="1">
       <root>
         <mxCell id="ZVmYE6kEoZEnT34txlmG-0" />
         <mxCell id="ZVmYE6kEoZEnT34txlmG-1" parent="ZVmYE6kEoZEnT34txlmG-0" />
@@ -349,7 +349,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="LKp6tPVJ1xpOaarCyfT9" name="第 4 页">
-    <mxGraphModel dx="1022" dy="469" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="782" dy="469" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="wZNa9XsKK1IR-6YzFt3x-0" />
         <mxCell id="wZNa9XsKK1IR-6YzFt3x-1" parent="wZNa9XsKK1IR-6YzFt3x-0" />
@@ -420,7 +420,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="DmwArF4PHvmnH0WEBZ23" name="个人价值">
-    <mxGraphModel dx="1022" dy="469" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="782" dy="469" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="R6N5wBSfr9lxQkGqcmgw-0" />
         <mxCell id="R6N5wBSfr9lxQkGqcmgw-1" parent="R6N5wBSfr9lxQkGqcmgw-0" />
@@ -674,7 +674,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="JJvwlHHPYzlC8f3O5eIZ" name="影响力">
-    <mxGraphModel dx="1022" dy="469" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="782" dy="469" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="7CxQp97ysOUE21VQqboQ-0" />
         <mxCell id="7CxQp97ysOUE21VQqboQ-1" parent="7CxQp97ysOUE21VQqboQ-0" />
@@ -751,7 +751,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="vuI_3WnWtut1igyRcll6" name="表达力">
-    <mxGraphModel dx="1022" dy="469" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="782" dy="469" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="hxROV0KKpz4V-frWTlnt-0" />
         <mxCell id="hxROV0KKpz4V-frWTlnt-1" parent="hxROV0KKpz4V-frWTlnt-0" />
@@ -843,7 +843,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="jQa98QIW5x-EcQYl_MFh" name="自由和自律">
-    <mxGraphModel dx="1022" dy="469" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="782" dy="469" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="09iihQlu937S13U7mjqT-0" />
         <mxCell id="09iihQlu937S13U7mjqT-1" parent="09iihQlu937S13U7mjqT-0" />
@@ -978,7 +978,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="04OakhdkNkyr6RRC3L7B" name="命运模型">
-    <mxGraphModel dx="1022" dy="469" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="782" dy="469" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="2H1RM1C9PP0Y8rGzvb37-0" />
         <mxCell id="2H1RM1C9PP0Y8rGzvb37-1" parent="2H1RM1C9PP0Y8rGzvb37-0" />
@@ -1028,7 +1028,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="yRGH08ujg_6yeeXxp1fI" name="五步法">
-    <mxGraphModel dx="1022" dy="469" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="782" dy="469" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="OGhzEQop60u3dRKJtBaY-0" />
         <mxCell id="OGhzEQop60u3dRKJtBaY-1" parent="OGhzEQop60u3dRKJtBaY-0" />
@@ -1225,6 +1225,62 @@
         </mxCell>
         <mxCell id="FRz5S3iNBXi7qW9fPW0G-36" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.acute_triangle;dx=0.5;dashed=1;fillColor=none;" parent="FRz5S3iNBXi7qW9fPW0G-20" vertex="1">
           <mxGeometry x="-65" y="-60" width="290" height="250" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="uwkcmhSessHNZfG5fgGj" name="第 12 页">
+    <mxGraphModel dx="782" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="xj9TOgm_caZOmd7lPAYB-0" />
+        <mxCell id="xj9TOgm_caZOmd7lPAYB-1" parent="xj9TOgm_caZOmd7lPAYB-0" />
+        <mxCell id="xj9TOgm_caZOmd7lPAYB-2" value="幸福感高" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xj9TOgm_caZOmd7lPAYB-1">
+          <mxGeometry x="358" y="210" width="56" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xj9TOgm_caZOmd7lPAYB-3" value="选择少" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xj9TOgm_caZOmd7lPAYB-1">
+          <mxGeometry x="190" y="340" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xj9TOgm_caZOmd7lPAYB-6" value="" style="endArrow=none;html=1;" edge="1" parent="xj9TOgm_caZOmd7lPAYB-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="360" as="sourcePoint" />
+            <mxPoint x="550" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xj9TOgm_caZOmd7lPAYB-7" value="" style="endArrow=none;html=1;" edge="1" parent="xj9TOgm_caZOmd7lPAYB-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="460" as="sourcePoint" />
+            <mxPoint x="390" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xj9TOgm_caZOmd7lPAYB-9" value="选择多" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xj9TOgm_caZOmd7lPAYB-1">
+          <mxGeometry x="560" y="340" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xj9TOgm_caZOmd7lPAYB-11" value="幸福感低" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xj9TOgm_caZOmd7lPAYB-1">
+          <mxGeometry x="360" y="470" width="56" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Tys688jyjsQp6CNBvXv--0" value="会做减法" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xj9TOgm_caZOmd7lPAYB-1">
+          <mxGeometry x="430" y="280" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Tys688jyjsQp6CNBvXv--1" value="断舍离" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xj9TOgm_caZOmd7lPAYB-1">
+          <mxGeometry x="430" y="310" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Tys688jyjsQp6CNBvXv--2" value="左右为难" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xj9TOgm_caZOmd7lPAYB-1">
+          <mxGeometry x="430" y="390" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Tys688jyjsQp6CNBvXv--3" value="贪多" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xj9TOgm_caZOmd7lPAYB-1">
+          <mxGeometry x="430" y="420" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Tys688jyjsQp6CNBvXv--4" value="重视机会" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xj9TOgm_caZOmd7lPAYB-1">
+          <mxGeometry x="278" y="290" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Tys688jyjsQp6CNBvXv--5" value="怨天尤人" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xj9TOgm_caZOmd7lPAYB-1">
+          <mxGeometry x="270" y="410" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Tys688jyjsQp6CNBvXv--7" value="不懂珍惜" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xj9TOgm_caZOmd7lPAYB-1">
+          <mxGeometry x="270" y="380" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Tys688jyjsQp6CNBvXv--8" value="坚持以恒" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xj9TOgm_caZOmd7lPAYB-1">
+          <mxGeometry x="280" y="320" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
