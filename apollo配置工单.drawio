@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-14T03:36:54.263Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="8-fu8xB5vvm_qPVXdNo2" version="14.0.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-12-14T03:37:55.136Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="jq79R7Xd1ZQy7EZq2vLW" version="14.0.1" type="github" pages="3">
   <diagram id="HkuzjCNXfdghulc0zHtY" name="第 1 页">
     <mxGraphModel dx="782" dy="1638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -489,7 +489,7 @@
         <mxCell id="6t5-vPyLzhiE8bH3JnfZ-5" value="Apollo服务" style="swimlane;html=1;startSize=20;" vertex="1" parent="6t5-vPyLzhiE8bH3JnfZ-2">
           <mxGeometry x="520" width="170" height="1070" as="geometry" />
         </mxCell>
-        <mxCell id="6t5-vPyLzhiE8bH3JnfZ-23" value="接口&lt;br&gt;/clusters/appids" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="6t5-vPyLzhiE8bH3JnfZ-5">
+        <mxCell id="6t5-vPyLzhiE8bH3JnfZ-23" value="获取应用的配置接口&lt;br&gt;/clusters/appids" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="6t5-vPyLzhiE8bH3JnfZ-5">
           <mxGeometry x="35" y="215" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="6t5-vPyLzhiE8bH3JnfZ-33" value="修改/新增接口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="6t5-vPyLzhiE8bH3JnfZ-5">
@@ -534,9 +534,6 @@
         </mxCell>
         <mxCell id="gurmhdWvRiZk0BuzDJKC-17" value="malinos" style="swimlane;html=1;startSize=20;" vertex="1" parent="6t5-vPyLzhiE8bH3JnfZ-1">
           <mxGeometry x="860" y="110" width="170" height="1070" as="geometry" />
-        </mxCell>
-        <mxCell id="gurmhdWvRiZk0BuzDJKC-18" value="接口&lt;br&gt;/clusters/appids" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="gurmhdWvRiZk0BuzDJKC-17">
-          <mxGeometry x="35" y="215" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="gurmhdWvRiZk0BuzDJKC-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="gurmhdWvRiZk0BuzDJKC-17" source="gurmhdWvRiZk0BuzDJKC-19" target="gurmhdWvRiZk0BuzDJKC-41">
           <mxGeometry relative="1" as="geometry" />
