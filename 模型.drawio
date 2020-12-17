@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-17T02:21:17.838Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="4DAwkp2GvioYOaj5UehM" version="14.0.1" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2020-12-17T02:22:11.361Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="T0mhSu2L-3WNxmPVX9n-" version="14.0.1" type="github" pages="14">
   <diagram id="3_CombYH987mm5BwRAqo" name="作业_08">
     <mxGraphModel dx="782" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1382,8 +1382,8 @@
         <mxCell id="Rv4XlkAzgeoRj_28qXGl-11" value="愚人" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Rv4XlkAzgeoRj_28qXGl-1">
           <mxGeometry x="280" y="330" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Rv4XlkAzgeoRj_28qXGl-14" value="胜人，不可多得，&lt;br&gt;应委以重任" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Rv4XlkAzgeoRj_28qXGl-1">
-          <mxGeometry x="400" y="230" width="120" height="20" as="geometry" />
+        <mxCell id="Rv4XlkAzgeoRj_28qXGl-14" value="也是胜人，不可多得，&lt;br&gt;应委以重任" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Rv4XlkAzgeoRj_28qXGl-1">
+          <mxGeometry x="400" y="230" width="131" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Rv4XlkAzgeoRj_28qXGl-16" value="可短期用，不可长留" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Rv4XlkAzgeoRj_28qXGl-1">
           <mxGeometry x="414" y="380" width="120" height="20" as="geometry" />
