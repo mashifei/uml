@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-17T02:19:10.074Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="xQ4gO9OKkgTIOtErGuxP" version="14.0.1" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2020-12-17T02:19:43.122Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="4akx6TTt1SkJFkDQZbfM" version="14.0.1" type="github" pages="14">
   <diagram id="3_CombYH987mm5BwRAqo" name="作业_08">
     <mxGraphModel dx="782" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1358,16 +1358,16 @@
             <mxPoint x="380" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Rv4XlkAzgeoRj_28qXGl-4" value="有德&lt;br&gt;（个人思想与公司理念契合）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Rv4XlkAzgeoRj_28qXGl-1">
+        <mxCell id="Rv4XlkAzgeoRj_28qXGl-4" value="有德&lt;br&gt;（个人思想与公司理念契合）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="Rv4XlkAzgeoRj_28qXGl-1">
           <mxGeometry x="297.5" y="90" width="165" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Rv4XlkAzgeoRj_28qXGl-5" value="有才&lt;br&gt;(专业能力强)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Rv4XlkAzgeoRj_28qXGl-1">
+        <mxCell id="Rv4XlkAzgeoRj_28qXGl-5" value="有才&lt;br&gt;(专业能力强)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="Rv4XlkAzgeoRj_28qXGl-1">
           <mxGeometry x="550" y="270" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Rv4XlkAzgeoRj_28qXGl-6" value="无才&lt;br&gt;（专业能力弱）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Rv4XlkAzgeoRj_28qXGl-1">
+        <mxCell id="Rv4XlkAzgeoRj_28qXGl-6" value="无才&lt;br&gt;（专业能力弱）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="Rv4XlkAzgeoRj_28qXGl-1">
           <mxGeometry x="100" y="270" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Rv4XlkAzgeoRj_28qXGl-7" value="无德&lt;br&gt;（个人思想与公司理念冲突）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Rv4XlkAzgeoRj_28qXGl-1">
+        <mxCell id="Rv4XlkAzgeoRj_28qXGl-7" value="无德&lt;br&gt;（个人思想与公司理念冲突）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="Rv4XlkAzgeoRj_28qXGl-1">
           <mxGeometry x="292.5" y="440" width="170" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Rv4XlkAzgeoRj_28qXGl-8" value="圣人" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Rv4XlkAzgeoRj_28qXGl-1">
