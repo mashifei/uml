@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-22T08:54:10.085Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="m8LoeY05nrdWhB6THG91" version="14.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-22T09:08:40.550Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="ks1F9Jlf2o9OsphzLC2P" version="14.4.9" type="github">
   <diagram name="Page-1" id="5348f1db-0dfa-24cf-5d06-2057accb5106">
     <mxGraphModel dx="782" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -296,7 +296,7 @@
             <mxPoint x="-17" y="-2.5" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9OucFx-GNlFf2Y0bRGm2-24" value="升级申请" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;html=1;strokeColor=#C8C8C8;fillColor=#ffffff;whiteSpace=wrap;verticalAlign=top;align=left;fontSize=18;spacing=15;spacingTop=-5;rounded=0;sketch=0;container=0;" vertex="1" parent="1">
+        <mxCell id="9OucFx-GNlFf2Y0bRGm2-24" value="升级申请/新购" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;html=1;strokeColor=#C8C8C8;fillColor=#ffffff;whiteSpace=wrap;verticalAlign=top;align=left;fontSize=18;spacing=15;spacingTop=-5;rounded=0;sketch=0;container=0;" vertex="1" parent="1">
           <mxGeometry x="1060" y="640" width="400" height="750" as="geometry" />
         </mxCell>
         <mxCell id="9OucFx-GNlFf2Y0bRGm2-25" value="" style="shape=line;strokeColor=#dddddd;resizeWidth=1;" vertex="1" parent="1">
