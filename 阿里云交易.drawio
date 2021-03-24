@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-24T08:46:54.632Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="9h2GXsqu9kykorVIz4Zx" version="14.5.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-03-24T08:47:55.787Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="e93itZHQzROgSuAc6jFt" version="14.5.0" type="github" pages="3">
   <diagram name="资源管理" id="5348f1db-0dfa-24cf-5d06-2057accb5106">
     <mxGraphModel dx="1634" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -450,7 +450,7 @@
             <mxPoint y="50" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zAUTGzZ8Z8pulFCagqcD-23" value="服务商:阿里云" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeWidth=1;fillColor=#f5f5f5;fontColor=#333333;whiteSpace=wrap;align=left;verticalAlign=middle;fontStyle=0;fontSize=12;spacingRight=0;spacing=17;rounded=0;sketch=0;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="zAUTGzZ8Z8pulFCagqcD-23" value="服务商:阿里云" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeWidth=1;whiteSpace=wrap;align=left;verticalAlign=middle;fontStyle=0;fontSize=12;spacingRight=0;spacing=17;rounded=0;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="37" y="1175" width="253" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zAUTGzZ8Z8pulFCagqcD-24" value="" style="shape=triangle;direction=south;fillColor=#495057;strokeColor=none;perimeter=none;" vertex="1" parent="zAUTGzZ8Z8pulFCagqcD-23">
@@ -461,7 +461,7 @@
         <mxCell id="zAUTGzZ8Z8pulFCagqcD-25" value="计算出价格： ¥2000" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeWidth=1;whiteSpace=wrap;align=left;verticalAlign=middle;fontStyle=0;fontSize=12;spacingRight=0;spacing=17;rounded=0;sketch=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="68.5" y="1632" width="249.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zAUTGzZ8Z8pulFCagqcD-26" value="产品:&lt;span style=&quot;color: rgb(80 , 80 , 80) ; text-align: center&quot;&gt;关系型数据库RDS(包月)&lt;/span&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeWidth=1;fillColor=#f5f5f5;fontColor=#333333;whiteSpace=wrap;align=left;verticalAlign=middle;fontStyle=0;fontSize=12;spacingRight=0;spacing=17;rounded=0;sketch=0;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="zAUTGzZ8Z8pulFCagqcD-26" value="产品:&lt;span style=&quot;color: rgb(80 , 80 , 80) ; text-align: center&quot;&gt;关系型数据库RDS(包月)&lt;/span&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeWidth=1;whiteSpace=wrap;align=left;verticalAlign=middle;fontStyle=0;fontSize=12;spacingRight=0;spacing=17;rounded=0;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="37" y="1215" width="253" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zAUTGzZ8Z8pulFCagqcD-29" value="提交" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=14;spacing=5;rounded=0;sketch=0;" vertex="1" parent="1">
@@ -556,6 +556,9 @@
         </mxCell>
         <mxCell id="htsedhxRTlMTrjQWDPcs-4" value="&lt;font color=&quot;#000000&quot;&gt;购买周期&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=1;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="37" y="1285" width="57" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="cs2or8xqjZ7bNPrWL3Gg-1" value="" style="shape=triangle;direction=south;fillColor=#495057;strokeColor=none;perimeter=none;" vertex="1" parent="1">
+          <mxGeometry x="270" y="1227.5" width="10" height="5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
