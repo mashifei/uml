@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-24T08:47:55.787Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="e93itZHQzROgSuAc6jFt" version="14.5.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-03-24T08:48:22.968Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="HnQD6kHAV8fry279YpbJ" version="14.5.0" type="github" pages="3">
   <diagram name="资源管理" id="5348f1db-0dfa-24cf-5d06-2057accb5106">
     <mxGraphModel dx="1634" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -476,7 +476,7 @@
         <mxCell id="zAUTGzZ8Z8pulFCagqcD-32" value="月" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.radioButton2;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;gradientColor=#DEDEDE;checked=0;spacing=5;checkedFill=#0085FC;checkedStroke=#ffffff;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="156.75" y="1290" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="zAUTGzZ8Z8pulFCagqcD-33" value="周期时长" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#505050;strokeWidth=1;fillColor=#ffffff;fontColor=#777777;whiteSpace=wrap;align=left;verticalAlign=middle;fontStyle=0;fontSize=12;spacingRight=0;spacing=17;rounded=0;sketch=0;" vertex="1" parent="1">
+        <mxCell id="zAUTGzZ8Z8pulFCagqcD-33" value="选择周期" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#505050;strokeWidth=1;fillColor=#ffffff;fontColor=#777777;whiteSpace=wrap;align=left;verticalAlign=middle;fontStyle=0;fontSize=12;spacingRight=0;spacing=17;rounded=0;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="43.75" y="1308.75" width="253" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zAUTGzZ8Z8pulFCagqcD-34" value="" style="shape=triangle;direction=south;fillColor=#495057;strokeColor=none;perimeter=none;" vertex="1" parent="zAUTGzZ8Z8pulFCagqcD-33">
