@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-24T07:01:12.752Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="8cfqdzpzrMc9VQBAz9O3" version="14.5.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-03-24T07:03:45.772Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="IMcdbIxEpnNosDTeWfzJ" version="14.5.0" type="github" pages="2">
   <diagram name="Page-1" id="5348f1db-0dfa-24cf-5d06-2057accb5106">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -448,7 +448,7 @@
         <mxCell id="ao13TBn_hGJxRqdzdSoy-8" value="用途" style="rounded=0;whiteSpace=wrap;html=1;arcSize=50;strokeColor=none;strokeWidth=1;fontColor=#000000;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=10;fillColor=#DFE0E0;" vertex="1" parent="ao13TBn_hGJxRqdzdSoy-1">
           <mxGeometry x="712" y="190" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ao13TBn_hGJxRqdzdSoy-9" value="申请时间" style="rounded=0;whiteSpace=wrap;html=1;arcSize=50;strokeColor=none;strokeWidth=1;fontColor=#000000;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=10;fillColor=#DFE0E0;" vertex="1" parent="ao13TBn_hGJxRqdzdSoy-1">
+        <mxCell id="ao13TBn_hGJxRqdzdSoy-9" value="提交时间" style="rounded=0;whiteSpace=wrap;html=1;arcSize=50;strokeColor=none;strokeWidth=1;fontColor=#000000;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=10;fillColor=#DFE0E0;" vertex="1" parent="ao13TBn_hGJxRqdzdSoy-1">
           <mxGeometry x="240" y="190" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ao13TBn_hGJxRqdzdSoy-10" value="产品类型" style="rounded=0;whiteSpace=wrap;html=1;arcSize=50;strokeColor=none;strokeWidth=1;fontColor=#000000;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=10;fillColor=#DFE0E0;" vertex="1" parent="ao13TBn_hGJxRqdzdSoy-1">
@@ -532,7 +532,7 @@
             <mxPoint x="-17" y="-2.5" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ao13TBn_hGJxRqdzdSoy-35" value="申请时间" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;dashed=0;sketch=0;fontSize=12;fontColor=#505050;" vertex="1" parent="ao13TBn_hGJxRqdzdSoy-32">
+        <mxCell id="ao13TBn_hGJxRqdzdSoy-35" value="询价提交" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;dashed=0;sketch=0;fontSize=12;fontColor=#505050;" vertex="1" parent="ao13TBn_hGJxRqdzdSoy-32">
           <mxGeometry y="13" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ao13TBn_hGJxRqdzdSoy-36" value="服务商" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#505050;strokeWidth=1;fillColor=#ffffff;fontColor=#777777;whiteSpace=wrap;align=left;verticalAlign=middle;fontStyle=0;fontSize=12;spacingRight=0;spacing=17;rounded=0;sketch=0;" vertex="1" parent="ao13TBn_hGJxRqdzdSoy-32">
@@ -566,7 +566,7 @@
         <mxCell id="ao13TBn_hGJxRqdzdSoy-45" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;dashed=0;sketch=0;strokeColor=#CED4DA;strokeWidth=1;fillColor=#FFFFFF;fontSize=14;fontColor=#505050;align=left;" vertex="1" parent="ao13TBn_hGJxRqdzdSoy-44">
           <mxGeometry width="1140" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="ao13TBn_hGJxRqdzdSoy-46" value="rm-8vbxl55y4r9" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;dashed=0;sketch=0;fontSize=14;fontColor=#505050;" vertex="1" parent="ao13TBn_hGJxRqdzdSoy-44">
+        <mxCell id="ao13TBn_hGJxRqdzdSoy-46" value="2" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;dashed=0;sketch=0;fontSize=14;fontColor=#505050;" vertex="1" parent="ao13TBn_hGJxRqdzdSoy-44">
           <mxGeometry y="22.5" width="120.5769230769231" height="45" as="geometry" />
         </mxCell>
         <mxCell id="ao13TBn_hGJxRqdzdSoy-47" value="2019-03-07 09:12:00" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;dashed=0;sketch=0;fontSize=12;fontColor=#505050;spacing=2;textOpacity=90;" vertex="1" parent="ao13TBn_hGJxRqdzdSoy-44">
