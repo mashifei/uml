@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-25T09:33:51.124Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="2Waac5C1hlYCSbpCJuHd" version="14.5.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-03-25T09:34:30.800Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="JnKYxGz756w2-l47An4b" version="14.5.1" type="github" pages="3">
   <diagram name="资源管理" id="5348f1db-0dfa-24cf-5d06-2057accb5106">
     <mxGraphModel dx="1422" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -256,7 +256,7 @@
         <mxCell id="zAUTGzZ8Z8pulFCagqcD-17" value="资源ID:&lt;span style=&quot;color: rgb(80 , 80 , 80) ; font-size: 14px ; text-align: center&quot;&gt;rm-8vbxl55y4r9&lt;/span&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeWidth=1;fillColor=#f5f5f5;fontColor=#333333;whiteSpace=wrap;align=left;verticalAlign=middle;fontStyle=0;fontSize=12;spacingRight=0;spacing=17;rounded=0;sketch=0;strokeColor=none;" parent="zAUTGzZ8Z8pulFCagqcD-6" vertex="1">
           <mxGeometry x="-83" y="109.99573033707865" width="253" height="33.70786516853933" as="geometry" />
         </mxCell>
-        <mxCell id="zAUTGzZ8Z8pulFCagqcD-18" value="用途名称：&lt;span style=&quot;color: rgb(80 , 80 , 80) ; text-align: center&quot;&gt;wsgjp_ecs_web01&lt;/span&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeWidth=1;whiteSpace=wrap;align=left;verticalAlign=middle;fontStyle=0;fontSize=12;spacingRight=0;spacing=17;rounded=0;sketch=0;" parent="zAUTGzZ8Z8pulFCagqcD-6" vertex="1">
+        <mxCell id="zAUTGzZ8Z8pulFCagqcD-18" value="用途别名：&lt;span style=&quot;color: rgb(80 , 80 , 80) ; text-align: center&quot;&gt;wsgjp_ecs_web01&lt;/span&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeWidth=1;whiteSpace=wrap;align=left;verticalAlign=middle;fontStyle=0;fontSize=12;spacingRight=0;spacing=17;rounded=0;sketch=0;" parent="zAUTGzZ8Z8pulFCagqcD-6" vertex="1">
           <mxGeometry x="-80" y="210.0013483146068" width="250" height="39.325842696629216" as="geometry" />
         </mxCell>
         <mxCell id="zAUTGzZ8Z8pulFCagqcD-20" value="提交" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=14;spacing=5;rounded=0;sketch=0;" parent="zAUTGzZ8Z8pulFCagqcD-6" vertex="1">
@@ -305,7 +305,7 @@
         <mxCell id="TfYHMZdPJaH0tN1C7_BG-262" value="资源ID:&lt;span style=&quot;color: rgb(80 , 80 , 80) ; font-size: 14px ; text-align: center&quot;&gt;rm-8vbxl55y4r9&lt;/span&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeWidth=1;fillColor=#f5f5f5;fontColor=#333333;whiteSpace=wrap;align=left;verticalAlign=middle;fontStyle=0;fontSize=12;spacingRight=0;spacing=17;rounded=0;sketch=0;strokeColor=none;" parent="9OucFx-GNlFf2Y0bRGm2-22" vertex="1">
           <mxGeometry x="30" y="115" width="253" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zAUTGzZ8Z8pulFCagqcD-3" value="用途名称：&lt;span style=&quot;color: rgb(80 , 80 , 80) ; text-align: center&quot;&gt;wsgjp_ecs_web01&lt;/span&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeWidth=1;fillColor=#f5f5f5;fontColor=#333333;whiteSpace=wrap;align=left;verticalAlign=middle;fontStyle=0;fontSize=12;spacingRight=0;spacing=17;rounded=0;sketch=0;strokeColor=none;" parent="9OucFx-GNlFf2Y0bRGm2-22" vertex="1">
+        <mxCell id="zAUTGzZ8Z8pulFCagqcD-3" value="用途别：&lt;span style=&quot;color: rgb(80 , 80 , 80) ; text-align: center&quot;&gt;wsgjp_ecs_web01&lt;/span&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeWidth=1;fillColor=#f5f5f5;fontColor=#333333;whiteSpace=wrap;align=left;verticalAlign=middle;fontStyle=0;fontSize=12;spacingRight=0;spacing=17;rounded=0;sketch=0;strokeColor=none;" parent="9OucFx-GNlFf2Y0bRGm2-22" vertex="1">
           <mxGeometry x="30" y="200" width="253" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zAUTGzZ8Z8pulFCagqcD-4" value="&lt;font color=&quot;#000000&quot;&gt;购买周期&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=1;fontColor=#FFFFFF;" parent="9OucFx-GNlFf2Y0bRGm2-22" vertex="1">
@@ -418,7 +418,7 @@
         <mxCell id="9OucFx-GNlFf2Y0bRGm2-64" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;strokeColor=#000000;strokeWidth=1;opacity=20;" parent="9OucFx-GNlFf2Y0bRGm2-61" vertex="1">
           <mxGeometry x="5" width="10" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="fPiCS8LxDSG3n5S9xBQA-1" value="用途名称：&lt;span style=&quot;color: rgb(80 , 80 , 80) ; text-align: center&quot;&gt;wsgjp_ecs_web01&lt;/span&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeWidth=1;fillColor=#f5f5f5;fontColor=#333333;whiteSpace=wrap;align=left;verticalAlign=middle;fontStyle=0;fontSize=12;spacingRight=0;spacing=17;rounded=0;sketch=0;strokeColor=none;" parent="zAUTGzZ8Z8pulFCagqcD-6" vertex="1">
+        <mxCell id="fPiCS8LxDSG3n5S9xBQA-1" value="用途别：&lt;span style=&quot;color: rgb(80 , 80 , 80) ; text-align: center&quot;&gt;wsgjp_ecs_web01&lt;/span&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeWidth=1;fillColor=#f5f5f5;fontColor=#333333;whiteSpace=wrap;align=left;verticalAlign=middle;fontStyle=0;fontSize=12;spacingRight=0;spacing=17;rounded=0;sketch=0;strokeColor=none;" parent="zAUTGzZ8Z8pulFCagqcD-6" vertex="1">
           <mxGeometry x="682" y="202.5" width="253" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fPiCS8LxDSG3n5S9xBQA-4" value="&lt;font color=&quot;#000000&quot;&gt;购买周期&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=1;fontColor=#FFFFFF;" parent="zAUTGzZ8Z8pulFCagqcD-6" vertex="1">
