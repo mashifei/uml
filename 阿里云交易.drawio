@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-26T06:59:41.165Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="-8MfZUrmJhnJUmXTklVi" version="14.5.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-03-26T06:59:52.273Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="3EucsMfhE_TxIMH2d81t" version="14.5.1" type="github" pages="4">
   <diagram name="资源管理" id="5348f1db-0dfa-24cf-5d06-2057accb5106">
     <mxGraphModel dx="1580" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -543,7 +543,7 @@
           <mxGeometry x="270" y="1227.5" width="10" height="5" as="geometry" />
         </mxCell>
         <mxCell id="B6dY-odYcLR840l5Uq3M-1" value="同步别名(阿里)" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=14;spacing=5;rounded=0;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="959" y="90" width="81" height="30" as="geometry" />
+          <mxGeometry x="959" y="90" width="111" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TfYHMZdPJaH0tN1C7_BG-170" value="同步实例" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=14;spacing=5;rounded=0;sketch=0;" parent="1" vertex="1">
           <mxGeometry x="870" y="90" width="81" height="30" as="geometry" />
