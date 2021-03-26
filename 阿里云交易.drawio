@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-26T08:46:38.845Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="O0F83pOHPvkYnNXp1qGS" version="14.5.1" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2021-03-26T08:58:21.440Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="2s1xQGygUigMkbeUfVqZ" version="14.5.1" type="github" pages="8">
   <diagram name="资源管理" id="5348f1db-0dfa-24cf-5d06-2057accb5106">
     <mxGraphModel dx="1580" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -1013,7 +1013,7 @@
         <mxCell id="SVM8H9x7N09GHl_-MmZx-57" value="导出Excel" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=14;spacing=5;rounded=0;sketch=0;" parent="SVM8H9x7N09GHl_-MmZx-30" vertex="1">
           <mxGeometry x="600" y="3" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IVFoLtl8OLeK6PP3LcMz-1" value="匹配估价" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=14;spacing=5;rounded=0;sketch=0;" vertex="1" parent="SVM8H9x7N09GHl_-MmZx-30">
+        <mxCell id="IVFoLtl8OLeK6PP3LcMz-1" value="匹配预估价" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=14;spacing=5;rounded=0;sketch=0;" vertex="1" parent="SVM8H9x7N09GHl_-MmZx-30">
           <mxGeometry x="490" y="3" width="81" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SVM8H9x7N09GHl_-MmZx-40" value="结束日期" style="rounded=0;whiteSpace=wrap;html=1;arcSize=50;strokeColor=none;strokeWidth=1;fontColor=#000000;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=10;fillColor=#DFE0E0;" parent="SVM8H9x7N09GHl_-MmZx-1" vertex="1">
@@ -1571,6 +1571,17 @@
         </mxCell>
         <mxCell id="xQJ8c76LoZcjlqvM8r1O-0" value="新购询价" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="2JVTKx-ACS6dqLpuL1U7-1">
           <mxGeometry x="360" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="38HOFLuM4bN8Z-p3qUF8" name="匹配估价">
+    <mxGraphModel dx="1580" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="DHX3BKpEqkzRQVsXnwxk-0" />
+        <mxCell id="DHX3BKpEqkzRQVsXnwxk-1" parent="DHX3BKpEqkzRQVsXnwxk-0" />
+        <mxCell id="DHX3BKpEqkzRQVsXnwxk-2" value="匹配预估价" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="DHX3BKpEqkzRQVsXnwxk-1">
+          <mxGeometry x="330" y="70" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
