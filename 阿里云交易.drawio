@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-26T08:40:14.121Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="WDfugMbRn2LRsIzyKACT" version="14.5.1" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2021-03-26T08:41:06.028Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="DHGjSTeDtzAtg5_4WwUp" version="14.5.1" type="github" pages="7">
   <diagram name="资源管理" id="5348f1db-0dfa-24cf-5d06-2057accb5106">
     <mxGraphModel dx="1580" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -1349,7 +1349,7 @@
             <Array as="points">
               <mxPoint x="280" y="759" />
             </Array>
-            <mxPoint x="280" y="679" as="sourcePoint" />
+            <mxPoint x="330" y="759" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4PDUGHh0lgZw9MGa3QIn-21" value="调用预付费产品询价服务接口(续费)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ylOWOlv7c2UGEYbuSj4U-1">
@@ -1416,7 +1416,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="ljRJWRg1e3ncamBr0-45" name="升级询价">
+  <diagram id="ljRJWRg1e3ncamBr0-45" name="升级询价流程">
     <mxGraphModel dx="1580" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="PtFkMtIeyugs6DYwZ_QQ-0" />
@@ -1498,7 +1498,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="mLDj5ir_lyslHH5KGVEZ" name="新购询价">
+  <diagram id="mLDj5ir_lyslHH5KGVEZ" name="新购询价流程">
     <mxGraphModel dx="1580" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="2JVTKx-ACS6dqLpuL1U7-0" />
