@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-26T08:25:55.349Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="yzy4g4SFOurTzh1o_ecy" version="14.5.1" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-03-26T08:31:31.383Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="RWCbhJE7_W2ztnFWIC4x" version="14.5.1" type="github" pages="6">
   <diagram name="资源管理" id="5348f1db-0dfa-24cf-5d06-2057accb5106">
     <mxGraphModel dx="1580" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -1287,6 +1287,11 @@
             <mxPoint x="50" y="449" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="3kSMeC-Dqargb95arNCS-0" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4PDUGHh0lgZw9MGa3QIn-3">
+          <mxGeometry x="-0.4538" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="4PDUGHh0lgZw9MGa3QIn-4" value="是否为阿里云资源" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="ylOWOlv7c2UGEYbuSj4U-1">
           <mxGeometry x="380" y="199" width="80" height="80" as="geometry" />
         </mxCell>
@@ -1416,6 +1421,82 @@
         </mxCell>
         <mxCell id="4PDUGHh0lgZw9MGa3QIn-36" value="手动录入资源的价格" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ylOWOlv7c2UGEYbuSj4U-1">
           <mxGeometry x="10" y="449" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="ljRJWRg1e3ncamBr0-45" name="升级询价">
+    <mxGraphModel dx="1580" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="PtFkMtIeyugs6DYwZ_QQ-0" />
+        <mxCell id="PtFkMtIeyugs6DYwZ_QQ-1" parent="PtFkMtIeyugs6DYwZ_QQ-0" />
+        <mxCell id="-POLRUXvu1gzZpYFcy3s-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="PtFkMtIeyugs6DYwZ_QQ-1" source="-POLRUXvu1gzZpYFcy3s-1" target="-POLRUXvu1gzZpYFcy3s-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-POLRUXvu1gzZpYFcy3s-1" value="升级询价" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="PtFkMtIeyugs6DYwZ_QQ-1">
+          <mxGeometry x="360" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-POLRUXvu1gzZpYFcy3s-3" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="PtFkMtIeyugs6DYwZ_QQ-1" source="-POLRUXvu1gzZpYFcy3s-4" target="-POLRUXvu1gzZpYFcy3s-36">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="50" y="449" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zpcbCFqt5Jl0KJasoNfs-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="PtFkMtIeyugs6DYwZ_QQ-1" source="-POLRUXvu1gzZpYFcy3s-4" target="-POLRUXvu1gzZpYFcy3s-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-POLRUXvu1gzZpYFcy3s-4" value="是否为阿里云资源" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="PtFkMtIeyugs6DYwZ_QQ-1">
+          <mxGeometry x="380" y="199" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-POLRUXvu1gzZpYFcy3s-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="PtFkMtIeyugs6DYwZ_QQ-1" source="-POLRUXvu1gzZpYFcy3s-17" target="-POLRUXvu1gzZpYFcy3s-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-POLRUXvu1gzZpYFcy3s-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="PtFkMtIeyugs6DYwZ_QQ-1" source="-POLRUXvu1gzZpYFcy3s-19" target="-POLRUXvu1gzZpYFcy3s-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-POLRUXvu1gzZpYFcy3s-19" value="选择产品模块和模块配置" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="PtFkMtIeyugs6DYwZ_QQ-1">
+          <mxGeometry x="360" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zpcbCFqt5Jl0KJasoNfs-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="PtFkMtIeyugs6DYwZ_QQ-1" source="-POLRUXvu1gzZpYFcy3s-21" target="-POLRUXvu1gzZpYFcy3s-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-POLRUXvu1gzZpYFcy3s-21" value="调用预付费产品询价服务接口(升级)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="PtFkMtIeyugs6DYwZ_QQ-1">
+          <mxGeometry x="360" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-POLRUXvu1gzZpYFcy3s-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="PtFkMtIeyugs6DYwZ_QQ-1" source="-POLRUXvu1gzZpYFcy3s-25" target="-POLRUXvu1gzZpYFcy3s-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-POLRUXvu1gzZpYFcy3s-25" value="返回升级价格" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="PtFkMtIeyugs6DYwZ_QQ-1">
+          <mxGeometry x="360" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-POLRUXvu1gzZpYFcy3s-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="PtFkMtIeyugs6DYwZ_QQ-1" source="-POLRUXvu1gzZpYFcy3s-27" target="-POLRUXvu1gzZpYFcy3s-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="870" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-POLRUXvu1gzZpYFcy3s-27" value="提交询价信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="PtFkMtIeyugs6DYwZ_QQ-1">
+          <mxGeometry x="360" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zpcbCFqt5Jl0KJasoNfs-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="PtFkMtIeyugs6DYwZ_QQ-1" source="-POLRUXvu1gzZpYFcy3s-29" target="-POLRUXvu1gzZpYFcy3s-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-POLRUXvu1gzZpYFcy3s-29" value="选择的产品模块和配置写入表aliyun_pricing_modlue" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="PtFkMtIeyugs6DYwZ_QQ-1">
+          <mxGeometry x="360" y="840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-POLRUXvu1gzZpYFcy3s-30" value="&lt;div style=&quot;text-align: left ; line-height: 1.75 ; font-size: 14px&quot;&gt;资源询价相关信息写入表price&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="PtFkMtIeyugs6DYwZ_QQ-1">
+          <mxGeometry x="360" y="960" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-POLRUXvu1gzZpYFcy3s-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="PtFkMtIeyugs6DYwZ_QQ-1" source="-POLRUXvu1gzZpYFcy3s-36" target="-POLRUXvu1gzZpYFcy3s-30">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="70" y="990" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-POLRUXvu1gzZpYFcy3s-36" value="手动录入资源的价格" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="PtFkMtIeyugs6DYwZ_QQ-1">
+          <mxGeometry x="10" y="449" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-POLRUXvu1gzZpYFcy3s-17" value="根据资源的productType和ProductCode&lt;br&gt;调用&lt;a href=&quot;https://help.aliyun.com/document_detail/96469.html&quot; target=&quot;_blank&quot; style=&quot;box-sizing: border-box ; padding: 0px ; margin: 0px ; background: 0px 0px rgb(255 , 255 , 255) ; color: rgb(255 , 106 , 0) ; transition: all 0.2s ease 0s ; outline: none ; font-size: 14px ; font-family: &amp;quot;pingfang sc&amp;quot; , &amp;quot;helvetica neue&amp;quot; , &amp;quot;arial&amp;quot; , &amp;quot;hiragino sans gb&amp;quot; , &amp;quot;microsoft yahei ui&amp;quot; , &amp;quot;microsoft yahei&amp;quot; , &amp;quot;simsun&amp;quot; , sans-serif&quot;&gt;查询产品模块信息&lt;/a&gt;接口，获取该产品的模块配置" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="PtFkMtIeyugs6DYwZ_QQ-1">
+          <mxGeometry x="355" y="310" width="130" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
