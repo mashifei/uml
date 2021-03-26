@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-26T08:38:45.862Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="kT903xehNbFgCeaNsiYx" version="14.5.1" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2021-03-26T08:40:14.121Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="WDfugMbRn2LRsIzyKACT" version="14.5.1" type="github" pages="7">
   <diagram name="资源管理" id="5348f1db-0dfa-24cf-5d06-2057accb5106">
     <mxGraphModel dx="1580" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -1424,8 +1424,8 @@
         <mxCell id="-POLRUXvu1gzZpYFcy3s-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="PtFkMtIeyugs6DYwZ_QQ-1" source="-POLRUXvu1gzZpYFcy3s-1" target="-POLRUXvu1gzZpYFcy3s-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-POLRUXvu1gzZpYFcy3s-1" value="升级询价" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="PtFkMtIeyugs6DYwZ_QQ-1">
-          <mxGeometry x="360" y="100" width="120" height="60" as="geometry" />
+        <mxCell id="-POLRUXvu1gzZpYFcy3s-1" value="录入购买周期" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="PtFkMtIeyugs6DYwZ_QQ-1">
+          <mxGeometry x="360" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-POLRUXvu1gzZpYFcy3s-3" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="PtFkMtIeyugs6DYwZ_QQ-1" source="-POLRUXvu1gzZpYFcy3s-4" target="-POLRUXvu1gzZpYFcy3s-36">
           <mxGeometry relative="1" as="geometry">
@@ -1489,6 +1489,12 @@
         <mxCell id="-POLRUXvu1gzZpYFcy3s-17" value="根据资源的productType和ProductCode&lt;br&gt;调用&lt;a href=&quot;https://help.aliyun.com/document_detail/96469.html&quot; target=&quot;_blank&quot; style=&quot;box-sizing: border-box ; padding: 0px ; margin: 0px ; background: 0px 0px rgb(255 , 255 , 255) ; color: rgb(255 , 106 , 0) ; transition: all 0.2s ease 0s ; outline: none ; font-size: 14px ; font-family: &amp;quot;pingfang sc&amp;quot; , &amp;quot;helvetica neue&amp;quot; , &amp;quot;arial&amp;quot; , &amp;quot;hiragino sans gb&amp;quot; , &amp;quot;microsoft yahei ui&amp;quot; , &amp;quot;microsoft yahei&amp;quot; , &amp;quot;simsun&amp;quot; , sans-serif&quot;&gt;查询产品模块信息&lt;/a&gt;接口，获取该产品的模块配置" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="PtFkMtIeyugs6DYwZ_QQ-1">
           <mxGeometry x="355" y="310" width="130" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="kLvswykuCxiTQzs5-HOX-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="PtFkMtIeyugs6DYwZ_QQ-1" source="kLvswykuCxiTQzs5-HOX-0" target="-POLRUXvu1gzZpYFcy3s-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kLvswykuCxiTQzs5-HOX-0" value="升级询价" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="PtFkMtIeyugs6DYwZ_QQ-1">
+          <mxGeometry x="360" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -1500,7 +1506,7 @@
         <mxCell id="rvGZUwEn-JJ8Lefyn7xs-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="2JVTKx-ACS6dqLpuL1U7-1" source="rvGZUwEn-JJ8Lefyn7xs-1" target="rvGZUwEn-JJ8Lefyn7xs-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rvGZUwEn-JJ8Lefyn7xs-1" value="新购询价" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="2JVTKx-ACS6dqLpuL1U7-1">
+        <mxCell id="rvGZUwEn-JJ8Lefyn7xs-1" value="录入购买周期" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="2JVTKx-ACS6dqLpuL1U7-1">
           <mxGeometry x="360" y="100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rvGZUwEn-JJ8Lefyn7xs-2" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="2JVTKx-ACS6dqLpuL1U7-1" source="rvGZUwEn-JJ8Lefyn7xs-4" target="rvGZUwEn-JJ8Lefyn7xs-18">
@@ -1564,6 +1570,12 @@
         </mxCell>
         <mxCell id="rvGZUwEn-JJ8Lefyn7xs-19" value="根据资源的productType和ProductCode&lt;br&gt;调用&lt;a href=&quot;https://help.aliyun.com/document_detail/96469.html&quot; target=&quot;_blank&quot; style=&quot;box-sizing: border-box ; padding: 0px ; margin: 0px ; background: 0px 0px rgb(255 , 255 , 255) ; color: rgb(255 , 106 , 0) ; transition: all 0.2s ease 0s ; outline: none ; font-size: 14px ; font-family: &amp;quot;pingfang sc&amp;quot; , &amp;quot;helvetica neue&amp;quot; , &amp;quot;arial&amp;quot; , &amp;quot;hiragino sans gb&amp;quot; , &amp;quot;microsoft yahei ui&amp;quot; , &amp;quot;microsoft yahei&amp;quot; , &amp;quot;simsun&amp;quot; , sans-serif&quot;&gt;查询产品模块信息&lt;/a&gt;接口，获取该产品的模块配置" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="2JVTKx-ACS6dqLpuL1U7-1">
           <mxGeometry x="355" y="310" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="xQJ8c76LoZcjlqvM8r1O-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="2JVTKx-ACS6dqLpuL1U7-1" source="xQJ8c76LoZcjlqvM8r1O-0" target="rvGZUwEn-JJ8Lefyn7xs-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xQJ8c76LoZcjlqvM8r1O-0" value="新购询价" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="2JVTKx-ACS6dqLpuL1U7-1">
+          <mxGeometry x="360" y="10" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
