@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-29T07:59:26.175Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="kHR70H2tb1a9PQkPz_gU" version="14.5.1" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2021-03-29T08:00:36.762Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="r8dwAPQEEs6qDA4zY5xv" version="14.5.1" type="github" pages="10">
   <diagram name="资源管理" id="5348f1db-0dfa-24cf-5d06-2057accb5106">
     <mxGraphModel dx="1662" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -1078,7 +1078,7 @@
         <mxCell id="SVM8H9x7N09GHl_-MmZx-57" value="导出Excel" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=14;spacing=5;rounded=0;sketch=0;" parent="SVM8H9x7N09GHl_-MmZx-1" vertex="1">
           <mxGeometry x="800" y="150" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qfINvgjI0aNYiVz0C4FU-0" value="同步账单类型" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=14;spacing=5;rounded=0;sketch=0;" vertex="1" parent="SVM8H9x7N09GHl_-MmZx-1">
+        <mxCell id="qfINvgjI0aNYiVz0C4FU-0" value="同步账单详情" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=14;spacing=5;rounded=0;sketch=0;" vertex="1" parent="SVM8H9x7N09GHl_-MmZx-1">
           <mxGeometry x="560" y="150" width="92.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UyM6KRgBXF0OGH1_5_DU-3" value="选择" style="rounded=0;whiteSpace=wrap;html=1;arcSize=50;strokeColor=none;strokeWidth=1;fontColor=#000000;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=10;fillColor=#DFE0E0;" vertex="1" parent="SVM8H9x7N09GHl_-MmZx-1">
@@ -1655,7 +1655,7 @@
         <mxCell id="IBR5-hetX6HFRZki0Liu-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="JXwLqTWcVspxLPkSjNv--1" source="JXwLqTWcVspxLPkSjNv--2" target="CGxVEYlYeIBTfe37Fz0o-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JXwLqTWcVspxLPkSjNv--2" value="同步账单类型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="JXwLqTWcVspxLPkSjNv--1">
+        <mxCell id="JXwLqTWcVspxLPkSjNv--2" value="同步账单详细" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="JXwLqTWcVspxLPkSjNv--1">
           <mxGeometry x="330" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IBR5-hetX6HFRZki0Liu-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="JXwLqTWcVspxLPkSjNv--1" source="CGxVEYlYeIBTfe37Fz0o-0" target="IBR5-hetX6HFRZki0Liu-1">
