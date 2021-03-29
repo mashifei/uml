@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-29T07:46:09.425Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="cmiOVQO3hovULoDt6fqN" version="14.5.1" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2021-03-29T07:59:26.175Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="kHR70H2tb1a9PQkPz_gU" version="14.5.1" type="github" pages="10">
   <diagram name="资源管理" id="5348f1db-0dfa-24cf-5d06-2057accb5106">
     <mxGraphModel dx="1662" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -1664,7 +1664,7 @@
         <mxCell id="CGxVEYlYeIBTfe37Fz0o-0" value="调用订单详细查询服务接口:&lt;br&gt;阿里云交易和账单管理API &amp;gt; 订单域 &amp;gt; 订单详情查询服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="JXwLqTWcVspxLPkSjNv--1">
           <mxGeometry x="320" y="230" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="IBR5-hetX6HFRZki0Liu-1" value="update aliyun_bill set recordType= 续费/新购/升级/退款" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="JXwLqTWcVspxLPkSjNv--1">
+        <mxCell id="IBR5-hetX6HFRZki0Liu-1" value="更新账单表aliyun_bill对应的账单类型（recordType）和配置（config）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="JXwLqTWcVspxLPkSjNv--1">
           <mxGeometry x="330" y="360" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
@@ -1677,14 +1677,66 @@
         <mxCell id="DHX3BKpEqkzRQVsXnwxk-1" parent="DHX3BKpEqkzRQVsXnwxk-0" />
         <mxCell id="m6pTNBCFq0iWNcwMEw9D-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="DHX3BKpEqkzRQVsXnwxk-1" source="DHX3BKpEqkzRQVsXnwxk-2" edge="1" target="5UqZJJkXt5Gu8SomXH-4-0">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="390" y="200" as="targetPoint" />
+            <mxPoint x="450" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DHX3BKpEqkzRQVsXnwxk-2" value="匹配预估价" style="rounded=1;whiteSpace=wrap;html=1;" parent="DHX3BKpEqkzRQVsXnwxk-1" vertex="1">
-          <mxGeometry x="330" y="70" width="120" height="60" as="geometry" />
+          <mxGeometry x="390" y="70" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5UqZJJkXt5Gu8SomXH-4-0" value="通过bill表中的instanceId匹配" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="DHX3BKpEqkzRQVsXnwxk-1">
-          <mxGeometry x="330" y="190" width="120" height="60" as="geometry" />
+        <mxCell id="2XicHxfVlL_QIaY0UrwA-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="DHX3BKpEqkzRQVsXnwxk-1" source="5UqZJJkXt5Gu8SomXH-4-0" target="2XicHxfVlL_QIaY0UrwA-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5UqZJJkXt5Gu8SomXH-4-0" value="通过instanceId&lt;br&gt;匹配账单表（aliyun_bill）和询价预算表（price）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="DHX3BKpEqkzRQVsXnwxk-1">
+          <mxGeometry x="390" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2XicHxfVlL_QIaY0UrwA-4" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="DHX3BKpEqkzRQVsXnwxk-1" source="2XicHxfVlL_QIaY0UrwA-0" target="2XicHxfVlL_QIaY0UrwA-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2XicHxfVlL_QIaY0UrwA-9" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="DHX3BKpEqkzRQVsXnwxk-1" source="2XicHxfVlL_QIaY0UrwA-0" target="2XicHxfVlL_QIaY0UrwA-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2XicHxfVlL_QIaY0UrwA-0" value="是否能匹配到改实例的询价记录" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="DHX3BKpEqkzRQVsXnwxk-1">
+          <mxGeometry x="390" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2XicHxfVlL_QIaY0UrwA-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="DHX3BKpEqkzRQVsXnwxk-1" source="2XicHxfVlL_QIaY0UrwA-3" target="2XicHxfVlL_QIaY0UrwA-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2XicHxfVlL_QIaY0UrwA-3" value="从price表中找距离当前最近的一次询价" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="DHX3BKpEqkzRQVsXnwxk-1">
+          <mxGeometry x="390" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2XicHxfVlL_QIaY0UrwA-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="DHX3BKpEqkzRQVsXnwxk-1" source="2XicHxfVlL_QIaY0UrwA-6" target="2XicHxfVlL_QIaY0UrwA-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2XicHxfVlL_QIaY0UrwA-6" value="取出询价金额作为预估金额" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="DHX3BKpEqkzRQVsXnwxk-1">
+          <mxGeometry x="390" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2XicHxfVlL_QIaY0UrwA-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="DHX3BKpEqkzRQVsXnwxk-1" source="2XicHxfVlL_QIaY0UrwA-8" target="2XicHxfVlL_QIaY0UrwA-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="210" y="570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2XicHxfVlL_QIaY0UrwA-11" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2XicHxfVlL_QIaY0UrwA-10">
+          <mxGeometry x="0.3641" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2XicHxfVlL_QIaY0UrwA-13" value="否&lt;br&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="DHX3BKpEqkzRQVsXnwxk-1" source="2XicHxfVlL_QIaY0UrwA-8" target="2XicHxfVlL_QIaY0UrwA-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="90" y="330" />
+              <mxPoint x="90" y="680" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2XicHxfVlL_QIaY0UrwA-8" value="bill.config的内容与aliyun_pricing_module.config是否匹配一致" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="DHX3BKpEqkzRQVsXnwxk-1">
+          <mxGeometry x="140" y="300" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2XicHxfVlL_QIaY0UrwA-12" value="结束" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="DHX3BKpEqkzRQVsXnwxk-1">
+          <mxGeometry x="390" y="650" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
