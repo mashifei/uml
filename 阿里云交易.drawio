@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-29T05:54:46.999Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="Ir-GZRKz6p_BCM2khH4H" version="14.5.1" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2021-03-29T07:46:09.425Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="cmiOVQO3hovULoDt6fqN" version="14.5.1" type="github" pages="10">
   <diagram name="资源管理" id="5348f1db-0dfa-24cf-5d06-2057accb5106">
     <mxGraphModel dx="1662" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -1572,7 +1572,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="VGkLixoXqh88b5HPLITt" name="账单查询">
+  <diagram id="VGkLixoXqh88b5HPLITt" name="账单同步查询">
     <mxGraphModel dx="1422" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="HrTTYWbrdoODbtuh2A-G-0" />
@@ -1652,8 +1652,20 @@
       <root>
         <mxCell id="JXwLqTWcVspxLPkSjNv--0" />
         <mxCell id="JXwLqTWcVspxLPkSjNv--1" parent="JXwLqTWcVspxLPkSjNv--0" />
+        <mxCell id="IBR5-hetX6HFRZki0Liu-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="JXwLqTWcVspxLPkSjNv--1" source="JXwLqTWcVspxLPkSjNv--2" target="CGxVEYlYeIBTfe37Fz0o-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="JXwLqTWcVspxLPkSjNv--2" value="同步账单类型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="JXwLqTWcVspxLPkSjNv--1">
           <mxGeometry x="330" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IBR5-hetX6HFRZki0Liu-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="JXwLqTWcVspxLPkSjNv--1" source="CGxVEYlYeIBTfe37Fz0o-0" target="IBR5-hetX6HFRZki0Liu-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CGxVEYlYeIBTfe37Fz0o-0" value="调用订单详细查询服务接口:&lt;br&gt;阿里云交易和账单管理API &amp;gt; 订单域 &amp;gt; 订单详情查询服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="JXwLqTWcVspxLPkSjNv--1">
+          <mxGeometry x="320" y="230" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="IBR5-hetX6HFRZki0Liu-1" value="update aliyun_bill set recordType= 续费/新购/升级/退款" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="JXwLqTWcVspxLPkSjNv--1">
+          <mxGeometry x="330" y="360" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
