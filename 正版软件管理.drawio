@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-09T07:03:00.118Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="fh0iXQONOSEzXUqcuwvS" version="14.8.5" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2021-07-09T07:04:05.862Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="_FMjmjvJo8sZtMgckKeV" version="14.8.5" type="github" pages="10">
   <diagram id="fpa2SziavpbdTfdcneHl" name="客户端">
     <mxGraphModel dx="1422" dy="828" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2867,7 +2867,7 @@
             <mxPoint y="50" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="H3fscMom-E_nEn4_HG_h-4" value="软件使用详情表" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.rrect;rSize=0;fontSize=17;fontStyle=1;resizeWidth=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="H3fscMom-E_nEn4_HG_h-2">
+        <mxCell id="H3fscMom-E_nEn4_HG_h-4" value="软件使用明细表" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.rrect;rSize=0;fontSize=17;fontStyle=1;resizeWidth=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="H3fscMom-E_nEn4_HG_h-2">
           <mxGeometry width="120" height="50" relative="1" as="geometry">
             <mxPoint y="100" as="offset" />
           </mxGeometry>
@@ -2883,7 +2883,7 @@
         <mxCell id="H3fscMom-E_nEn4_HG_h-7" value="使用人（可多选、全选）" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;sketch=0;fontSize=14;opacity=60;align=left;" vertex="1" parent="1wjx14WHrp-FHmiKaEi0-1">
           <mxGeometry x="239.5" y="887.75" width="178.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="H3fscMom-E_nEn4_HG_h-8" value="软件使用详情表" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=0;fontSize=14;fontColor=#000000;opacity=20;fontStyle=1" vertex="1" parent="1wjx14WHrp-FHmiKaEi0-1">
+        <mxCell id="H3fscMom-E_nEn4_HG_h-8" value="软件使用明细表" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=0;fontSize=14;fontColor=#000000;opacity=20;fontStyle=1" vertex="1" parent="1wjx14WHrp-FHmiKaEi0-1">
           <mxGeometry x="229.5" y="816.5" width="137.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="H3fscMom-E_nEn4_HG_h-10" value="LOGO" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3399FF;gradientColor=none;fontSize=12;fontColor=#FFFFFF;align=center;" vertex="1" parent="1wjx14WHrp-FHmiKaEi0-1">
