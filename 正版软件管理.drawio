@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-09T07:02:44.239Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="7kbIULwWAdAqfdo2B_rb" version="14.8.5" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2021-07-09T07:03:00.118Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="fh0iXQONOSEzXUqcuwvS" version="14.8.5" type="github" pages="10">
   <diagram id="fpa2SziavpbdTfdcneHl" name="客户端">
     <mxGraphModel dx="1422" dy="828" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2910,7 +2910,7 @@
         <mxCell id="H3fscMom-E_nEn4_HG_h-23" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;sketch=0;fillColor=#f5f5f5;fontSize=14;fontColor=#333333;strokeColor=none;" vertex="1" parent="1wjx14WHrp-FHmiKaEi0-1">
           <mxGeometry x="249.5" y="938.25" width="1005.5" height="35.75" as="geometry" />
         </mxCell>
-        <mxCell id="H3fscMom-E_nEn4_HG_h-24" value="软件分类名称" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=0;fontSize=14;" vertex="1" parent="1wjx14WHrp-FHmiKaEi0-1">
+        <mxCell id="H3fscMom-E_nEn4_HG_h-24" value="软件名称" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=0;fontSize=14;" vertex="1" parent="1wjx14WHrp-FHmiKaEi0-1">
           <mxGeometry x="285.29999999999995" y="946.08" width="117.58" height="20.03" as="geometry" />
         </mxCell>
         <mxCell id="H3fscMom-E_nEn4_HG_h-25" value="" style="line;strokeWidth=2;html=1;shadow=0;sketch=0;fillColor=none;fontSize=14;opacity=30;" vertex="1" parent="1wjx14WHrp-FHmiKaEi0-1">
