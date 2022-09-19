@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-19T07:07:44.373Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="q_W6Tm0ZealcBagCpst4" version="20.3.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-09-19T07:32:35.766Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="WzKT6EsU36qPj75idKQf" version="20.3.0" type="github" pages="3">
   <diagram id="zKQUjX-WyqfGB3lvkIPg" name="第 1 页">
     <mxGraphModel dx="1422" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -184,7 +184,7 @@
         <mxCell id="L_Ru3bllDBfx2HvgcXNk-2" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="L_Ru3bllDBfx2HvgcXNk-23">
           <mxGeometry x="85.55220993245553" y="76.19047619047618" width="231.16527835439933" height="231.16527835439933" as="geometry" />
         </mxCell>
-        <mxCell id="L_Ru3bllDBfx2HvgcXNk-3" value="外用强体" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=20;" vertex="1" parent="L_Ru3bllDBfx2HvgcXNk-23">
+        <mxCell id="L_Ru3bllDBfx2HvgcXNk-3" value="外用养身" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=20;" vertex="1" parent="L_Ru3bllDBfx2HvgcXNk-23">
           <mxGeometry x="146.2770466274015" y="9.523809523809522" width="95.70789243123338" height="28.57142857142857" as="geometry" />
         </mxCell>
         <mxCell id="L_Ru3bllDBfx2HvgcXNk-4" value="内服养心" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=20;" vertex="1" parent="L_Ru3bllDBfx2HvgcXNk-23">
