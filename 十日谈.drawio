@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-19T03:28:52.720Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="LEzJlTVucI_jKK4vGpLl" version="20.3.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-09-19T03:35:01.840Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="8KgNgfZvCY15ns45E_vu" version="20.3.0" type="github" pages="2">
   <diagram id="zKQUjX-WyqfGB3lvkIPg" name="第 1 页">
     <mxGraphModel dx="782" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -100,10 +100,10 @@
           <mxGeometry x="150" y="390" width="260" height="260" as="geometry" />
         </mxCell>
         <mxCell id="iUxnVzqD_60CrnqgzpHa-4" value="外驱" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="262" y="320" width="60" height="30" as="geometry" />
+          <mxGeometry x="243" y="320" width="98" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iUxnVzqD_60CrnqgzpHa-5" value="内驱" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="262" y="400" width="60" height="30" as="geometry" />
+          <mxGeometry x="243" y="400" width="98" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iUxnVzqD_60CrnqgzpHa-6" value="为了提升价值感 (自尊)&lt;br&gt;&lt;br&gt;为了增强归属感(亲情/爱情/友情)&lt;br&gt;&lt;br&gt;为了增强安全感&lt;br&gt;&lt;br&gt;为了自我掌控感(自主/自由)&lt;br&gt;&lt;br&gt;被同情心激发（爱人）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;horizontal=1;spacingTop=5;spacing=4;spacingLeft=2;" vertex="1" parent="1">
           <mxGeometry x="194" y="440" width="196" height="130" as="geometry" />
@@ -126,7 +126,7 @@
         <mxCell id="iUxnVzqD_60CrnqgzpHa-16" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="910" y="390" width="260" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="iUxnVzqD_60CrnqgzpHa-17" value="获得外用" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="iUxnVzqD_60CrnqgzpHa-17" value="外用物" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1022" y="320" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iUxnVzqD_60CrnqgzpHa-18" value="获得内用" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
@@ -153,7 +153,7 @@
             <mxPoint x="720" y="514.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iUxnVzqD_60CrnqgzpHa-27" value="行动" style="edgeLabel;html=1;align=left;verticalAlign=bottom;resizable=0;points=[];fontSize=20;" vertex="1" connectable="0" parent="iUxnVzqD_60CrnqgzpHa-24">
+        <mxCell id="iUxnVzqD_60CrnqgzpHa-27" value="获得" style="edgeLabel;html=1;align=left;verticalAlign=bottom;resizable=0;points=[];fontSize=20;" vertex="1" connectable="0" parent="iUxnVzqD_60CrnqgzpHa-24">
           <mxGeometry x="-0.2667" y="7" relative="1" as="geometry">
             <mxPoint y="1" as="offset" />
           </mxGeometry>
