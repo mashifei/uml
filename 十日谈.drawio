@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-19T06:54:02.315Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="9YktiMUDWRd0wfgZHF-d" version="20.3.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-09-19T06:58:01.606Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="37wOeH4GUpWiKzUAm4cZ" version="20.3.0" type="github" pages="3">
   <diagram id="zKQUjX-WyqfGB3lvkIPg" name="第 1 页">
     <mxGraphModel dx="782" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -185,13 +185,13 @@
           <mxGeometry x="85.55220993245553" y="76.19047619047618" width="231.16527835439933" height="231.16527835439933" as="geometry" />
         </mxCell>
         <mxCell id="L_Ru3bllDBfx2HvgcXNk-3" value="外用" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=20;" vertex="1" parent="L_Ru3bllDBfx2HvgcXNk-23">
-          <mxGeometry x="176.37704662740148" y="9.523809523809522" width="95.70789243123338" height="28.57142857142857" as="geometry" />
+          <mxGeometry x="146.2770466274015" y="9.523809523809522" width="95.70789243123338" height="28.57142857142857" as="geometry" />
         </mxCell>
         <mxCell id="L_Ru3bllDBfx2HvgcXNk-4" value="内服" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=20;" vertex="1" parent="L_Ru3bllDBfx2HvgcXNk-23">
           <mxGeometry x="153.2770466274015" y="85.71428571428571" width="95.70789243123338" height="28.57142857142857" as="geometry" />
         </mxCell>
-        <mxCell id="L_Ru3bllDBfx2HvgcXNk-5" value="为了提升价值感 (自尊)&lt;br&gt;&lt;br&gt;为了增强归属感(亲情/爱情/友情)&lt;br&gt;&lt;br&gt;为了增强安全感&lt;br&gt;&lt;br&gt;为了自我掌控感(自主/自由)&lt;br&gt;&lt;br&gt;被同情心激发（爱人）" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;horizontal=1;spacingTop=5;spacing=4;spacingLeft=2;" vertex="1" parent="L_Ru3bllDBfx2HvgcXNk-23">
-          <mxGeometry x="128.52310041178478" y="123.8095238095238" width="191.41578486246675" height="123.8095238095238" as="geometry" />
+        <mxCell id="L_Ru3bllDBfx2HvgcXNk-5" value="&lt;br&gt;&lt;br&gt;被同情心激发（爱人）- 仁&lt;br&gt;&lt;br&gt;为了提升价值感 (自尊) - 义&lt;br&gt;&lt;br&gt;为了增强归属感(亲情/爱情/友情) -礼&lt;br&gt;&lt;br&gt;为了增强安全感 - 信&lt;br&gt;&lt;br&gt;为了自我掌控感(自主/自由)&amp;nbsp;&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;horizontal=1;spacingTop=5;spacing=4;spacingLeft=2;" vertex="1" parent="L_Ru3bllDBfx2HvgcXNk-23">
+          <mxGeometry x="104.66" y="114.29" width="219.94" height="127.62" as="geometry" />
         </mxCell>
         <mxCell id="L_Ru3bllDBfx2HvgcXNk-6" value="为了成就(功)&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;horizontal=1;flipH=1;flipV=1;direction=east;rotation=-65;" vertex="1" parent="L_Ru3bllDBfx2HvgcXNk-23">
           <mxGeometry x="-2.342793320717958" y="123.8095238095238" width="107.00728340500248" height="61.43809523809524" as="geometry" />
@@ -200,7 +200,7 @@
           <mxGeometry x="77.60220993245552" y="47.62285714285714" width="126.95944914347287" height="28.57142857142857" as="geometry" />
         </mxCell>
         <mxCell id="L_Ru3bllDBfx2HvgcXNk-8" value="为了财富（利)&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;rotation=45;" vertex="1" parent="L_Ru3bllDBfx2HvgcXNk-23">
-          <mxGeometry x="261.34221643880255" y="76.19047619047618" width="126.95944914347287" height="28.57142857142857" as="geometry" />
+          <mxGeometry x="248.98221643880254" y="76.19047619047618" width="126.95944914347287" height="28.57142857142857" as="geometry" />
         </mxCell>
         <mxCell id="L_Ru3bllDBfx2HvgcXNk-9" value="为了活得久(禄)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;rotation=75;" vertex="1" parent="L_Ru3bllDBfx2HvgcXNk-23">
           <mxGeometry x="287.59888527425164" y="185.25238095238092" width="126.95944914347287" height="28.57142857142857" as="geometry" />
@@ -208,7 +208,7 @@
         <mxCell id="L_Ru3bllDBfx2HvgcXNk-24" value="" style="group;fontSize=19;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-873.0000000000001" y="430" width="350.6" height="380" as="geometry" />
         </mxCell>
-        <mxCell id="L_Ru3bllDBfx2HvgcXNk-10" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;align=left;" vertex="1" parent="L_Ru3bllDBfx2HvgcXNk-24">
+        <mxCell id="L_Ru3bllDBfx2HvgcXNk-10" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;align=left;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="L_Ru3bllDBfx2HvgcXNk-24">
           <mxGeometry x="0.5010575555578008" width="350.09894244444223" height="350.09894244444223" as="geometry" />
         </mxCell>
         <mxCell id="L_Ru3bllDBfx2HvgcXNk-11" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="L_Ru3bllDBfx2HvgcXNk-24">
