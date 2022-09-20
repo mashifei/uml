@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-19T14:31:53.658Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="TbXkeaHajoCQbzVdfyZv" version="20.3.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-09-20T01:58:59.137Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="NETgRnDJNhtL0AluvL-N" version="20.3.3" type="github" pages="3">
   <diagram id="zKQUjX-WyqfGB3lvkIPg" name="第 1 页">
-    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="782" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -22,10 +22,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ssKkcry0jvocZaCQyeUG-10" value="&lt;div style=&quot;text-align: left; line-height: 1.75; font-size: 14px;&quot;&gt;大局观、付出、信任、三观正、勇于决断、共情、责任和担当 、不畏困难&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="ssKkcry0jvocZaCQyeUG-10" value="&lt;div style=&quot;text-align: left; line-height: 1.75; font-size: 14px;&quot;&gt;大局观、有情商、付出、信任、三观正、勇于决断、共情、责任和担当 、不畏困难&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="217.5" y="520" width="230" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ssKkcry0jvocZaCQyeUG-11" value="&lt;div style=&quot;text-align: left; line-height: 1.75; font-size: 14px;&quot;&gt;学习能力、总结能力、扎实的专业能力、有情商、构建系统的能力&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="ssKkcry0jvocZaCQyeUG-11" value="&lt;div style=&quot;text-align: left; line-height: 1.75; font-size: 14px;&quot;&gt;学习能力、总结能力、扎实的专业能力、构建系统的能力&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="222.5" y="440" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ssKkcry0jvocZaCQyeUG-12" value="&lt;div style=&quot;text-align: left; line-height: 1.75; font-size: 14px;&quot;&gt;感召力、知行合一、赏罚分明、协调能力、组织能力、人才培养、执行力&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
