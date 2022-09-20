@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-20T01:58:59.137Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="NETgRnDJNhtL0AluvL-N" version="20.3.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-09-20T02:20:26.746Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="KRjCDquZa_AzeFrkt2sA" version="20.3.3" type="github" pages="4">
   <diagram id="zKQUjX-WyqfGB3lvkIPg" name="第 1 页">
     <mxGraphModel dx="782" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -168,7 +168,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="cgTMIaqABvfnYE-RTPSR" name="第 3 页">
-    <mxGraphModel dx="3076" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2436" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -241,6 +241,50 @@
           <mxGeometry x="0.1571" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Ju5ZzQF6Do_XQ1RfYaw3" name="第 4 页">
+    <mxGraphModel dx="782" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-LoqDcvV9hS3MINy8RyY-2" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="250" as="sourcePoint" />
+            <mxPoint x="580" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-LoqDcvV9hS3MINy8RyY-3" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="410" as="sourcePoint" />
+            <mxPoint x="380" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-LoqDcvV9hS3MINy8RyY-4" value="有蓝图愿景" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="348" y="40" width="66" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-LoqDcvV9hS3MINy8RyY-5" value="无蓝图愿景" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="348" y="420" width="66" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-LoqDcvV9hS3MINy8RyY-6" value="无黑图愿景" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="130" y="240" width="66" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-LoqDcvV9hS3MINy8RyY-7" value="有黑图愿景" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="600" y="230" width="66" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-LoqDcvV9hS3MINy8RyY-8" value="激情进取且有危机忧患意识" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="120" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="-LoqDcvV9hS3MINy8RyY-9" value="激情进取，但会盲目乐观" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="120" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="-LoqDcvV9hS3MINy8RyY-10" value="没有激情，充满悲观，做事感觉累" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="300" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="-LoqDcvV9hS3MINy8RyY-11" value="浑浑噩噩" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="290" width="100" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
