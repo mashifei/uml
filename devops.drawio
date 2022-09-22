@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-22T06:35:22.194Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="3Bv1AaBzDgItb-KNXHMq" version="20.3.3" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-09-22T06:35:47.877Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="9wXT52avJMMhK7ycdNr-" version="20.3.3" type="github" pages="6">
   <diagram id="htmeLqwJ6XCEHbkCq5V3" name="ETCP">
     <mxGraphModel dx="1662" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -395,7 +395,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="gFnUPXPtEBFFPaZdCY6_" name="营销短信平台接口">
-    <mxGraphModel dx="1662" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="DFWdYMsiaJccO74qtto7-0" />
         <mxCell id="DFWdYMsiaJccO74qtto7-1" parent="DFWdYMsiaJccO74qtto7-0" />
@@ -417,7 +417,7 @@
         <mxCell id="DFWdYMsiaJccO74qtto7-4" value="ERP客户&lt;br&gt;短信增值模块" style="html=1;rounded=0;shadow=0;glass=0;comic=0;" parent="DFWdYMsiaJccO74qtto7-1" vertex="1">
           <mxGeometry x="190" y="310" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="DFWdYMsiaJccO74qtto7-5" value="供应商短信系统接口" style="html=1;rounded=0;shadow=0;glass=0;comic=0;" parent="DFWdYMsiaJccO74qtto7-1" vertex="1">
+        <mxCell id="DFWdYMsiaJccO74qtto7-5" value="提供商短信系统接口" style="html=1;rounded=0;shadow=0;glass=0;comic=0;" parent="DFWdYMsiaJccO74qtto7-1" vertex="1">
           <mxGeometry x="190" y="550" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="4DNeg-_DK3da-7NKDDYb-0" value="营销短信接口" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;comic=0;fontStyle=1" parent="DFWdYMsiaJccO74qtto7-1" vertex="1">
@@ -818,7 +818,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="tC0XVX3kvjvWmt3dT-y6" name="升级实施方案">
-    <mxGraphModel dx="2489" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2249" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="IXB0yiU1MSXHxFtlzt5t-0" />
         <mxCell id="IXB0yiU1MSXHxFtlzt5t-1" parent="IXB0yiU1MSXHxFtlzt5t-0" />
