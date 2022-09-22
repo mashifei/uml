@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-22T06:31:09.242Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="OvObAj1ovKr_JqRwDjzJ" version="20.3.3" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-09-22T06:31:17.853Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="hVmFT8XoWTuv2eEd1MAL" version="20.3.3" type="github" pages="6">
   <diagram id="htmeLqwJ6XCEHbkCq5V3" name="ETCP">
     <mxGraphModel dx="1662" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -118,7 +118,7 @@
           <mxGeometry x="20" y="397.5" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="K_YEggPM4aeHbvqHOX8R-21" value="对外接口/SDK" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="80" y="270" width="80" height="20" as="geometry" />
+          <mxGeometry x="20" y="270" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ktv5Dk--J9mmadSsyUNn-2" value="产品" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="20" y="70" width="90" height="20" as="geometry" />
