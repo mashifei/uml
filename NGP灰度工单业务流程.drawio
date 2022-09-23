@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-23T09:26:56.361Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="WpYxDH07z36gCA9cV98x" version="20.3.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-23T09:28:16.206Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="HG0udmjpPkvFllIsKSxI" version="20.3.3" type="github">
   <diagram id="n53V0-UhPjgtem-jmb5G" name="第 1 页">
     <mxGraphModel dx="1431" dy="789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -431,13 +431,13 @@
         <mxCell id="-kGAtnwoqszsTnGILX-w-230" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="-kGAtnwoqszsTnGILX-w-130" source="-kGAtnwoqszsTnGILX-w-189" target="-kGAtnwoqszsTnGILX-w-144" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-kGAtnwoqszsTnGILX-w-189" value="轮询下发任务文件包的构建状态" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" parent="-kGAtnwoqszsTnGILX-w-130" vertex="1">
+        <mxCell id="-kGAtnwoqszsTnGILX-w-189" value="轮询下发任务文件包的构建状态" style="ellipse;;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" parent="-kGAtnwoqszsTnGILX-w-130" vertex="1">
           <mxGeometry x="185" y="129" width="110" height="51" as="geometry" />
         </mxCell>
         <mxCell id="-kGAtnwoqszsTnGILX-w-244" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="-kGAtnwoqszsTnGILX-w-130" source="-kGAtnwoqszsTnGILX-w-236" target="-kGAtnwoqszsTnGILX-w-240" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-kGAtnwoqszsTnGILX-w-236" value="轮询发版状态" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" parent="-kGAtnwoqszsTnGILX-w-130" vertex="1">
+        <mxCell id="-kGAtnwoqszsTnGILX-w-236" value="轮询发版状态" style="ellipse;;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" parent="-kGAtnwoqszsTnGILX-w-130" vertex="1">
           <mxGeometry x="185" y="400" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-kGAtnwoqszsTnGILX-w-241" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="-kGAtnwoqszsTnGILX-w-130" source="-kGAtnwoqszsTnGILX-w-240" target="-kGAtnwoqszsTnGILX-w-236" edge="1">
@@ -590,7 +590,7 @@
         <mxCell id="gG1rawxMJscciwoJlw1L-208" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=open;endFill=0;" edge="1" parent="gG1rawxMJscciwoJlw1L-144" source="gG1rawxMJscciwoJlw1L-158" target="gG1rawxMJscciwoJlw1L-159">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gG1rawxMJscciwoJlw1L-158" value="轮询发版任务状态" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="gG1rawxMJscciwoJlw1L-144">
+        <mxCell id="gG1rawxMJscciwoJlw1L-158" value="轮询发版任务状态" style="ellipse;;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="gG1rawxMJscciwoJlw1L-144">
           <mxGeometry x="252.5" y="218" width="115" height="45" as="geometry" />
         </mxCell>
         <mxCell id="gG1rawxMJscciwoJlw1L-209" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=open;endFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="gG1rawxMJscciwoJlw1L-144" source="gG1rawxMJscciwoJlw1L-159" target="gG1rawxMJscciwoJlw1L-158">
@@ -701,7 +701,7 @@
         <mxCell id="-kGAtnwoqszsTnGILX-w-201" value="" style="swimlane;startSize=20;horizontal=0;fillColor=none;gradientColor=none;swimlaneLine=0;" parent="-kGAtnwoqszsTnGILX-w-198" vertex="1">
           <mxGeometry y="600" width="390" height="670" as="geometry" />
         </mxCell>
-        <mxCell id="gG1rawxMJscciwoJlw1L-189" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=open;endFill=0;" edge="1" parent="-kGAtnwoqszsTnGILX-w-201" source="-kGAtnwoqszsTnGILX-w-211" target="-kGAtnwoqszsTnGILX-w-195">
+        <mxCell id="gG1rawxMJscciwoJlw1L-189" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=open;endFill=0;" edge="1" parent="-kGAtnwoqszsTnGILX-w-201" source="-kGAtnwoqszsTnGILX-w-211" target="-kGAtnwoqszsTnGILX-w-195">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-kGAtnwoqszsTnGILX-w-211" value="定时调度发版任务" style="ellipse;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" parent="-kGAtnwoqszsTnGILX-w-201" vertex="1">
@@ -728,8 +728,8 @@
         <mxCell id="-kGAtnwoqszsTnGILX-w-195" value="获取SETS表发版任务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;" parent="-kGAtnwoqszsTnGILX-w-201" vertex="1">
           <mxGeometry x="250" y="310" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="gG1rawxMJscciwoJlw1L-193" value="定时调度发版任务" style="ellipse;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="-kGAtnwoqszsTnGILX-w-201">
-          <mxGeometry x="40" y="305" width="110" height="60" as="geometry" />
+        <mxCell id="gG1rawxMJscciwoJlw1L-224" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.411;entryY=0.981;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=open;endFill=0;" edge="1" parent="-kGAtnwoqszsTnGILX-w-201" source="gG1rawxMJscciwoJlw1L-194" target="-kGAtnwoqszsTnGILX-w-211">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gG1rawxMJscciwoJlw1L-194" value="更新SETS表中的发版任务状态" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;" vertex="1" parent="-kGAtnwoqszsTnGILX-w-201">
           <mxGeometry x="40" y="400" width="110" height="50" as="geometry" />
@@ -779,11 +779,14 @@
         <mxCell id="gG1rawxMJscciwoJlw1L-203" value="获取SETS表发版任务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;" vertex="1" parent="gG1rawxMJscciwoJlw1L-146">
           <mxGeometry x="230" y="125" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="gG1rawxMJscciwoJlw1L-195" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=open;endFill=0;" edge="1" parent="gG1rawxMJscciwoJlw1L-146" source="gG1rawxMJscciwoJlw1L-196" target="gG1rawxMJscciwoJlw1L-203">
+        <mxCell id="gG1rawxMJscciwoJlw1L-195" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=open;endFill=0;" edge="1" parent="gG1rawxMJscciwoJlw1L-146" source="gG1rawxMJscciwoJlw1L-196" target="gG1rawxMJscciwoJlw1L-203">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gG1rawxMJscciwoJlw1L-204" value="定时调度发版任务" style="ellipse;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="gG1rawxMJscciwoJlw1L-146">
           <mxGeometry x="30" y="120" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gG1rawxMJscciwoJlw1L-225" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.402;entryY=1.009;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=open;endFill=0;" edge="1" parent="gG1rawxMJscciwoJlw1L-146" source="gG1rawxMJscciwoJlw1L-205" target="gG1rawxMJscciwoJlw1L-204">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gG1rawxMJscciwoJlw1L-205" value="更新SETS表中的发版任务状态" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;" vertex="1" parent="gG1rawxMJscciwoJlw1L-146">
           <mxGeometry x="20" y="215" width="110" height="50" as="geometry" />
