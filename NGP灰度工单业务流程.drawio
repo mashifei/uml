@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-23T03:07:16.340Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="bffehQIWx89ztXH2J8Bp" version="20.3.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-23T03:08:24.020Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="CTl5MUqJ0iMcKOfRZPJP" version="20.3.3" type="github">
   <diagram id="n53V0-UhPjgtem-jmb5G" name="第 1 页">
     <mxGraphModel dx="1503" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -171,6 +171,9 @@
         </mxCell>
         <mxCell id="-kGAtnwoqszsTnGILX-w-43" value="" style="swimlane;startSize=20;horizontal=0;fillColor=none;gradientColor=none;swimlaneLine=0;" parent="-kGAtnwoqszsTnGILX-w-40" vertex="1">
           <mxGeometry y="600" width="370" height="670" as="geometry" />
+        </mxCell>
+        <mxCell id="gG1rawxMJscciwoJlw1L-49" value="更新工单状态（成功或失败）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="-kGAtnwoqszsTnGILX-w-43">
+          <mxGeometry x="134" y="600" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-kGAtnwoqszsTnGILX-w-44" style="swimlane;startSize=20;horizontal=0;fillColor=none;gradientColor=none;swimlaneLine=0;" parent="-kGAtnwoqszsTnGILX-w-40" vertex="1">
           <mxGeometry y="1270" width="370" height="570" as="geometry">
@@ -355,7 +358,7 @@
         <mxCell id="-kGAtnwoqszsTnGILX-w-240" value="检查SETS表的发版任务状态是否已执行结束" style="rhombus;whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=1;fillColor=none;gradientColor=none;" parent="-kGAtnwoqszsTnGILX-w-130" vertex="1">
           <mxGeometry x="195" y="480" width="90" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="-kGAtnwoqszsTnGILX-w-242" value="发版完成&lt;br&gt;更新工单状态（成功或失败）" style="rounded=1;whiteSpace=wrap;html=1;" parent="-kGAtnwoqszsTnGILX-w-130" vertex="1">
+        <mxCell id="-kGAtnwoqszsTnGILX-w-242" value="发版执行完成" style="rounded=1;whiteSpace=wrap;html=1;" parent="-kGAtnwoqszsTnGILX-w-130" vertex="1">
           <mxGeometry x="185" y="600" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-kGAtnwoqszsTnGILX-w-131" style="swimlane;startSize=20;horizontal=0;fillColor=none;gradientColor=none;swimlaneLine=0;" parent="-kGAtnwoqszsTnGILX-w-119" vertex="1">
@@ -523,6 +526,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gG1rawxMJscciwoJlw1L-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gG1rawxMJscciwoJlw1L-39" target="gG1rawxMJscciwoJlw1L-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gG1rawxMJscciwoJlw1L-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-kGAtnwoqszsTnGILX-w-242" target="gG1rawxMJscciwoJlw1L-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
