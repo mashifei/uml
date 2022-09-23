@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-23T02:40:32.511Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="7J42NSDEFaoTB_OzyZJW" version="20.3.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-23T02:52:18.755Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="Uwjse0l0PdUesgKLJPdP" version="20.3.3" type="github">
   <diagram id="n53V0-UhPjgtem-jmb5G" name="第 1 页">
     <mxGraphModel dx="1503" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -84,6 +84,9 @@
         </mxCell>
         <mxCell id="-kGAtnwoqszsTnGILX-w-281" value="灰度上线" style="swimlane;startSize=20;horizontal=0;fillColor=none;gradientColor=none;fontStyle=0;fontSize=16;" parent="-kGAtnwoqszsTnGILX-w-26" vertex="1">
           <mxGeometry y="1970" width="370" height="590" as="geometry" />
+        </mxCell>
+        <mxCell id="gG1rawxMJscciwoJlw1L-27" value="开始复核" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#36393d;strokeWidth=1;fillColor=#cdeb8b;" vertex="1" parent="-kGAtnwoqszsTnGILX-w-281">
+          <mxGeometry x="80" y="40" width="87" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-kGAtnwoqszsTnGILX-w-282" value="回滚" style="swimlane;startSize=20;horizontal=0;fillColor=none;gradientColor=none;fontStyle=0;fontSize=16;" parent="-kGAtnwoqszsTnGILX-w-26" vertex="1">
           <mxGeometry y="2560" width="370" height="590" as="geometry" />
