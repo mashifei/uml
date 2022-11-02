@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-02T09:24:49.668Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="1jQ3yicTHVqup8L0n3VD" version="20.5.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-11-02T09:25:43.262Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="68qjTbBDrWUOPjkHO2iG" version="20.5.1" type="github" pages="4">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="活动图">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -153,7 +153,7 @@
         <mxCell id="sClH0AP_tNrb3wL9btBh-10" value="返回场景的页面配置" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" edge="1" parent="bC3ebh94NUWLR8tTx_zD-9" source="sClH0AP_tNrb3wL9btBh-5">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="126" y="310" as="sourcePoint" />
-            <mxPoint x="46" y="310" as="targetPoint" />
+            <mxPoint x="56" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="sClH0AP_tNrb3wL9btBh-18" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#FFFFFF;" vertex="1" parent="bC3ebh94NUWLR8tTx_zD-9">
@@ -163,7 +163,7 @@
           <mxGeometry x="45" y="290" width="10" height="95" as="geometry" />
         </mxCell>
         <mxCell id="UrJvHCDAVc0NGz06Tycd-1" value="Interaction1 heading" style="shape=umlFrame;tabWidth=110;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;labelInHeader=1;width=140;height=30;" vertex="1" parent="1">
-          <mxGeometry x="940" y="610" width="406" height="250" as="geometry" />
+          <mxGeometry x="70" y="620" width="720" height="300" as="geometry" />
         </mxCell>
         <mxCell id="UrJvHCDAVc0NGz06Tycd-2" value="[constraint1]" style="text" vertex="1" parent="UrJvHCDAVc0NGz06Tycd-1">
           <mxGeometry width="100" height="20" relative="1" as="geometry">
@@ -171,7 +171,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="UrJvHCDAVc0NGz06Tycd-3" value="[constraint2]" style="line;strokeWidth=1;dashed=1;labelPosition=center;verticalLabelPosition=bottom;align=left;verticalAlign=top;spacingLeft=20;spacingTop=15;" vertex="1" parent="UrJvHCDAVc0NGz06Tycd-1">
-          <mxGeometry y="125" width="406" height="10" as="geometry" />
+          <mxGeometry y="150" width="720" height="12" as="geometry" />
         </mxCell>
         <mxCell id="UrJvHCDAVc0NGz06Tycd-12" value="" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="840" y="70" width="50" height="460" as="geometry" />
